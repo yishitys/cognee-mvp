@@ -1,0 +1,32 @@
+[
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\saas_customer_churn\\raw\\test_.csv",
+    "rows": 500,
+    "columns": [
+      "Customer_ID",
+      "Name",
+      "Email",
+      "Account_Age_Days",
+      "Login_Frequency",
+      "Daily_Usage_Mins",
+      "Last_Support_Ticket",
+      "Churn"
+    ],
+    "encoding": "utf-8-sig"
+  },
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\saas_customer_churn\\raw\\train.csv",
+    "rows": 2000,
+    "columns": [
+      "Customer_ID",
+      "Name",
+      "Email",
+      "Account_Age_Days",
+      "Login_Frequency",
+      "Daily_Usage_Mins",
+      "Last_Support_Ticket",
+      "Churn"
+    ],
+    "encoding": "utf-8-sig"
+  }
+]

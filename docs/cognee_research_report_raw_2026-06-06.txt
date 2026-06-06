@@ -1,0 +1,506 @@
+ChatGPT
+
+
+
+
+
+
+
+
+
+
+
+
+浏览网页帮我研究一下cognee，我需要了解他们的宣传口径，他们公司内部自己认为的核心竞争力和产品方向，你的调研报告的目标是帮助我了解cognee公司的技术方向，我会在接下来的hackthon中使用cognee，能够更好的使用cognee是这个hackthon的核心竞争方向之一。hackthon内容如下：Here is the specific technical case for Cognee at M-Agents:
+
+Every team builds a multi-agent pipeline across five sequential tasks — data ingestion, classification, reconciliation, narrative generation, and a live interface demo. Without persistent memory, each agent starts from scratch. The context found in Task 1 is lost by Task 3. The behavioral baseline built in Task 2 has to be re-ingested for Task 4. Cognee fixes that in six lines of code: pip install cognee, await cognee.remember(), await cognee.recall(). Any team using it builds a fundamentally more capable pipeline than any team that doesn’t. The judges will see that difference. It’s not a marketing pitch — it’s a structural advantage.
+
+思考了 8m 51s
+Cognee 调研报告：面向 M-Agents hackathon 的技术使用策略
+0. 结论先行
+Cognee 的核心宣传不是“又一个 RAG 框架”，而是 Agent 的持久化记忆层 / memory control plane。官方首页把它定义为 “Open Source Memory Platform for Agents”，用于把关系型数据、文档和系统上下文转成可跨 session 召回的 agent memory，并且主张本地开源起步、再扩展到 Cognee Cloud。
+
+对你的 hackathon 来说，最重要的理解是：Cognee 的竞争点不是 pip install 本身，而是把五个 sequential tasks 之间原本会丢失的上下文，变成一个可查询、可演进、可被多个 agent 共用的长期记忆图谱。 官方自己的产品叙事是 “Capture → Model → Recall”：采集文件、数据库、API、chat logs 等来源；把原始数据建模成实体、关系、规则和 graph memory；再把这层 durable memory 暴露给 Claude Code、LangGraph、MCP client、自定义 runtime 等 agent 使用。
+
+我对他们“内部认为的核心竞争力”的判断是：Cognee 想把自己定位成 agent 时代的记忆基础设施，而不是一个单点检索工具。 这个定位由几件事支撑：graph + vector + relational 三层存储、remember / recall / improve / forget 高层 API、session memory 到 permanent graph 的桥接、自改进机制、MCP/LangGraph/OpenAI Agents 等集成，以及从本地 OSS 到 Cloud/On-Prem 的产品路径。
+
+1. Cognee 的官方宣传口径
+1.1 “The Brain behind your Agents”
+Cognee 在 GitHub README 里直接使用了 “The Brain behind your Agents” 作为定位，并称自己是 agent 的共享、可改进 memory，用于保存数据、决策和 workflow，让 agent 能够带着上下文 recall、connect、act。
+
+这句话背后的宣传逻辑是：
+LLM 本身没有长期稳定记忆，prompt window 会结束，chat history 不等于可治理的 memory。Cognee 要成为 prompt window 之后仍然存在的那层记忆。
+
+这和你提供的 hackathon case 高度一致：五个任务是 sequential 的，如果没有 persistent memory，Task 1 的发现无法自然影响 Task 3，Task 2 的 behavioral baseline 无法自然进入 Task 4。Cognee 的宣传正好把这个痛点包装成 “Everything agents need after the prompt window ends”。官方解释这层 memory 会保存 provenance、实体、关系、ontology、feedback，并为整个 agent stack 提供统一的共享 memory surface。
+
+1.2 “Capture, model, recall”
+Cognee 首页把产品流程概括为 Capture, model, recall。Capture 负责从文件、warehouse、vector store、API、chat log 等来源接入数据，并处理 parsing、chunking、embedding、provenance；Model 负责把原始数据转成 graph memory，抽取 entities、relationships、domain rules，让 agent 不只是找 nearest chunks，而是按 meaning 和 relationship 搜索；Recall 负责把同一份 durable memory 暴露给多种 agent runtime。
+
+这说明他们的官方话术重点不是“我们能 chunk 文档”，而是：
+
+数据进入 Cognee 后，会被结构化成 agent 可以长期使用的工作记忆。
+
+这对 hackathon 很关键。你不应该只把 Cognee 当作“文档问答插件”，而应该把每个 task 的中间产物都写入 Cognee：分类结果、冲突判断、reconciliation 决策、叙事生成依据、live demo 中用户的追问，都可以成为后续 agent 可 recall 的 memory。
+
+1.3 “Open-source locally, scale to Cloud / On-Prem”
+Cognee 的产品路径非常清晰：本地开源免费起步，开发者或团队可以上 Cognee Cloud，企业可以选择 On-Prem、security/isolation/SLA/FDE 等方案。官方 pricing 页面把免费开源、Developer、Cloud Team、On-Prem 企业版放在同一条路径里。
+
+这说明 Cognee 的商业方向不是单纯 SDK，而是：
+
+先用开源 SDK 抢开发者心智，再把生产级 memory layer 做成托管服务和企业私有化基础设施。
+
+对你在 hackathon 里的含义是：评委很可能期待看到的不只是“调用了两行 API”，而是你把 Cognee 当作系统架构里的 memory substrate。换句话说，demo 要体现“这个 pipeline 因为有 shared persistent memory，所以结构上更强”。
+
+2. Cognee 自认为的核心竞争力
+下面是基于官方首页、文档、README、技术博客和 benchmark 页面归纳出的判断。我会明确区分“官方明确写了什么”和“我基于这些材料的推断”。
+
+2.1 核心竞争力一：不是纯 vector RAG，而是 graph + vector + relational 的混合 memory
+官方架构文档说，没有单一数据库能处理 AI memory 的所有需求，因此 Cognee 组合了三类存储：relational store 保存文档、chunks、metadata、provenance；vector store 保存 embeddings 并支持语义相似度搜索；graph store 保存 entities、relationships 和结构化知识。Vector 和 graph 都用于 recall，hybrid search 可以同时获得语义相关性和结构化精度。
+
+这是 Cognee 区别于普通 RAG 的最核心技术叙事。普通 RAG 主要是“把相似 chunk 找回来”；Cognee 想说的是：
+
+Agent memory 需要知道事实之间的关系，而不只是知道哪段文本相似。
+
+他们的博客也在强调：vector similarity 有用但不够，因为很多长期知识问题需要知道多个文档是否指向同一个事件、实体或决策；Cognee 的 ECL 流程会 Extract entities/relationships，Cognify 成 graph，Load 到 graph DB 和 vector index。
+
+在 hackathon 里，这点可以直接转化为优势：
+Task 3 reconciliation 本质上就是实体、关系、冲突、重复、证据来源的结构化问题。用 Cognee 只做“相似文本检索”会浪费它的强项；应该让它帮你把 Task 1 和 Task 2 的发现变成可追踪的 graph memory，再在 Task 3 里查冲突、查关系、查 provenance。
+
+2.2 核心竞争力二：高层 API 很简单，但底层可调
+README 里把 v1 API 概括成四个主要操作：remember、recall、forget、improve。其中 remember 可以持久化存储，recall 会自动选择合适策略，session memory 可以先走快速 cache，再在后台同步到 graph。
+
+官方 docs 进一步说明，remember 是 v1.0 的主要 ingestion 入口。permanent mode 会 normalize data、build knowledge graph、enrich retrieval；session mode 则先写入 session cache，并默认启动 background improve，把 session 内容桥接到 permanent graph。
+
+这解释了为什么 hackathon 材料会说 “six lines of code”。Cognee 想让开发者感知到：
+
+高层使用成本极低，但真实价值来自它背后的 indexing、graph building、embedding、enrichment 和 recall routing。
+
+不过它不只是傻瓜封装。SearchType 文档列出了 summary、chunks、RAG completion、graph completion、graph decomposition、graph CoT、temporal、coding rules、lexical chunks 等多种 search type，并说明复杂 multi-hop 任务可以用 GRAPH_COMPLETION_COT，而 only_context=True 可以跳过最终生成、只拿检索上下文。
+
+这对 hackathon 的实际建议是：
+初版用 remember/recall 快速跑通；冲刺阶段要显式调 search type，让不同任务使用不同 recall 策略。
+
+2.3 核心竞争力三：Memory 会“改进”，而不是只追加
+Cognee 的 .improve 文档说，这个操作可以 enrich existing graph、把 session memory 桥接进 permanent graph、根据 feedback 调整权重、建立 global context index，并同步回 session。
+
+这说明 Cognee 的长期方向不是“存储所有聊天记录”，而是：
+
+把短期上下文、用户反馈、中间推理结果，逐步压缩和重构成更有用的长期 memory。
+
+他们的 self-improvement quickstart 也展示了一个关键模式：session 中产生的信息可以在 improve 后进入 permanent dataset，之后的 recall 就能从新桥接的 session 内容中回答问题。
+
+在你的场景里，这非常重要。五个 sequential tasks 不应该只是每一步 remember 一次。更好的做法是：
+每个 task 结束时调用一次 improve，把该阶段产生的 session-level 结果变成下游 task 可用的 permanent memory。这样你在 live demo 中可以强调：系统不是在 task 之间复制 prompt，而是在阶段边界把 agent 产物转成可复用的结构化记忆。
+
+2.4 核心竞争力四：多 agent / 多框架共享同一 memory
+Cognee MCP 文档称它通过 Model Context Protocol 带来 persistent AI memory，MCP 提供标准化连接、auth、tool interoperability，以及跨 conversations/sessions 的 persistent memory。Cognee MCP 暴露多个工具，并建议新集成优先使用 v1 的 remember/recall/forget。
+
+LangGraph 集成文档强调 persistent semantic memory across sessions、natural language retrieval、cross-session recall、session isolation，以及与 create_react_agent 的低门槛集成。
+
+OpenAI Agents SDK 集成文档也强调 persistent structured memory、graph + vector、sessionized tools、native SDK function tool 和 async-first。
+
+这说明 Cognee 的产品方向不是绑定某个 agent 框架，而是成为多个 agent runtime 共享的记忆层。对 M-Agents 的 hackathon 来说，这点非常重要：
+你可以让 ingestion agent、classification agent、reconciliation agent、narrative agent 和 UI agent 都读写同一个 Cognee dataset，但每个 agent 只处理自己的任务。
+
+这会比“一个大 prompt 做所有事”更像 multi-agent architecture，也更符合评委想看的 structural advantage。
+
+2.5 核心竞争力五：本地零基础设施起步，生产可迁移
+Cognee 技术博客写到，默认可以用 SQLite、LanceDB、Kuzu 在本地无外部基础设施启动；规模化时可以换成 Neo4j、Neptune、Qdrant、pgvector 等。
+
+Cloud 架构文档则显示，Cognee Cloud 在 OSS storage 之上增加 orchestration 和 managed services，pipeline steps 以 Modal jobs 运行，托管存储包括 S3、LanceDB、Kuzu、PostgreSQL，并支持 dataset isolation。
+
+这说明它的部署叙事是：
+
+开发时轻，生产时可治理、可隔离、可扩展。
+
+对 hackathon 而言，你大概率不需要 Cloud/On-Prem，但你可以在架构说明里强调：本地 demo 和生产系统是同一套 mental model，不是一次性 hack。
+
+2.6 核心竞争力六：用 multi-hop benchmark 证明 graph memory 优势
+Cognee 官方 benchmark 页面声称，他们在 24 个 HotPotQA multi-hop questions、45 次重复运行上对比了 Mem0、Graphiti、LightRAG，并开源了 code/config/datasets。结果页面给出 Cognee 的 human-like correctness 0.93、DeepEval correctness 0.85、F1 0.84、EM 0.69。
+
+他们的 benchmark deep dive 也明确承认这是 Cognee 自己发布的 benchmark，不是独立第三方评测；但它强调结构化 recall 在 multi-hop 问题上比纯 chunk retrieval 更有优势，尤其是需要跨文档、跨事实推理时。
+
+这对你的 hackathon 有实际意义：
+Task 3 reconciliation 和 Task 4 narrative generation 都是 multi-hop 型任务。你应该把 Cognee 的优势展示在“跨阶段、跨实体、跨证据”的问题上，而不是只问一个简单事实。
+
+3. Cognee 的产品和技术方向判断
+3.1 从 RAG 工具走向 agent memory platform
+Cognee 的官方材料反复使用 memory platform、memory control plane、brain behind agents、one memory layer 等表达。结合它的 Cloud、On-Prem、MCP、LangGraph、OpenAI Agents SDK 集成来看，它的方向不是做一个轻量问答库，而是做 agent stack 里的 memory infrastructure。
+
+对外话术可以概括成：
+
+RAG gives agents context for one answer. Cognee gives agents memory across sessions, tools, and workflows.
+
+3.2 从静态知识库走向可演进 memory
+Cognee 对 long-term memory 的解释不是“保存 chat history”，而是 capture、structure、retrieve、update、forget 的循环；他们还区分 semantic、episodic、procedural memory，并强调 memory 是独立于模型本身的一层。
+
+这说明他们在技术方向上会继续强化：
+结构化抽取、session-to-graph bridge、feedback weighting、forget/governance、provenance、permission、ontology grounding。
+
+3.3 从单 agent 记忆走向多 agent 共享记忆
+官方首页明确说同一 memory layer 可以服务 Claude Code、LangGraph、OpenClaw、MCP-compatible clients 和 custom runtimes。
+
+在 M-Agents 这种多 agent pipeline 里，你最应该展示的是：
+
+不同 agent 不共享 prompt，但共享 memory。
+
+这比所有 agent 都吃同一个巨大的上下文窗口更能体现 Cognee 的价值。
+
+3.4 从默认抽象走向可控检索层
+Cognee 的 recall 默认可以自动 routing，但 SearchType 又暴露了 graph completion、decomposition、CoT、summary、temporal、lexical 等不同策略。
+
+这说明它的技术方向不是“完全黑盒化”，而是：
+
+普通用户用 recall，高级用户根据任务性质调 retrieval strategy。
+
+Hackathon 中你可以把这个设计用于不同阶段：ingestion 后快速 summary、classification 时查 chunks/relevant context、reconciliation 时用 graph decomposition 或 graph CoT、narrative generation 时用 graph summary 或 graph completion、UI demo 时用 fast recall。
+
+4. 面向 M-Agents hackathon 的使用策略
+你的目标不是“证明用了 Cognee”，而是让评委看到：
+
+没有 Cognee 时，pipeline 是五个孤立步骤；有 Cognee 时，pipeline 是一个会积累上下文、会修正、会跨阶段 recall 的系统。
+
+4.1 把五个任务设计成 memory lifecycle
+Task 1 — Data ingestion
+不要只 ingest 原始文件。建议同时保存：
+
+原始数据或文档内容
+
+source metadata：来源、时间、文件名、任务阶段、agent 名称
+
+初步抽取的 entities / claims / signals
+
+每条信息的 provenance
+
+remember permanent mode 会处理 normalize、build graph、embeddings、summaries 和 improvement artifacts，并让数据可以被 recall 使用。
+
+Hackathon 实操重点：
+给所有 Task 1 产物打 node_set="ingestion" 或类似标签，后面可以按阶段过滤。
+
+Task 2 — Classification
+Classification agent 不应该只输出 label。建议输出结构化结果：
+
+item_id
+predicted_label
+confidence
+rationale
+supporting_evidence_ids
+counter_evidence_ids
+classification_rule_or_baseline
+agent_name
+timestamp
+然后把这个结果也 remember 进 Cognee，标记为 node_set="classification" 和 node_set="baseline"。
+
+这样 Task 4 生成 narrative 时，可以直接问：
+
+What classification baseline and evidence should be used for this narrative?
+
+而不是重新 ingest Task 2 的输出。
+
+Task 3 — Reconciliation
+这是 Cognee 最容易赢分的阶段。Reconciliation 不是普通问答，而是典型 graph problem：
+
+哪些 entity 实际是同一个？
+
+哪些 label 冲突？
+
+哪些 source 支持同一个 claim？
+
+哪些 claim 之间互相矛盾？
+
+哪个 canonical entity 应该保留？
+
+决策依据来自 Task 1 还是 Task 2？
+
+Cognee 的 graph store 保存 entities 和 relationships，hybrid search 可以同时使用 vector 语义和 graph 结构。
+
+建议在这个阶段优先使用 graph-oriented recall，例如 GRAPH_COMPLETION、GRAPH_COMPLETION_DECOMPOSITION 或复杂场景下的 GRAPH_COMPLETION_COT。SearchType 文档说明，GRAPH_COMPLETION_COT 更适合复杂 multi-hop，而 decomposition/CoT 会更慢但更适合复杂推理。
+
+Task 4 — Narrative generation
+Narrative agent 应该只做叙事，不重新做 ingestion/classification/reconciliation。它的 prompt 可以这样设计：
+
+Use Cognee recall to retrieve:
+1. the original ingestion findings,
+2. the classification baseline,
+3. the reconciliation decisions,
+4. unresolved conflicts,
+5. source provenance.
+
+Generate a narrative with explicit evidence and uncertainty.
+这能让评委看到：Task 4 不是重新开始，而是在复用 Task 1–3 的 memory。
+
+Task 5 — Live interface demo
+Live demo 要设计成“直接暴露 Cognee 的结构性优势”。
+
+推荐展示三个问题：
+
+1. What did Task 1 discover that affected the reconciliation decision in Task 3?
+
+2. Which classification baseline from Task 2 was used in the final narrative?
+
+3. Show the evidence chain behind the final narrative, including source provenance and any unresolved conflicts.
+这三个问题能证明你的系统有跨阶段记忆，而不是把每一步结果硬塞进一个 prompt。
+
+5. 推荐架构
+Raw data / files / API / logs
+        |
+        v
+[Task 1: Ingestion Agent]
+        | remember(raw + extracted facts + provenance)
+        v
+Cognee Dataset: m_agents_case
+        |
+        v
+[Task 2: Classification Agent]
+        | recall(ingestion context)
+        | remember(labels + confidence + rationale + baseline)
+        v
+Cognee Dataset: m_agents_case
+        |
+        v
+[Task 3: Reconciliation Agent]
+        | recall(graph relationships + conflicts)
+        | remember(canonical entities + decisions + conflicts)
+        v
+Cognee Dataset: m_agents_case
+        |
+        v
+[Task 4: Narrative Agent]
+        | recall(evidence chain + decisions + baseline)
+        | remember(final narrative + citations + uncertainty)
+        v
+[Task 5: Live UI Agent]
+        | recall(any prior stage, cross-session)
+        v
+Demo: persistent multi-agent memory
+关键点：
+每个 agent 都应该有自己的职责，但所有 agent 都读写同一个 Cognee dataset。Cognee 的 LangGraph、MCP、OpenAI Agents SDK 文档都在强调 sessionized、cross-session、persistent structured memory，这正是多 agent pipeline 的核心。
+
+6. 代码层面的建议
+下面是一个适合 hackathon 的思路骨架。实际参数名可能需要根据你安装的 Cognee 版本微调，但整体模式符合官方 v1 API 的方向：remember 写入、recall 检索、improve 在阶段边界做 memory enrichment。官方文档说明 remember 支持 permanent/session 两种模式，recall 支持 session-aware recall 和 graph-backed recall，improve 可用于 enrichment 和 session bridging。
+
+import cognee
+from cognee import SearchType
+
+DATASET = "m_agents_case"
+
+async def remember_stage_output(
+    content: str,
+    stage: str,
+    item_id: str,
+    metadata: dict | None = None,
+):
+    metadata = metadata or {}
+
+    await cognee.remember(
+        content,
+        dataset_name=DATASET,
+        node_set=[stage, metadata.get("type", "artifact")],
+        self_improvement=False,  # hackathon 中可先提速；阶段结束后统一 improve
+    )
+
+
+async def recall_for_task(
+    query: str,
+    query_type=SearchType.GRAPH_COMPLETION,
+):
+    return await cognee.recall(
+        query_text=query,
+        datasets=[DATASET],
+        query_type=query_type,
+        top_k=10,
+    )
+
+
+async def finish_stage():
+    # 在每个 task 结束时调用，把已有 graph / session 内容进一步整理成更好召回的 memory
+    await cognee.improve(dataset=DATASET)
+针对五个阶段可以这样调用：
+
+# Task 1
+await remember_stage_output(
+    content=raw_ingestion_summary,
+    stage="task_1_ingestion",
+    item_id="source_batch_001",
+    metadata={"type": "source_summary"},
+)
+
+# Task 2
+classification_context = await recall_for_task(
+    "Retrieve ingestion facts needed to classify the current items.",
+    query_type=SearchType.GRAPH_COMPLETION,
+)
+
+await remember_stage_output(
+    content=classification_result_json,
+    stage="task_2_classification",
+    item_id="classification_batch_001",
+    metadata={"type": "classification_result"},
+)
+
+# Task 3
+reconciliation_context = await recall_for_task(
+    "Find conflicting labels, duplicate entities, and evidence chains across ingestion and classification.",
+    query_type=SearchType.GRAPH_COMPLETION_COT,
+)
+
+await remember_stage_output(
+    content=reconciliation_decision_json,
+    stage="task_3_reconciliation",
+    item_id="reconciliation_001",
+    metadata={"type": "canonical_decision"},
+)
+
+# Task 4
+narrative_context = await recall_for_task(
+    "Retrieve the evidence chain, classification baseline, and reconciliation decisions needed for the final narrative.",
+    query_type=SearchType.GRAPH_COMPLETION,
+)
+
+await remember_stage_output(
+    content=final_narrative,
+    stage="task_4_narrative",
+    item_id="final_narrative_001",
+    metadata={"type": "narrative"},
+)
+Live demo 里可以故意新开一个 session 或新建一个 UI agent，然后问：
+
+answer = await cognee.recall(
+    query_text="What did Task 1 discover that changed the reconciliation decision in Task 3?",
+    datasets=[DATASET],
+    query_type=SearchType.GRAPH_COMPLETION_COT,
+)
+这会比简单展示“我能问文档问题”更有说服力。
+
+7. SearchType 的 hackathon 用法
+Cognee 的 recall 可以自动 routing，但 hackathon 中显式选择 SearchType 会更容易体现你理解了工具。官方文档列出了多种 SearchType，并说明 retrieval-only 类型不需要 LLM，RAG/graph completion 通常需要一次 LLM call，decomposition/CoT 更慢但更适合复杂 multi-hop。
+
+推荐用法：
+
+场景	推荐 SearchType	原因
+快速调试是否记住了内容	CHUNKS 或 SUMMARIES	快，适合检查 ingestion 是否成功
+普通阶段间 recall	GRAPH_COMPLETION	默认平衡点，适合大多数 graph-backed recall
+Reconciliation 多跳推理	GRAPH_COMPLETION_DECOMPOSITION 或 GRAPH_COMPLETION_COT	更适合跨实体、跨证据链、冲突判断
+需要原文或精确术语	CHUNKS_LEXICAL	适合 exact quote、ID、关键词
+时间顺序相关问题	TEMPORAL	适合事件顺序、timeline
+Demo 中展示检索证据	only_context=True	跳过最终生成，直接展示 Cognee 找回的上下文
+8. Node sets 和数据分层：很适合你的五阶段 pipeline
+Cognee 的 NodeSets 文档说明，node sets 是给 datasets/docs 打标签的方式，会 materialize 成 graph nodes，并帮助在一个 dataset 中按 topic、workflow 或 retrieval subset 过滤。
+
+你的 hackathon 可以这样设计：
+
+node_set = [
+  "task_1_ingestion",
+  "task_2_classification",
+  "task_3_reconciliation",
+  "task_4_narrative",
+  "task_5_live_demo",
+  "baseline",
+  "evidence",
+  "conflict",
+  "canonical_entity",
+  "final_output"
+]
+这样做的好处是：
+
+live demo 可以只查某个阶段的 memory；
+
+reconciliation 可以只查 conflict、baseline、evidence；
+
+narrative 可以查 canonical_entity 和 final_output；
+
+你可以向评委解释：这不是普通向量库，而是一个按 workflow 组织的 agent memory graph。
+
+9. Demo 设计：让评委“看到差异”
+你提供的 case 里有一句非常关键：
+
+The judges will see that difference.
+
+要让评委看到差异，demo 不应该只展示最终答案，而要展示 memory continuity。
+
+Demo moment 1：跨阶段追问
+问题：
+
+What context discovered during ingestion was later used during reconciliation?
+期望效果：
+系统回答 Task 1 的发现，并说明它如何影响 Task 3 的 canonical decision。
+
+Demo moment 2：跨 agent recall
+问题：
+
+The narrative agent did not run classification. How does it know the classification baseline?
+期望效果：
+系统从 Cognee recall Task 2 的 baseline，并展示它被 Task 4 使用。
+
+Demo moment 3：冲突和证据链
+问题：
+
+Show unresolved conflicts and the evidence behind each reconciliation decision.
+期望效果：
+系统展示 source provenance、supporting evidence、conflicting evidence、final decision。
+
+Demo moment 4：新 session 仍能记得
+操作：
+换一个 UI agent 或新 session，重新问：
+
+What did we decide about entity X and why?
+期望效果：
+系统不依赖当前 prompt history，也能 recall previous stages。
+
+这正是 Cognee 官方反复强调的 cross-session persistent memory。
+
+10. 风险和坑
+10.1 remember 之后不一定立刻完整可查
+Cognee recall 文档说明，recall 可以在 ingestion/indexing 后台运行时执行，但只能看到已经 indexed 的数据；indexing 完成前结果可能不完整。
+
+Hackathon 建议：
+每个阶段结束后留一个 status check 或同步等待机制，不要刚 remember 大文件就立刻做最终 demo 问答。
+
+10.2 Session memory 和 permanent graph 要区分
+remember 的 session mode 会先写入 session cache，并可通过 background improve 桥接到 permanent graph；permanent mode 则会走完整 ingestion pipeline、build graph、enrich retrieval。
+
+建议：
+短期对话、临时 scratchpad 用 session memory；阶段性产物、分类结果、reconciliation 决策、最终 narrative 必须进入 permanent dataset。
+
+10.3 Graph 不是绝对真理
+Cognee 的 graph 来自 extraction、chunking、LLM processing 和 enrichment。它很适合组织关系和证据链，但不应该被当成无误数据库。
+
+Hackathon 建议：
+所有 classification 和 reconciliation 输出都要带 confidence、rationale、source_ids、uncertainty。这样即使 graph extraction 有偏差，你也能用 provenance 和置信度兜底。
+
+10.4 复杂 SearchType 会更慢
+官方文档说明 decomposition 和 CoT 是 iterative 策略，通常更慢；retrieval-only 类型不需要 LLM，速度更快。
+
+建议：
+UI demo 的普通问题用 GRAPH_COMPLETION 或 summary/chunks；只有 reconciliation、conflict analysis、evidence chain 这类高价值问题才用 GRAPH_COMPLETION_COT。
+
+10.5 本地模型配置要提前验证
+Cognee 支持完全本地运行，但文档提醒，如果 LLM 和 embedding 没有同时配置为本地 provider，系统可能 fallback 到 OpenAI；切换 provider 后还需要清理 metadata。
+
+建议：
+hackathon 现场不要临时切本地模型。提前确认 API key、embedding provider、vector dimensions、indexing latency。
+
+10.6 Benchmark 是官方自测，要谨慎引用
+Cognee 发布了对 Mem0、Graphiti、LightRAG 的 multi-hop benchmark，并声称结果领先；但他们自己的 deep dive 也承认这是 Cognee 自己的 benchmark，不是独立第三方评测。
+
+建议：
+在 pitch 里可以说“Cognee 的官方 benchmark 把优势放在 multi-hop graph recall 上”，但不要说“业界公认最佳”。
+
+11. 你在 hackathon 里的最佳定位
+你的项目可以这样讲：
+
+We use Cognee as the persistent memory substrate across the five-agent pipeline.
+Each agent writes its outputs into a shared graph-backed memory, and downstream agents recall prior evidence, classifications, reconciliation decisions, and narrative constraints without re-ingesting context.
+This turns the pipeline from five isolated LLM calls into a cumulative reasoning system.
+
+中文版本：
+
+我们不是把 Cognee 当作文档问答工具，而是把它作为五阶段 multi-agent pipeline 的共享长期记忆层。每个 agent 都把自己的发现、分类、冲突、决策和叙事依据写入 Cognee；后续 agent 通过 graph-backed recall 复用这些上下文。因此系统不是五个互相失忆的 agent，而是一个会积累证据、复用 baseline、解释决策链的 agent workflow。
+
+这就是最贴合 Cognee 官方方向、也最适合 M-Agents 赛题的打法。
+
+
+1-click prompts
+
+Web access
+

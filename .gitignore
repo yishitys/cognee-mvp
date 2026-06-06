@@ -1,0 +1,9 @@
+.venv/
+.env
+.cache/
+.claude/
+.data_storage/
+.cognee_system/
+.cognee_cache/
+__pycache__/
+*.py[cod]

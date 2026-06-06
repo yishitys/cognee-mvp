@@ -1,0 +1,651 @@
+opportunity_id,account_id,account_name,sales_agent,manager,regional_office,product,stage,amount,close_date
+1C1I7A6R,ACC-0009,Cancity,Moses Frase,Dustin Brinkmann,Central,GTX Plus Basic,Won,1054,2017-03-01
+Z063OYW0,ACC-0039,Isdom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4514,2017-03-11
+EC4QE1BX,ACC-0009,Cancity,Darcel Schlecht,Melvin Marxen,Central,MG Special,Won,50,2017-03-07
+MV1LWRNH,ACC-0011,Codehow,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,588,2017-03-09
+PE84CX4O,ACC-0035,Hatfan,Zane Levy,Summer Sewald,West,GTX Basic,Won,517,2017-03-02
+7GN8Q4LL,ACC-0010,Cheers,Markita Hansen,Celia Rouche,West,GTX Basic,Won,601,2017-03-07
+NL3JZH1Z,ACC-0004,Bioholding,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,53,2017-03-10
+KWVA7VR1,ACC-0028,Genco Pura Olive Oil Company,Gladys Colclough,Melvin Marxen,Central,GTXPro,Lost,0,2017-03-18
+09YE9QOV,ACC-0024,Finjob,Hayden Neloms,Celia Rouche,West,MG Advanced,Won,3393,2017-03-11
+JJXRR8R6,ACC-0021,Fasehatice,James Ascencio,Summer Sewald,West,GTX Plus Pro,Lost,0,2017-03-17
+UP409DSB,ACC-0026,Ganjaflex,Maureen Marcano,Summer Sewald,West,MG Advanced,Engaging,0,
+JSD4APT2,ACC-0004,Bioholding,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,61,2017-03-12
+5M58DTJK,ACC-0010,Cheers,Elease Gluck,Celia Rouche,West,MG Special,Won,58,2017-03-05
+2STUSOFE,ACC-0015,dambase,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,67,2017-03-03
+KU28360J,ACC-0021,Fasehatice,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,578,2017-03-19
+N4SD17JR,ACC-0001,Acme Corporation,Reed Clapper,Rocco Neubert,East,GTX Basic,Won,556,2017-03-01
+E67P9Y3Q,ACC-0033,Green-Plus,Rosalina Dieter,Celia Rouche,West,GTX Basic,Won,635,2017-03-03
+8SOQADK7,ACC-0030,Gogozoom,Anna Snelling,Dustin Brinkmann,Central,MG Special,Lost,0,2017-03-30
+30UQWUKB,ACC-0028,Genco Pura Olive Oil Company,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Basic,Won,1162,2017-03-20
+97UN20YY,ACC-0013,Conecom,Darcel Schlecht,Melvin Marxen,Central,MG Advanced,Won,3725,2017-03-14
+JXLERZ9O,ACC-0031,Golddex,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,559,2017-03-31
+IU8V0BZK,ACC-0023,Finhigh,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Basic,Won,903,2017-03-17
+XY42936P,ACC-0024,Finjob,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Won,1180,2017-03-13
+ONYNTUCG,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-03-17
+HIOHX80Y,ACC-0030,Gogozoom,Darcel Schlecht,Melvin Marxen,Central,MG Advanced,Won,3563,2017-03-18
+3TYPII47,ACC-0032,Goodsilron,Kami Bicknell,Summer Sewald,West,GTX Plus Basic,Won,1207,2017-03-03
+7WAX8Z8O,ACC-0009,Cancity,Lajuana Vencill,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-08
+0DRC1U9Q,ACC-0033,Green-Plus,Maureen Marcano,Summer Sewald,West,GTX Basic,Engaging,0,
+37JFKD4I,ACC-0015,dambase,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1033,2017-03-09
+DUHE9FLY,ACC-0013,Conecom,Marty Freudenburg,Melvin Marxen,Central,GTXPro,Won,4926,2017-03-01
+7FQMSWIX,ACC-0005,Bioplex,Corliss Cosme,Cara Losch,East,MG Special,Won,62,2017-03-04
+C20AVXN7,ACC-0030,Gogozoom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4359,2017-03-14
+AAR79NOO,ACC-0011,Codehow,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,51,2017-03-11
+B6B0PNR2,ACC-0014,Dalttechnology,Vicki Laflamme,Celia Rouche,West,GTXPro,Won,4899,2017-03-05
+M7I5O9YU,ACC-0010,Cheers,Corliss Cosme,Cara Losch,East,GTX Basic,Engaging,0,
+513DPFX5,ACC-0011,Codehow,Gladys Colclough,Melvin Marxen,Central,GTXPro,Won,4438,2017-03-03
+RU023K5W,ACC-0023,Finhigh,Gladys Colclough,Melvin Marxen,Central,MG Advanced,Won,2972,2017-03-17
+SU8JNMP4,ACC-0008,Bubba Gump,Kami Bicknell,Summer Sewald,West,GTX Plus Basic,Engaging,0,
+V2X2KMUR,ACC-0022,Faxquote,Kami Bicknell,Summer Sewald,West,GTX Plus Basic,Won,1059,2017-03-28
+AJIPJP75,ACC-0011,Codehow,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-03-05
+NYVA2G6U,ACC-0019,Dontechi,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,57,2017-03-02
+J7YF6DS7,ACC-0002,Betasoloin,Corliss Cosme,Cara Losch,East,GTX Plus Pro,Won,5964,2017-03-01
+S5IXY4Z9,ACC-0002,Betasoloin,Corliss Cosme,Cara Losch,East,GTXPro,Won,4570,2017-03-06
+JQBJMETQ,ACC-0016,Domzoom,Darcel Schlecht,Melvin Marxen,Central,MG Special,Won,49,2017-03-27
+0LVWSWEW,ACC-0018,Donquadtech,Violet Mclelland,Cara Losch,East,MG Special,Won,65,2017-03-06
+K53BC1T9,ACC-0016,Domzoom,Anna Snelling,Dustin Brinkmann,Central,MG Special,Lost,0,2017-03-27
+D40N5I9Y,ACC-0023,Finhigh,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4739,2017-03-08
+051QTX8Z,ACC-0029,Globex Corporation,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1080,2017-03-21
+UK0LEZRJ,ACC-0012,Condax,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,532,2017-03-03
+2XQAKBXH,ACC-0017,Doncon,Zane Levy,Summer Sewald,West,GTX Plus Pro,Won,5370,2017-03-11
+7G7YLGJO,ACC-0035,Hatfan,Zane Levy,Summer Sewald,West,GTX Plus Pro,Won,6499,2017-03-21
+GCA97W27,ACC-0028,Genco Pura Olive Oil Company,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Basic,Won,1161,2017-03-06
+5WJZMULK,ACC-0035,Hatfan,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Won,979,2017-03-19
+FP7014Z0,ACC-0025,Funholding,Lajuana Vencill,Dustin Brinkmann,Central,GTX Plus Basic,Won,948,2017-03-12
+7JVTTVCO,ACC-0027,Gekko & Co,Violet Mclelland,Cara Losch,East,GTX Basic,Won,564,2017-03-24
+3X13866U,ACC-0015,dambase,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Basic,Lost,0,2017-03-06
+7LE19SYE,ACC-0037,Initech,Cassey Cress,Rocco Neubert,East,MG Advanced,Won,3463,2017-03-22
+J5V2M7Y1,ACC-0027,Gekko & Co,Corliss Cosme,Cara Losch,East,GTX Basic,Won,513,2017-03-26
+QHI8WRIA,ACC-0019,Dontechi,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4511,2017-03-30
+AJXAXV4W,ACC-0023,Finhigh,Lajuana Vencill,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-02
+VPDXX5PJ,ACC-0009,Cancity,Niesha Huffines,Melvin Marxen,Central,GTX Basic,Won,546,2017-03-26
+0P4AAPYX,ACC-0031,Golddex,Hayden Neloms,Celia Rouche,West,GTX Plus Basic,Won,1040,2017-03-03
+MRXZTMM6,ACC-0010,Cheers,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,515,2017-03-20
+6KZ0NCFX,ACC-0025,Funholding,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,54,2017-03-14
+XK668R7C,ACC-0019,Dontechi,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Lost,0,2017-03-12
+TZCAQWL3,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-03-19
+BADC6A9H,ACC-0029,Globex Corporation,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Won,516,2017-03-23
+I043RXJV,ACC-0019,Dontechi,Moses Frase,Dustin Brinkmann,Central,GTX Plus Basic,Lost,0,2017-03-17
+MWWB44CC,ACC-0018,Donquadtech,Reed Clapper,Rocco Neubert,East,GTX Plus Basic,Won,950,2017-03-02
+DZ3KHZSX,ACC-0037,Initech,Corliss Cosme,Cara Losch,East,GTX Basic,Won,513,2017-03-20
+3W1K7X5F,ACC-0012,Condax,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-03-09
+9SLYC4TR,ACC-0009,Cancity,Gladys Colclough,Melvin Marxen,Central,MG Special,Won,56,2017-03-09
+JLWKWQYC,ACC-0017,Doncon,James Ascencio,Summer Sewald,West,GTXPro,Won,5673,2017-03-08
+6WOMHAJM,ACC-0018,Donquadtech,Boris Faz,Rocco Neubert,East,MG Advanced,Won,3677,2017-03-14
+4NGBUZWJ,ACC-0011,Codehow,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,609,2017-03-12
+14PM641K,ACC-0027,Gekko & Co,Cassey Cress,Rocco Neubert,East,GTX Plus Basic,Won,1152,2017-03-07
+E8RP9FRW,ACC-0015,dambase,Gladys Colclough,Melvin Marxen,Central,MG Special,Won,51,2017-03-12
+FAJTQMUM,ACC-0024,Finjob,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,564,2017-03-20
+TWF0J0DF,ACC-0039,Isdom,Cecily Lampkin,Dustin Brinkmann,Central,GTX Plus Pro,Won,5882,2017-03-01
+SKY95DVG,ACC-0003,Betatech,Anna Snelling,Dustin Brinkmann,Central,MG Special,Lost,0,2017-03-22
+V5OK4V5I,ACC-0008,Bubba Gump,Cassey Cress,Rocco Neubert,East,GTX Basic,Won,549,2017-03-14
+HNHOPL7M,ACC-0017,Doncon,Kary Hendrixson,Summer Sewald,West,GTX Plus Pro,Won,5425,2017-03-04
+Y0NYI17R,ACC-0014,Dalttechnology,Vicki Laflamme,Celia Rouche,West,MG Special,Won,55,2017-03-15
+0ZHLQFGU,ACC-0006,Blackzim,Kami Bicknell,Summer Sewald,West,GTXPro,Won,4839,2017-03-22
+40DPY158,ACC-0036,Hottechi,Markita Hansen,Celia Rouche,West,MG Special,Won,47,2017-03-25
+DP9E525R,ACC-0021,Fasehatice,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Won,1007,2017-03-24
+DBDUMQQK,ACC-0038,Inity,Niesha Huffines,Melvin Marxen,Central,MG Special,Won,48,2017-03-24
+5CSSZJF4,ACC-0023,Finhigh,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,543,2017-03-21
+0XG8TOJF,ACC-0021,Fasehatice,Kary Hendrixson,Summer Sewald,West,GTX Plus Pro,Lost,0,2017-03-18
+IIS0O91J,ACC-0021,Fasehatice,Kary Hendrixson,Summer Sewald,West,GTXPro,Won,5149,2017-03-28
+PYZZ3IS6,ACC-0006,Blackzim,Markita Hansen,Celia Rouche,West,GTX Plus Basic,Won,1043,2017-03-11
+RV3LPOYP,ACC-0012,Condax,James Ascencio,Summer Sewald,West,GTX Basic,Won,437,2017-03-29
+EJMX0EIJ,ACC-0003,Betatech,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Pro,Won,4278,2017-03-20
+3U25FK08,ACC-0039,Isdom,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,519,2017-03-28
+J53D8EOL,ACC-0036,Hottechi,Kary Hendrixson,Summer Sewald,West,GTX Plus Basic,Engaging,0,
+LF8JZ3Q5,ACC-0035,Hatfan,Kary Hendrixson,Summer Sewald,West,GTX Plus Basic,Won,1046,2017-03-13
+CBAV8ZJL,ACC-0011,Codehow,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,547,2017-03-22
+6JXHEZYK,ACC-0039,Isdom,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,54,2017-03-31
+TODG6DEK,ACC-0005,Bioplex,Daniell Hammack,Rocco Neubert,East,GTX Basic,Won,639,2017-03-16
+96MZYUY0,ACC-0021,Fasehatice,Vicki Laflamme,Celia Rouche,West,GTXPro,Won,4906,2017-03-07
+EZVKSQ9C,ACC-0028,Genco Pura Olive Oil Company,Boris Faz,Rocco Neubert,East,GTX Plus Pro,Engaging,0,
+RJYG004O,ACC-0016,Domzoom,Daniell Hammack,Rocco Neubert,East,GTX Basic,Engaging,0,
+JUUXF02Z,ACC-0035,Hatfan,Kary Hendrixson,Summer Sewald,West,GTXPro,Won,4694,2017-03-09
+YHKT6YJ7,ACC-0015,dambase,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,589,2017-03-13
+1ROC43JK,ACC-0003,Betatech,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,50,2017-03-08
+IX7UEOAP,ACC-0037,Initech,Donn Cantrell,Rocco Neubert,East,GTX Plus Basic,Lost,0,2017-03-27
+NAQKOU0T,ACC-0021,Fasehatice,Hayden Neloms,Celia Rouche,West,GTX Plus Basic,Won,1315,2017-03-20
+9X6V79KE,ACC-0039,Isdom,Versie Hillebrand,Dustin Brinkmann,Central,GTX Plus Pro,Won,6282,2017-03-25
+W1KLFNE4,ACC-0039,Isdom,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Won,3246,2017-03-02
+GD2OCW12,ACC-0023,Finhigh,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Won,514,2017-03-14
+127ZPLXQ,ACC-0036,Hottechi,Kary Hendrixson,Summer Sewald,West,GTXPro,Lost,0,2017-03-18
+RNTOJ78L,ACC-0035,Hatfan,Rosalina Dieter,Celia Rouche,West,MG Special,Lost,0,2017-03-13
+NLB4D5BQ,ACC-0030,Gogozoom,Versie Hillebrand,Dustin Brinkmann,Central,MG Advanced,Won,2955,2017-03-24
+FCFDJIEZ,ACC-0021,Fasehatice,Vicki Laflamme,Celia Rouche,West,GTXPro,Won,3742,2017-03-21
+YZGDW4G1,ACC-0037,Initech,Violet Mclelland,Cara Losch,East,MG Special,Won,64,2017-03-14
+G8AO5FA2,ACC-0037,Initech,Wilburn Farren,Cara Losch,East,MG Advanced,Lost,0,2017-03-27
+88POGNEL,ACC-0009,Cancity,Gladys Colclough,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-03-07
+UYP3NNU6,ACC-0034,Groovestreet,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,441,2017-03-16
+S1V8684Y,ACC-0023,Finhigh,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-03-12
+MOPWEMB5,ACC-0035,Hatfan,Vicki Laflamme,Celia Rouche,West,GTXPro,Won,4907,2017-03-16
+L62MDI48,ACC-0039,Isdom,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-01
+3EL8D4WO,ACC-0011,Codehow,Darcel Schlecht,Melvin Marxen,Central,MG Advanced,Won,3269,2017-03-25
+ALW92XQL,ACC-0039,Isdom,Gladys Colclough,Melvin Marxen,Central,GTX Basic,Lost,0,2017-03-25
+TJ6ZA1M3,ACC-0014,Dalttechnology,Kary Hendrixson,Summer Sewald,West,GTX Basic,Lost,0,2017-03-07
+1XBC7M9F,ACC-0022,Faxquote,Markita Hansen,Celia Rouche,West,MG Special,Won,64,2017-03-08
+8IXBS90G,ACC-0020,Donware,Rosie Papadopoulos,Cara Losch,East,MG Special,Won,60,2017-03-08
+2X45BEOS,ACC-0026,Ganjaflex,Cassey Cress,Rocco Neubert,East,GTX Plus Basic,Won,1186,2017-03-27
+5QD53WHF,ACC-0018,Donquadtech,Daniell Hammack,Rocco Neubert,East,GTX Plus Basic,Won,1020,2017-03-07
+K5CWSFCW,ACC-0006,Blackzim,Elease Gluck,Celia Rouche,West,GTXPro,Engaging,0,
+IBDEQVBN,ACC-0022,Faxquote,Kary Hendrixson,Summer Sewald,West,GTX Basic,Lost,0,2017-03-28
+62AK8UWX,ACC-0011,Codehow,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,546,2017-03-22
+5QM4ORNT,ACC-0016,Domzoom,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1212,2017-03-21
+44H0FJMH,ACC-0004,Bioholding,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Pro,Lost,0,2017-03-27
+N5AZLQZR,ACC-0019,Dontechi,Gladys Colclough,Melvin Marxen,Central,GTX Plus Pro,Won,5533,2017-03-14
+4T295XQL,ACC-0024,Finjob,Kami Bicknell,Summer Sewald,West,MG Advanced,Won,3295,2017-03-01
+YFS5KLJJ,ACC-0024,Finjob,Rosalina Dieter,Celia Rouche,West,MG Special,Won,45,2017-03-31
+S8GLKDB9,ACC-0005,Bioplex,Violet Mclelland,Cara Losch,East,MG Special,Won,56,2017-03-04
+IE7VQ5BA,ACC-0023,Finhigh,Daniell Hammack,Rocco Neubert,East,GTX Plus Basic,Engaging,0,
+01QKN578,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4247,2017-03-20
+M0JKP0HT,ACC-0039,Isdom,Gladys Colclough,Melvin Marxen,Central,MG Advanced,Won,3440,2017-03-13
+3X8VLQ5G,ACC-0009,Cancity,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,469,2017-03-12
+EZLXL6GL,ACC-0039,Isdom,Moses Frase,Dustin Brinkmann,Central,MG Special,Won,58,2017-03-07
+R8PEL8V8,ACC-0039,Isdom,Cecily Lampkin,Dustin Brinkmann,Central,MG Advanced,Won,2955,2017-03-16
+L1R32S8H,ACC-0012,Condax,Corliss Cosme,Cara Losch,East,GTX Plus Pro,Won,5228,2017-03-26
+TO7PGVP1,ACC-0033,Green-Plus,Elease Gluck,Celia Rouche,West,GTX Plus Pro,Lost,0,2017-03-29
+A051G1B4,ACC-0011,Codehow,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,517,2017-03-31
+NMDMM5YJ,ACC-0019,Dontechi,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,615,2017-03-03
+LWPJEV3U,ACC-0016,Domzoom,Niesha Huffines,Melvin Marxen,Central,GTX Basic,Lost,0,2017-03-10
+I93ZFHEM,ACC-0012,Condax,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,62,2017-03-08
+B2VJCVBB,ACC-0039,Isdom,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Pro,Won,4711,2017-03-13
+OWM3BPGW,ACC-0033,Green-Plus,Hayden Neloms,Celia Rouche,West,GTX Plus Basic,Won,926,2017-03-17
+RP5PS9A5,ACC-0003,Betatech,Lajuana Vencill,Dustin Brinkmann,Central,MG Special,Won,56,2017-03-10
+B00UMAV4,ACC-0030,Gogozoom,Kami Bicknell,Summer Sewald,West,MG Advanced,Engaging,0,
+WI4PODA2,ACC-0022,Faxquote,Kary Hendrixson,Summer Sewald,West,GTX Plus Pro,Won,5256,2017-03-15
+MZAN11FT,ACC-0013,Conecom,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Won,625,2017-03-01
+8S6TNXYB,ACC-0013,Conecom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,3952,2017-03-22
+RX56S6G3,ACC-0021,Fasehatice,Vicki Laflamme,Celia Rouche,West,MG Advanced,Won,3803,2017-03-13
+83XN082U,ACC-0026,Ganjaflex,Corliss Cosme,Cara Losch,East,GTX Plus Pro,Won,5002,2017-03-23
+J21W3WIW,ACC-0027,Gekko & Co,Corliss Cosme,Cara Losch,East,MG Advanced,Won,3351,2017-03-03
+52UPJFYI,ACC-0016,Domzoom,Gladys Colclough,Melvin Marxen,Central,GTX Basic,Won,571,2017-03-19
+QOL51JIB,ACC-0032,Goodsilron,James Ascencio,Summer Sewald,West,GTX Basic,Won,601,2017-03-10
+J7UNJFJL,ACC-0025,Funholding,Marty Freudenburg,Melvin Marxen,Central,MG Special,Won,52,2017-03-03
+A4H5ESTU,ACC-0021,Fasehatice,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Won,1185,2017-03-13
+8EZ04VQB,ACC-0027,Gekko & Co,Reed Clapper,Rocco Neubert,East,GTX Plus Basic,Lost,0,2017-03-28
+Q7IRUJK7,ACC-0011,Codehow,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Pro,Won,5087,2017-03-01
+Y9HWSG8Z,ACC-0030,Gogozoom,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Won,510,2017-03-20
+AP7PCLAZ,ACC-0024,Finjob,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,633,2017-03-26
+BTT6YAVZ,ACC-0033,Green-Plus,Zane Levy,Summer Sewald,West,GTX Plus Basic,Engaging,0,
+FZDRB789,ACC-0032,Goodsilron,Zane Levy,Summer Sewald,West,GTXPro,Won,4586,2017-03-18
+PC1NUL8Q,ACC-0036,Hottechi,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,60,2017-03-02
+O7UUAK3Y,ACC-0015,dambase,Corliss Cosme,Cara Losch,East,GTX Plus Basic,Engaging,0,
+F1X5ZJ7V,ACC-0019,Dontechi,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,572,2017-05-04
+IF7MJ88P,ACC-0032,Goodsilron,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,550,2017-03-01
+91M6FY8S,ACC-0019,Dontechi,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,573,2017-03-21
+NKOKUS7D,ACC-0020,Donware,Cassey Cress,Rocco Neubert,East,MG Advanced,Won,3479,2017-03-12
+NF6GCTMV,ACC-0026,Ganjaflex,Daniell Hammack,Rocco Neubert,East,MG Advanced,Lost,0,2017-03-22
+1LI7ETNZ,ACC-0017,Doncon,James Ascencio,Summer Sewald,West,GTX Plus Basic,Won,990,2017-03-06
+77ZECYVJ,ACC-0024,Finjob,Kary Hendrixson,Summer Sewald,West,GTX Basic,Lost,0,2017-03-17
+OEEUEIPJ,ACC-0026,Ganjaflex,Violet Mclelland,Cara Losch,East,MG Special,Lost,0,2017-03-05
+5E14LG51,ACC-0040,Iselectrics,Boris Faz,Rocco Neubert,East,GTX Plus Basic,Won,1073,2017-03-25
+TIAGZQ54,ACC-0028,Genco Pura Olive Oil Company,Cecily Lampkin,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-20
+CRX91A45,ACC-0022,Faxquote,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,586,2017-03-16
+SV4SOO2K,ACC-0036,Hottechi,Vicki Laflamme,Celia Rouche,West,GTX Plus Basic,Won,880,2017-03-28
+279625VN,ACC-0025,Funholding,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-25
+85XNDIK1,ACC-0006,Blackzim,Kary Hendrixson,Summer Sewald,West,GTX Basic,Lost,0,2017-03-30
+2U54WYQ1,ACC-0032,Goodsilron,Vicki Laflamme,Celia Rouche,West,GTXPro,Won,4211,2017-03-23
+VCA1WAB0,ACC-0025,Funholding,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-21
+MXNVX2AM,ACC-0011,Codehow,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-03-18
+Q5CABPMO,ACC-0025,Funholding,Gladys Colclough,Melvin Marxen,Central,MG Special,Won,44,2017-03-23
+S3XI6YB3,ACC-0016,Domzoom,Versie Hillebrand,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-03-24
+BBC3JB3H,ACC-0039,Isdom,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Won,622,2017-03-08
+7XVLKX8G,ACC-0009,Cancity,Cecily Lampkin,Dustin Brinkmann,Central,GTX Plus Pro,Lost,0,2017-03-05
+8C2WG2FB,ACC-0036,Hottechi,Zane Levy,Summer Sewald,West,MG Advanced,Lost,0,2017-03-28
+S24L8LVR,ACC-0015,dambase,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Pro,Won,5210,2017-03-18
+EQCD7G7Q,ACC-0037,Initech,Rosalina Dieter,Celia Rouche,West,GTX Basic,Engaging,0,
+1M2I2NXQ,ACC-0020,Donware,Rosie Papadopoulos,Cara Losch,East,MG Special,Won,47,2017-03-26
+VT5Y73GX,ACC-0003,Betatech,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,56,2017-03-15
+GIIC5H9X,ACC-0018,Donquadtech,Boris Faz,Rocco Neubert,East,GTX Plus Pro,Won,5743,2017-03-19
+8BQMFR86,ACC-0002,Betasoloin,Corliss Cosme,Cara Losch,East,GTX Plus Pro,Won,4974,2017-03-30
+YMGWLEHY,ACC-0002,Betasoloin,Garret Kinder,Cara Losch,East,GTXPro,Won,3822,2017-03-21
+FKS9MVF6,ACC-0038,Inity,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,504,2017-03-02
+SIRC44NM,ACC-0024,Finjob,Vicki Laflamme,Celia Rouche,West,GTX Basic,Won,564,2017-03-27
+7S6SHJJG,ACC-0021,Fasehatice,Zane Levy,Summer Sewald,West,GTX Plus Basic,Won,1117,2017-03-14
+ZE84UHHB,ACC-0038,Inity,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,59,2017-03-26
+2R3ZA84D,ACC-0023,Finhigh,Darcel Schlecht,Melvin Marxen,Central,MG Special,Won,52,2017-03-28
+XC4LTIEO,ACC-0013,Conecom,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-02
+MCE5DKD1,ACC-0004,Bioholding,Markita Hansen,Celia Rouche,West,MG Special,Engaging,0,
+EV46ES18,ACC-0031,Golddex,Markita Hansen,Celia Rouche,West,GTX Plus Pro,Won,5908,2017-03-16
+YBJ72HKE,ACC-0036,Hottechi,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Lost,0,2017-03-12
+WPXAMXD2,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Pro,Lost,0,2017-03-10
+A4BBDK82,ACC-0030,Gogozoom,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,585,2017-03-28
+344I60EI,ACC-0031,Golddex,Markita Hansen,Celia Rouche,West,GTX Plus Basic,Won,1091,2017-03-16
+0IYQX303,ACC-0018,Donquadtech,Reed Clapper,Rocco Neubert,East,GTXPro,Won,4905,2017-03-17
+8O3IYWSM,ACC-0029,Globex Corporation,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,513,2017-05-17
+R3OR0J5C,ACC-0030,Gogozoom,Lajuana Vencill,Dustin Brinkmann,Central,MG Special,Won,54,2017-03-30
+0I6U3MQ6,ACC-0025,Funholding,Violet Mclelland,Cara Losch,East,GTX Basic,Engaging,0,
+UQQE9ILV,ACC-0040,Iselectrics,James Ascencio,Summer Sewald,West,GTXPro,Engaging,0,
+070M5M6X,ACC-0033,Green-Plus,Maureen Marcano,Summer Sewald,West,GTXPro,Won,4071,2017-03-25
+DFTR2O9K,ACC-0018,Donquadtech,Reed Clapper,Rocco Neubert,East,MG Special,Won,56,2017-05-08
+VKT0UN11,ACC-0011,Codehow,James Ascencio,Summer Sewald,West,MG Advanced,Engaging,0,
+SKTD4GGU,ACC-0031,Golddex,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,610,2017-03-28
+SNAPG5KC,ACC-0035,Hatfan,Vicki Laflamme,Celia Rouche,West,MG Advanced,Lost,0,2017-05-05
+BTUG5VDL,ACC-0038,Inity,Corliss Cosme,Cara Losch,East,GTXPro,Engaging,0,
+KZ8Q0AFX,ACC-0037,Initech,Corliss Cosme,Cara Losch,East,GTX Plus Basic,Lost,0,2017-05-02
+5U9Y1P87,ACC-0012,Condax,Maureen Marcano,Summer Sewald,West,GTX Basic,Won,688,2017-03-21
+J0Y91LUA,ACC-0032,Goodsilron,Maureen Marcano,Summer Sewald,West,GTX Plus Pro,Won,6142,2017-03-22
+YBRZQFEO,ACC-0033,Green-Plus,Maureen Marcano,Summer Sewald,West,GTXPro,Won,4939,2017-03-31
+TBZMXKH4,ACC-0001,Acme Corporation,Wilburn Farren,Cara Losch,East,MG Advanced,Won,3833,2017-03-29
+WNXZ1FGS,ACC-0008,Bubba Gump,Daniell Hammack,Rocco Neubert,East,GTX Plus Basic,Lost,0,2017-03-28
+S3W6Q07M,ACC-0001,Acme Corporation,Kami Bicknell,Summer Sewald,West,GTX Plus Pro,Engaging,0,
+6389JY2H,ACC-0036,Hottechi,Moses Frase,Dustin Brinkmann,Central,MG Special,Won,57,2017-06-02
+SZ81H1PM,ACC-0009,Cancity,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,47,2017-03-17
+M842E8JB,ACC-0020,Donware,Violet Mclelland,Cara Losch,East,MG Special,Lost,0,2017-03-13
+N9C0OCYY,ACC-0038,Inity,Gladys Colclough,Melvin Marxen,Central,MG Special,Won,57,2017-05-04
+R7XZAIWS,ACC-0028,Genco Pura Olive Oil Company,Jonathan Berthelot,Melvin Marxen,Central,MG Advanced,Won,3257,2017-03-14
+YAR5GGA4,ACC-0010,Cheers,Markita Hansen,Celia Rouche,West,GTX Plus Pro,Won,5120,2017-03-29
+NOVPMLOV,ACC-0036,Hottechi,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1343,2017-03-23
+NN9R2Y4W,ACC-0022,Faxquote,Vicki Laflamme,Celia Rouche,West,MG Special,Won,49,2017-03-30
+NU8LWEWU,ACC-0034,Groovestreet,James Ascencio,Summer Sewald,West,GTX Plus Pro,Won,5264,2017-05-03
+PFHS80CR,ACC-0013,Conecom,Jonathan Berthelot,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-20
+904203D6,ACC-0019,Dontechi,Moses Frase,Dustin Brinkmann,Central,MG Special,Won,59,2017-03-29
+8C4QM1X6,ACC-0011,Codehow,Gladys Colclough,Melvin Marxen,Central,GTX Basic,Won,565,2017-06-04
+AC5YXLIR,ACC-0022,Faxquote,Kary Hendrixson,Summer Sewald,West,MG Special,Won,60,2017-03-30
+IMTPZV7J,ACC-0030,Gogozoom,Moses Frase,Dustin Brinkmann,Central,MG Advanced,Won,3363,2017-05-01
+O462ARMZ,ACC-0012,Condax,Garret Kinder,Cara Losch,East,GTX Plus Pro,Won,5429,2017-06-05
+6DCKCXDC,ACC-0036,Hottechi,Jonathan Berthelot,Melvin Marxen,Central,GTXPro,Won,5008,2017-05-05
+QVF0JRM5,ACC-0016,Domzoom,Jonathan Berthelot,Melvin Marxen,Central,MG Advanced,Won,3459,2017-03-28
+Y6HNPIIT,ACC-0036,Hottechi,Kary Hendrixson,Summer Sewald,West,GTXPro,Won,4559,2017-03-07
+JN1ZFD18,ACC-0016,Domzoom,Lajuana Vencill,Dustin Brinkmann,Central,MG Special,Won,56,2017-03-06
+SRFVQ0HG,ACC-0011,Codehow,Moses Frase,Dustin Brinkmann,Central,GTX Plus Basic,Lost,0,2017-03-24
+1DDW2GQW,ACC-0009,Cancity,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-09
+PMEENWD5,ACC-0029,Globex Corporation,Corliss Cosme,Cara Losch,East,GTXPro,Engaging,0,
+IZD69C5Q,ACC-0003,Betatech,Marty Freudenburg,Melvin Marxen,Central,MG Special,Won,41,2017-06-06
+QFU565JJ,ACC-0037,Initech,Rosie Papadopoulos,Cara Losch,East,GTX Plus Pro,Won,5582,2017-05-07
+RLUGVSNV,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Basic,Won,943,2017-05-12
+K8RQWTP4,ACC-0011,Codehow,Jonathan Berthelot,Melvin Marxen,Central,MG Special,Lost,0,2017-05-15
+O7YNBRX0,ACC-0018,Donquadtech,Reed Clapper,Rocco Neubert,East,GTX Plus Basic,Won,1100,2017-03-28
+AAYV8GV4,ACC-0038,Inity,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-05-05
+EDEBWIOX,ACC-0023,Finhigh,Cecily Lampkin,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-05-28
+VAH6Y3F6,ACC-0036,Hottechi,Jonathan Berthelot,Melvin Marxen,Central,GTX Plus Basic,Won,1039,2017-05-17
+4U431MNA,ACC-0015,dambase,Lajuana Vencill,Dustin Brinkmann,Central,MG Special,Lost,0,2017-05-11
+V4324HG4,ACC-0001,Acme Corporation,Violet Mclelland,Cara Losch,East,MG Special,Lost,0,2017-05-06
+PKDJTR06,ACC-0035,Hatfan,Kami Bicknell,Summer Sewald,West,GTX Plus Basic,Engaging,0,
+CPGCT81C,ACC-0014,Dalttechnology,Maureen Marcano,Summer Sewald,West,GTX Basic,Won,499,2017-03-06
+TK9T01QM,ACC-0001,Acme Corporation,Reed Clapper,Rocco Neubert,East,GTXPro,Lost,0,2017-05-07
+P13DDOTM,ACC-0005,Bioplex,Rosie Papadopoulos,Cara Losch,East,MG Special,Won,59,2017-03-08
+1PN7TVPX,ACC-0036,Hottechi,Vicki Laflamme,Celia Rouche,West,MG Special,Lost,0,2017-05-01
+9ZKORPL2,ACC-0037,Initech,Violet Mclelland,Cara Losch,East,MG Special,Won,45,2017-05-09
+W5ADQ9SH,ACC-0016,Domzoom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-26
+AANB25RH,ACC-0014,Dalttechnology,Kami Bicknell,Summer Sewald,West,GTX Plus Basic,Lost,0,2017-05-24
+PV1DISEC,ACC-0036,Hottechi,Zane Levy,Summer Sewald,West,GTX Plus Pro,Won,6101,2017-03-16
+AWDOKG69,ACC-0007,Bluth Company,Garret Kinder,Cara Losch,East,GTX Basic,Lost,0,2017-05-10
+C4AFMVFM,ACC-0010,Cheers,James Ascencio,Summer Sewald,West,GTX Plus Pro,Won,5616,2017-03-06
+WK6ERCGR,ACC-0031,Golddex,James Ascencio,Summer Sewald,West,GTX Plus Pro,Won,5116,2017-06-06
+64DJ954O,ACC-0012,Condax,Kary Hendrixson,Summer Sewald,West,GTX Plus Basic,Won,1136,2017-03-30
+84V18DBW,ACC-0023,Finhigh,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Basic,Won,1216,2017-06-01
+WFY0S4WW,ACC-0036,Hottechi,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Basic,Won,1089,2017-05-02
+HA1KXAIS,ACC-0012,Condax,Cassey Cress,Rocco Neubert,East,MG Advanced,Won,3908,2017-06-04
+EAYD98X2,ACC-0019,Dontechi,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-27
+YR4W59KS,ACC-0023,Finhigh,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-18
+4NGSQODD,ACC-0006,Blackzim,James Ascencio,Summer Sewald,West,GTXPro,Engaging,0,
+YBAKNQ8Z,ACC-0008,Bubba Gump,Reed Clapper,Rocco Neubert,East,MG Advanced,Lost,0,2017-03-30
+QY6HCHDH,ACC-0012,Condax,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,52,2017-05-25
+CZ3XOD03,ACC-0001,Acme Corporation,Boris Faz,Rocco Neubert,East,GTX Plus Pro,Won,5772,2017-05-11
+WVJBVA61,ACC-0016,Domzoom,Cecily Lampkin,Dustin Brinkmann,Central,MG Advanced,Won,3496,2017-03-21
+MV9AO6WU,ACC-0024,Finjob,Elease Gluck,Celia Rouche,West,MG Advanced,Won,3602,2017-03-12
+Q37IWCG1,ACC-0025,Funholding,Gladys Colclough,Melvin Marxen,Central,MG Special,Won,51,2017-05-11
+05DTWSVC,ACC-0028,Genco Pura Olive Oil Company,Niesha Huffines,Melvin Marxen,Central,MG Special,Lost,0,2017-05-05
+ZW58VIDI,ACC-0035,Hatfan,Vicki Laflamme,Celia Rouche,West,MG Special,Won,64,2017-05-25
+AALARPLH,ACC-0032,Goodsilron,Vicki Laflamme,Celia Rouche,West,MG Advanced,Won,2970,2017-03-13
+01X8H9SO,ACC-0008,Bubba Gump,Corliss Cosme,Cara Losch,East,GTXPro,Won,5035,2017-05-13
+VLADQZ43,ACC-0016,Domzoom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-31
+N9VYMV3W,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4774,2017-03-10
+7V9A9TXZ,ACC-0011,Codehow,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Basic,Won,1190,2017-06-06
+HWDRCUYU,ACC-0003,Betatech,Moses Frase,Dustin Brinkmann,Central,GTX Plus Pro,Won,5755,2017-05-14
+3B6HWK65,ACC-0006,Blackzim,Vicki Laflamme,Celia Rouche,West,MG Special,Lost,0,2017-05-07
+4DW2FDX4,ACC-0015,dambase,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,54,2017-05-20
+IT9YW5RP,ACC-0037,Initech,Wilburn Farren,Cara Losch,East,GTX Basic,Won,592,2017-05-26
+TTY0X4TG,ACC-0019,Dontechi,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,5127,2017-05-05
+L8D22SSW,ACC-0003,Betatech,Darcel Schlecht,Melvin Marxen,Central,MG Advanced,Won,3822,2017-06-17
+ZDDZ64A2,ACC-0019,Dontechi,Gladys Colclough,Melvin Marxen,Central,MG Advanced,Lost,0,2017-06-17
+RDJFZGM9,ACC-0006,Blackzim,Kami Bicknell,Summer Sewald,West,MG Special,Lost,0,2017-06-13
+4563ENEB,ACC-0030,Gogozoom,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,574,2017-05-02
+4WP0VJAS,ACC-0011,Codehow,Lajuana Vencill,Dustin Brinkmann,Central,MG Advanced,Won,2525,2017-06-18
+60UOBOEM,ACC-0034,Groovestreet,Rosalina Dieter,Celia Rouche,West,GTK 500,Won,30288,2017-06-07
+AJZB6F22,ACC-0032,Goodsilron,Vicki Laflamme,Celia Rouche,West,GTX Plus Pro,Lost,0,2017-05-18
+IXOHJYRM,ACC-0010,Cheers,Elease Gluck,Celia Rouche,West,GTK 500,Lost,0,2017-05-09
+QPFNQYMV,ACC-0038,Inity,Gladys Colclough,Melvin Marxen,Central,MG Advanced,Won,3581,2017-05-14
+WRBWZRFD,ACC-0013,Conecom,Niesha Huffines,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-05
+031BBF1I,ACC-0023,Finhigh,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,54,2017-03-30
+H2MC2E7K,ACC-0012,Condax,Vicki Laflamme,Celia Rouche,West,GTX Plus Basic,Engaging,0,
+WZU2OHYU,ACC-0012,Condax,Corliss Cosme,Cara Losch,East,GTX Basic,Won,515,2017-05-05
+HVODWXRO,ACC-0026,Ganjaflex,Daniell Hammack,Rocco Neubert,East,MG Special,Lost,0,2017-05-01
+RGCH6CUF,ACC-0032,Goodsilron,Hayden Neloms,Celia Rouche,West,GTX Plus Basic,Won,975,2017-06-20
+FDCEBWRI,ACC-0021,Fasehatice,James Ascencio,Summer Sewald,West,GTX Basic,Won,458,2017-03-12
+ZL6TJDPG,ACC-0029,Globex Corporation,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Lost,0,2017-05-16
+DWBSHB8M,ACC-0031,Golddex,Kami Bicknell,Summer Sewald,West,GTX Basic,Lost,0,2017-05-23
+0AJ6LTZ0,ACC-0031,Golddex,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,622,2017-03-14
+K8VSDOP8,ACC-0032,Goodsilron,Maureen Marcano,Summer Sewald,West,GTX Plus Pro,Won,4667,2017-03-29
+YNP9PI1X,ACC-0011,Codehow,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1018,2017-06-15
+3XVY4LEU,ACC-0007,Bluth Company,Reed Clapper,Rocco Neubert,East,GTXPro,Won,4671,2017-05-09
+8K1OGB0R,ACC-0008,Bubba Gump,Violet Mclelland,Cara Losch,East,GTXPro,Won,4634,2017-05-16
+USVLKDF4,ACC-0019,Dontechi,Corliss Cosme,Cara Losch,East,GTX Basic,Engaging,0,
+88KUDE6J,ACC-0001,Acme Corporation,Donn Cantrell,Rocco Neubert,East,GTX Plus Pro,Won,5366,2017-05-30
+JCPQZ2SN,ACC-0010,Cheers,Hayden Neloms,Celia Rouche,West,GTX Plus Basic,Engaging,0,
+RZ2PUH86,ACC-0034,Groovestreet,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,582,2017-05-17
+107BPCAS,ACC-0015,dambase,Niesha Huffines,Melvin Marxen,Central,GTX Basic,Lost,0,2017-05-16
+OCLEO3CD,ACC-0021,Fasehatice,Vicki Laflamme,Celia Rouche,West,GTX Plus Pro,Won,6079,2017-05-19
+FTVCNH87,ACC-0021,Fasehatice,Zane Levy,Summer Sewald,West,GTX Plus Basic,Lost,0,2017-05-07
+UK2JIE61,ACC-0009,Cancity,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,55,2017-05-04
+OV5X3O5I,ACC-0002,Betasoloin,Cassey Cress,Rocco Neubert,East,GTX Basic,Won,493,2017-03-27
+LSVMMUJ0,ACC-0012,Condax,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,5559,2017-03-25
+08APB75Q,ACC-0039,Isdom,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,501,2017-05-13
+6RL97BR9,ACC-0038,Inity,Moses Frase,Dustin Brinkmann,Central,MG Special,Lost,0,2017-05-08
+4E01ALB0,ACC-0033,Green-Plus,Vicki Laflamme,Celia Rouche,West,MG Advanced,Won,3103,2017-05-04
+K4HVGBVH,ACC-0027,Gekko & Co,Corliss Cosme,Cara Losch,East,GTX Plus Pro,Won,5505,2017-05-22
+6VIK2VX8,ACC-0039,Isdom,Hayden Neloms,Celia Rouche,West,MG Special,Engaging,0,
+QT7LRWTN,ACC-0010,Cheers,Vicki Laflamme,Celia Rouche,West,MG Advanced,Won,3357,2017-05-04
+5831YZMT,ACC-0024,Finjob,Zane Levy,Summer Sewald,West,GTX Basic,Won,532,2017-06-23
+AZUBCO7L,ACC-0012,Condax,Daniell Hammack,Rocco Neubert,East,MG Advanced,Lost,0,2017-05-06
+FOWAY95L,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Pro,Won,5786,2017-05-05
+BN8UTT8O,ACC-0012,Condax,Rosie Papadopoulos,Cara Losch,East,MG Special,Lost,0,2017-06-04
+V751HK8R,ACC-0023,Finhigh,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,60,2017-06-03
+H4TBCR80,ACC-0034,Groovestreet,Vicki Laflamme,Celia Rouche,West,GTXPro,Lost,0,2017-05-28
+AF8NG5JC,ACC-0003,Betatech,Cassey Cress,Rocco Neubert,East,MG Special,Engaging,0,
+9A9E1KPG,ACC-0028,Genco Pura Olive Oil Company,Elease Gluck,Celia Rouche,West,GTX Basic,Engaging,0,
+GMI6XZ4O,ACC-0011,Codehow,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,612,2017-05-04
+YOQCQ4UO,ACC-0036,Hottechi,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,534,2017-03-18
+KOZTDBJ5,ACC-0012,Condax,Kami Bicknell,Summer Sewald,West,GTX Plus Basic,Won,1103,2017-06-07
+8NMPO9K3,ACC-0013,Conecom,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,582,2017-05-10
+PU7GV4MK,ACC-0012,Condax,Marty Freudenburg,Melvin Marxen,Central,MG Advanced,Lost,0,2017-05-13
+RCQDGE4W,ACC-0009,Cancity,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Pro,Won,6292,2017-05-04
+ZT832XIR,ACC-0025,Funholding,Niesha Huffines,Melvin Marxen,Central,MG Special,Lost,0,2017-06-25
+I995O4XJ,ACC-0034,Groovestreet,Rosalina Dieter,Celia Rouche,West,MG Special,Won,63,2017-05-24
+EOXZGSX9,ACC-0029,Globex Corporation,Versie Hillebrand,Dustin Brinkmann,Central,MG Advanced,Won,3522,2017-05-13
+ZYRF768H,ACC-0040,Iselectrics,Violet Mclelland,Cara Losch,East,MG Special,Lost,0,2017-05-04
+L47EPGVT,ACC-0030,Gogozoom,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Pro,Won,4760,2017-03-01
+9GENDMWA,ACC-0002,Betasoloin,Corliss Cosme,Cara Losch,East,GTX Basic,Won,603,2017-05-25
+DHACLHPS,ACC-0005,Bioplex,Daniell Hammack,Rocco Neubert,East,GTX Basic,Lost,0,2017-05-22
+E9DJS1D8,ACC-0019,Dontechi,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-03-17
+XT9YNOV2,ACC-0001,Acme Corporation,Donn Cantrell,Rocco Neubert,East,GTX Plus Pro,Won,5724,2017-06-11
+TMZQX7F8,ACC-0034,Groovestreet,Hayden Neloms,Celia Rouche,West,GTX Plus Basic,Lost,0,2017-05-02
+BAOSO1I2,ACC-0022,Faxquote,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,516,2017-05-02
+80F0J70G,ACC-0025,Funholding,Niesha Huffines,Melvin Marxen,Central,GTX Basic,Lost,0,2017-05-25
+S9W53L4L,ACC-0019,Dontechi,Niesha Huffines,Melvin Marxen,Central,GTX Basic,Won,672,2017-06-05
+5P3NH791,ACC-0031,Golddex,Boris Faz,Rocco Neubert,East,MG Advanced,Engaging,0,
+OBDRD0AD,ACC-0039,Isdom,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-26
+ZBBMGEV4,ACC-0038,Inity,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Basic,Won,1189,2017-05-16
+TYSORYA9,ACC-0018,Donquadtech,Donn Cantrell,Rocco Neubert,East,GTX Basic,Lost,0,2017-05-07
+ULVXOPG3,ACC-0035,Hatfan,Elease Gluck,Celia Rouche,West,MG Special,Won,60,2017-05-22
+ZDZGCWX7,ACC-0010,Cheers,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,545,2017-06-22
+M6UEZLOQ,ACC-0010,Cheers,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Won,1069,2017-06-23
+5RNWV17L,ACC-0031,Golddex,Rosalina Dieter,Celia Rouche,West,MG Advanced,Engaging,0,
+9GCJGVY7,ACC-0026,Ganjaflex,Rosie Papadopoulos,Cara Losch,East,GTXPro,Lost,0,2017-03-02
+52SANIGE,ACC-0026,Ganjaflex,Corliss Cosme,Cara Losch,East,GTXPro,Won,4833,2017-05-08
+VXMFL425,ACC-0022,Faxquote,James Ascencio,Summer Sewald,West,GTX Basic,Engaging,0,
+UNLIS3RY,ACC-0014,Dalttechnology,Kami Bicknell,Summer Sewald,West,GTX Plus Basic,Won,1050,2017-05-09
+E887HZT1,ACC-0010,Cheers,Rosalina Dieter,Celia Rouche,West,MG Advanced,Engaging,0,
+WXCW16QT,ACC-0005,Bioplex,Donn Cantrell,Rocco Neubert,East,GTX Plus Pro,Lost,0,2017-06-02
+6VDLCBYU,ACC-0023,Finhigh,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Pro,Lost,0,2017-05-31
+XYBPUC2H,ACC-0036,Hottechi,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-16
+B06D1F9M,ACC-0022,Faxquote,Vicki Laflamme,Celia Rouche,West,GTXPro,Engaging,0,
+L5T2HKKO,ACC-0013,Conecom,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-05
+6CEEGQ8I,ACC-0016,Domzoom,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,63,2017-05-30
+P2LY9NFN,ACC-0005,Bioplex,Cassey Cress,Rocco Neubert,East,GTXPro,Won,4942,2017-05-08
+94GCWI08,ACC-0015,dambase,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4650,2017-06-12
+U64RT0UF,ACC-0002,Betasoloin,Donn Cantrell,Rocco Neubert,East,GTX Plus Basic,Won,987,2017-05-29
+RWGSCFHR,ACC-0027,Gekko & Co,Donn Cantrell,Rocco Neubert,East,GTX Plus Pro,Won,4246,2017-03-02
+GEBVQH17,ACC-0040,Iselectrics,Donn Cantrell,Rocco Neubert,East,GTX Plus Pro,Won,5702,2017-05-06
+KQPY8LLI,ACC-0036,Hottechi,Gladys Colclough,Melvin Marxen,Central,MG Advanced,Lost,0,2017-05-13
+81MXE1H7,ACC-0004,Bioholding,Markita Hansen,Celia Rouche,West,MG Advanced,Engaging,0,
+GQ125FX0,ACC-0030,Gogozoom,Versie Hillebrand,Dustin Brinkmann,Central,GTX Basic,Won,528,2017-06-03
+8O1WNJBA,ACC-0007,Bluth Company,Garret Kinder,Cara Losch,East,GTX Basic,Lost,0,2017-03-23
+E2NXQUWO,ACC-0026,Ganjaflex,Garret Kinder,Cara Losch,East,MG Advanced,Won,3507,2017-03-06
+MEZLJGRB,ACC-0021,Fasehatice,James Ascencio,Summer Sewald,West,GTX Basic,Lost,0,2017-05-20
+M1QKPX6R,ACC-0033,Green-Plus,James Ascencio,Summer Sewald,West,GTXPro,Won,4542,2017-05-21
+X6LO8WPD,ACC-0029,Globex Corporation,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,505,2017-05-28
+S8WV5MUC,ACC-0010,Cheers,Kary Hendrixson,Summer Sewald,West,GTX Plus Basic,Lost,0,2017-05-07
+CVKLHZEO,ACC-0028,Genco Pura Olive Oil Company,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,455,2017-05-13
+8KJZJFJ1,ACC-0037,Initech,Reed Clapper,Rocco Neubert,East,GTX Basic,Won,537,2017-03-03
+2DVE0XCM,ACC-0028,Genco Pura Olive Oil Company,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,60,2017-03-17
+L3UMWAX7,ACC-0022,Faxquote,Vicki Laflamme,Celia Rouche,West,GTX Plus Basic,Lost,0,2017-05-17
+BRQRF65L,ACC-0018,Donquadtech,Donn Cantrell,Rocco Neubert,East,GTX Basic,Won,462,2017-03-02
+WS9CXY7E,ACC-0013,Conecom,Gladys Colclough,Melvin Marxen,Central,GTX Plus Pro,Won,6719,2017-03-01
+CK0MDHHM,ACC-0022,Faxquote,Hayden Neloms,Celia Rouche,West,MG Advanced,Won,3281,2017-06-02
+D54HETSI,ACC-0036,Hottechi,Kary Hendrixson,Summer Sewald,West,GTXPro,Lost,0,2017-05-14
+JOQQZ5RH,ACC-0016,Domzoom,Marty Freudenburg,Melvin Marxen,Central,GTX Basic,Won,608,2017-03-01
+90V75MDV,ACC-0029,Globex Corporation,Niesha Huffines,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-17
+LIIBOUUQ,ACC-0018,Donquadtech,Reed Clapper,Rocco Neubert,East,GTX Plus Basic,Won,1187,2017-05-30
+UDYSM42B,ACC-0037,Initech,Violet Mclelland,Cara Losch,East,GTX Plus Pro,Won,5855,2017-06-22
+F835LA4P,ACC-0009,Cancity,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,5068,2017-05-10
+75Q82XU7,ACC-0027,Gekko & Co,Donn Cantrell,Rocco Neubert,East,GTX Plus Basic,Lost,0,2017-06-13
+AMNKCM1H,ACC-0002,Betasoloin,Elease Gluck,Celia Rouche,West,MG Special,Engaging,0,
+MMKMJ0WC,ACC-0039,Isdom,Jonathan Berthelot,Melvin Marxen,Central,GTXPro,Won,4494,2017-06-07
+CZIXINO2,ACC-0024,Finjob,Kami Bicknell,Summer Sewald,West,GTX Basic,Lost,0,2017-05-04
+VBWQO6BM,ACC-0013,Conecom,Niesha Huffines,Melvin Marxen,Central,MG Advanced,Lost,0,2017-05-14
+LTZCN1RA,ACC-0016,Domzoom,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,54,2017-05-19
+TTJXSO57,ACC-0036,Hottechi,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-20
+K4VP5HK4,ACC-0002,Betasoloin,Donn Cantrell,Rocco Neubert,East,MG Advanced,Won,3602,2017-05-08
+10R46CSK,ACC-0003,Betatech,Lajuana Vencill,Dustin Brinkmann,Central,MG Advanced,Won,2904,2017-05-07
+DLJN7WG0,ACC-0028,Genco Pura Olive Oil Company,Marty Freudenburg,Melvin Marxen,Central,MG Special,Lost,0,2017-05-30
+5VAV2TUY,ACC-0009,Cancity,Versie Hillebrand,Dustin Brinkmann,Central,GTX Plus Pro,Won,5614,2017-03-25
+HTD2ME9C,ACC-0003,Betatech,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Pro,Won,5370,2017-06-12
+BEQIZZ7W,ACC-0011,Codehow,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Basic,Won,1217,2017-03-04
+44F8ZE41,ACC-0008,Bubba Gump,Donn Cantrell,Rocco Neubert,East,GTX Basic,Lost,0,2017-05-19
+K3DQJ796,ACC-0005,Bioplex,Garret Kinder,Cara Losch,East,GTX Basic,Lost,0,2017-05-14
+RFKIN7FG,ACC-0013,Conecom,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Lost,0,2017-05-25
+WJQ8VD51,ACC-0022,Faxquote,Kami Bicknell,Summer Sewald,West,GTX Basic,Engaging,0,
+RFYAI0WA,ACC-0037,Initech,Rosie Papadopoulos,Cara Losch,East,GTX Plus Pro,Lost,0,2017-06-08
+QCY951QA,ACC-0018,Donquadtech,Violet Mclelland,Cara Losch,East,MG Special,Won,51,2017-05-06
+25A51PWG,ACC-0030,Gogozoom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-16
+5JFOA4XC,ACC-0023,Finhigh,Gladys Colclough,Melvin Marxen,Central,MG Advanced,Won,3215,2017-06-14
+CYWZJ2AI,ACC-0018,Donquadtech,Kary Hendrixson,Summer Sewald,West,GTX Plus Basic,Engaging,0,
+QTNPGKJ7,ACC-0035,Hatfan,Kary Hendrixson,Summer Sewald,West,GTXPro,Won,3169,2017-06-26
+4PKHDQOQ,ACC-0025,Funholding,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Pro,Won,5015,2017-06-03
+3Y9SB2QK,ACC-0014,Dalttechnology,Maureen Marcano,Summer Sewald,West,GTX Basic,Won,571,2017-03-01
+5MZ0O77T,ACC-0008,Bubba Gump,Reed Clapper,Rocco Neubert,East,GTXPro,Won,4839,2017-05-16
+WJC5J533,ACC-0023,Finhigh,Lajuana Vencill,Dustin Brinkmann,Central,GTX Plus Pro,Won,5401,2017-06-04
+IVT0S1N1,ACC-0022,Faxquote,Vicki Laflamme,Celia Rouche,West,GTX Basic,Won,600,2017-03-20
+NOLCZMV6,ACC-0032,Goodsilron,Violet Mclelland,Cara Losch,East,GTXPro,Engaging,0,
+JEPGSQC9,ACC-0005,Bioplex,Violet Mclelland,Cara Losch,East,GTX Plus Pro,Lost,0,2017-05-05
+B4SIVH1O,ACC-0021,Fasehatice,Daniell Hammack,Rocco Neubert,East,GTX Basic,Engaging,0,
+52CROFH2,ACC-0003,Betatech,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Lost,0,2017-03-05
+REDGEUCP,ACC-0028,Genco Pura Olive Oil Company,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,3763,2017-03-10
+W4BNO6UL,ACC-0021,Fasehatice,Hayden Neloms,Celia Rouche,West,MG Advanced,Won,3763,2017-06-04
+KATNS4R4,ACC-0004,Bioholding,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-22
+1W23LEWK,ACC-0028,Genco Pura Olive Oil Company,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1051,2017-05-27
+JHJEQ1U3,ACC-0013,Conecom,Niesha Huffines,Melvin Marxen,Central,GTX Plus Pro,Won,5604,2017-03-07
+P5EVJUKQ,ACC-0013,Conecom,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Basic,Won,1056,2017-06-10
+ERYLM04D,ACC-0025,Funholding,Cecily Lampkin,Dustin Brinkmann,Central,MG Advanced,Won,3668,2017-05-23
+8477482V,ACC-0030,Gogozoom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,5643,2017-06-28
+VFZOL6CB,ACC-0014,Dalttechnology,Elease Gluck,Celia Rouche,West,MG Special,Won,47,2017-03-10
+75ZOJ3O7,ACC-0024,Finjob,Hayden Neloms,Celia Rouche,West,MG Advanced,Won,3312,2017-03-08
+1QQR82TP,ACC-0032,Goodsilron,James Ascencio,Summer Sewald,West,GTX Plus Pro,Lost,0,2017-06-23
+M2TZSYTN,ACC-0004,Bioholding,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,516,2017-06-16
+KGJL5GHX,ACC-0012,Condax,Moses Frase,Dustin Brinkmann,Central,GTX Plus Basic,Won,956,2017-06-06
+06T2UPDG,ACC-0015,dambase,Cecily Lampkin,Dustin Brinkmann,Central,MG Special,Lost,0,2017-06-05
+2AGLONC4,ACC-0007,Bluth Company,Donn Cantrell,Rocco Neubert,East,GTXPro,Won,5621,2017-05-15
+TBDUMBLA,ACC-0040,Iselectrics,Donn Cantrell,Rocco Neubert,East,MG Advanced,Won,3233,2017-05-02
+0AXGVKN8,ACC-0001,Acme Corporation,Garret Kinder,Cara Losch,East,MG Special,Won,55,2017-05-28
+TAPNNL1W,ACC-0005,Bioplex,Garret Kinder,Cara Losch,East,MG Advanced,Won,3278,2017-03-07
+R9ZAKBFE,ACC-0016,Domzoom,Gladys Colclough,Melvin Marxen,Central,GTX Plus Basic,Won,1155,2017-03-10
+Y40ADYX7,ACC-0032,Goodsilron,Hayden Neloms,Celia Rouche,West,MG Advanced,Won,3550,2017-03-11
+RSEDY99J,ACC-0036,Hottechi,Jonathan Berthelot,Melvin Marxen,Central,GTX Plus Basic,Won,1055,2017-06-16
+MTKCJVFO,ACC-0037,Initech,Cassey Cress,Rocco Neubert,East,GTX Basic,Won,542,2017-06-18
+GZUKDP7F,ACC-0009,Cancity,Darcel Schlecht,Melvin Marxen,Central,MG Advanced,Won,3295,2017-06-13
+GDZV8N5W,ACC-0016,Domzoom,Gladys Colclough,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-26
+F4FLJ0WW,ACC-0032,Goodsilron,James Ascencio,Summer Sewald,West,GTX Plus Basic,Lost,0,2017-05-26
+P3VM7655,ACC-0019,Dontechi,Jonathan Berthelot,Melvin Marxen,Central,MG Advanced,Won,3281,2017-05-06
+5QU60VGE,ACC-0024,Finjob,Kami Bicknell,Summer Sewald,West,GTX Basic,Lost,0,2017-03-12
+3N7ZXGMF,ACC-0011,Codehow,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1123,2017-03-06
+0WWDVOM3,ACC-0012,Condax,Rosalina Dieter,Celia Rouche,West,MG Special,Won,50,2017-05-09
+QPPUCKFM,ACC-0014,Dalttechnology,Rosalina Dieter,Celia Rouche,West,MG Special,Won,47,2017-03-06
+VGE4M1C9,ACC-0029,Globex Corporation,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Lost,0,2017-03-08
+56XQOTXV,ACC-0003,Betatech,Versie Hillebrand,Dustin Brinkmann,Central,GTX Plus Pro,Won,4494,2017-05-17
+1JC9DMNJ,ACC-0036,Hottechi,Vicki Laflamme,Celia Rouche,West,MG Special,Lost,0,2017-05-06
+UCK7JRXG,ACC-0032,Goodsilron,Vicki Laflamme,Celia Rouche,West,MG Advanced,Won,3418,2017-05-13
+8DWOWB6Y,ACC-0003,Betatech,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-03-16
+YQ24IWRQ,ACC-0026,Ganjaflex,Daniell Hammack,Rocco Neubert,East,GTX Basic,Won,592,2017-05-27
+Z30RS0CL,ACC-0040,Iselectrics,Donn Cantrell,Rocco Neubert,East,GTX Basic,Lost,0,2017-06-01
+FRB34F3W,ACC-0033,Green-Plus,Elease Gluck,Celia Rouche,West,MG Special,Lost,0,2017-05-24
+4A189ZAB,ACC-0019,Dontechi,Gladys Colclough,Melvin Marxen,Central,GTXPro,Won,5142,2017-06-08
+0HELH2Q0,ACC-0010,Cheers,James Ascencio,Summer Sewald,West,GTX Plus Basic,Lost,0,2017-05-29
+9E8A7MQ8,ACC-0006,Blackzim,Kary Hendrixson,Summer Sewald,West,GTX Plus Pro,Engaging,0,
+HG5P21RO,ACC-0030,Gogozoom,Lajuana Vencill,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-05-08
+FZC2J90W,ACC-0007,Bluth Company,Maureen Marcano,Summer Sewald,West,MG Advanced,Engaging,0,
+XX84TIMO,ACC-0022,Faxquote,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Lost,0,2017-06-26
+GBMHNLRO,ACC-0019,Dontechi,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Won,660,2017-03-15
+DK955UBP,ACC-0011,Codehow,Niesha Huffines,Melvin Marxen,Central,MG Special,Lost,0,2017-05-20
+GK0A4IQW,ACC-0016,Domzoom,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,61,2017-06-18
+KR4K652E,ACC-0015,dambase,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Won,574,2017-06-04
+J2SR2H1Y,ACC-0026,Ganjaflex,Cassey Cress,Rocco Neubert,East,GTX Basic,Lost,0,2017-06-18
+VTT447YT,ACC-0013,Conecom,Cecily Lampkin,Dustin Brinkmann,Central,GTX Basic,Won,497,2017-05-03
+PX4OW5SC,ACC-0011,Codehow,Darcel Schlecht,Melvin Marxen,Central,MG Special,Lost,0,2017-05-02
+87MEZS8G,ACC-0013,Conecom,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4311,2017-05-13
+SLIWHUIM,ACC-0026,Ganjaflex,Donn Cantrell,Rocco Neubert,East,GTX Basic,Won,609,2017-05-22
+XBVFZ1IR,ACC-0009,Cancity,Gladys Colclough,Melvin Marxen,Central,GTX Plus Basic,Won,1008,2017-06-24
+ZI1MPYF3,ACC-0014,Dalttechnology,James Ascencio,Summer Sewald,West,MG Advanced,Won,3813,2017-06-05
+38KKSE72,ACC-0004,Bioholding,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,530,2017-06-01
+4V0S4BA3,ACC-0032,Goodsilron,Markita Hansen,Celia Rouche,West,GTK 500,Won,29617,2017-06-27
+1LTD5TKV,ACC-0039,Isdom,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Basic,Won,1028,2017-05-09
+VBM56CIF,ACC-0016,Domzoom,Marty Freudenburg,Melvin Marxen,Central,MG Advanced,Won,2863,2017-06-28
+PDH2NPE1,ACC-0011,Codehow,Moses Frase,Dustin Brinkmann,Central,MG Advanced,Won,4109,2017-06-28
+OV60VIBB,ACC-0003,Betatech,Niesha Huffines,Melvin Marxen,Central,GTX Basic,Lost,0,2017-05-08
+FBSEA94D,ACC-0008,Bubba Gump,Rosie Papadopoulos,Cara Losch,East,MG Special,Won,53,2017-06-30
+EOB01PRO,ACC-0029,Globex Corporation,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,47,2017-05-14
+M3WTE943,ACC-0018,Donquadtech,Daniell Hammack,Rocco Neubert,East,GTXPro,Won,5105,2017-06-05
+X914SMX7,ACC-0028,Genco Pura Olive Oil Company,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Won,516,2017-06-22
+T1HIH384,ACC-0038,Inity,Gladys Colclough,Melvin Marxen,Central,GTX Plus Pro,Won,5331,2017-05-15
+FM2NX2GB,ACC-0012,Condax,Hayden Neloms,Celia Rouche,West,MG Advanced,Won,4069,2017-05-05
+SJ45HNHM,ACC-0035,Hatfan,James Ascencio,Summer Sewald,West,GTX Basic,Won,463,2017-06-29
+NYGZJYCJ,ACC-0022,Faxquote,James Ascencio,Summer Sewald,West,GTX Plus Pro,Won,5625,2017-05-26
+IJ817GQJ,ACC-0010,Cheers,Markita Hansen,Celia Rouche,West,GTX Basic,Lost,0,2017-05-12
+F2B62IW4,ACC-0005,Bioplex,Maureen Marcano,Summer Sewald,West,MG Special,Engaging,0,
+PCRRS6JP,ACC-0028,Genco Pura Olive Oil Company,Moses Frase,Dustin Brinkmann,Central,MG Special,Lost,0,2017-05-28
+7GRNFO6D,ACC-0019,Dontechi,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,49,2017-05-18
+G0QKNVIJ,ACC-0013,Conecom,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,51,2017-05-28
+6HRIX06M,ACC-0036,Hottechi,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Won,3415,2017-06-26
+2L5ZWLI7,ACC-0002,Betasoloin,Cassey Cress,Rocco Neubert,East,GTX Plus Basic,Lost,0,2017-05-25
+6B6Q8C5S,ACC-0018,Donquadtech,Cassey Cress,Rocco Neubert,East,GTXPro,Won,5068,2017-03-15
+O8JF46GT,ACC-0028,Genco Pura Olive Oil Company,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Won,657,2017-03-12
+DGIYD342,ACC-0036,Hottechi,Elease Gluck,Celia Rouche,West,GTX Plus Pro,Lost,0,2017-05-10
+I1IAVDQM,ACC-0036,Hottechi,Gladys Colclough,Melvin Marxen,Central,MG Advanced,Lost,0,2017-05-23
+5E4DTWHV,ACC-0038,Inity,Marty Freudenburg,Melvin Marxen,Central,MG Advanced,Lost,0,2017-06-11
+XIWKGJOW,ACC-0032,Goodsilron,Vicki Laflamme,Celia Rouche,West,GTXPro,Won,4445,2017-03-09
+74VGCEEW,ACC-0027,Gekko & Co,Violet Mclelland,Cara Losch,East,MG Special,Won,67,2017-06-19
+MXTAIS4Q,ACC-0040,Iselectrics,Wilburn Farren,Cara Losch,East,MG Advanced,Won,3783,2017-06-09
+YP8QKKEZ,ACC-0017,Doncon,Zane Levy,Summer Sewald,West,GTX Basic,Lost,0,2017-05-31
+G7RCJBVL,ACC-0019,Dontechi,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-05-31
+G20IQSA3,ACC-0013,Conecom,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Won,522,2017-03-12
+9924I5ZF,ACC-0003,Betatech,Cecily Lampkin,Dustin Brinkmann,Central,GTX Plus Pro,Won,5728,2017-05-25
+SLLJT3T1,ACC-0011,Codehow,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Pro,Won,4856,2017-06-19
+AAEUN73V,ACC-0009,Cancity,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,5570,2017-05-26
+32LY2D1K,ACC-0013,Conecom,Darcel Schlecht,Melvin Marxen,Central,MG Advanced,Won,3647,2017-05-26
+5VQRLIEZ,ACC-0018,Donquadtech,Donn Cantrell,Rocco Neubert,East,GTX Plus Basic,Won,1166,2017-06-12
+DFN1V29L,ACC-0012,Condax,Kami Bicknell,Summer Sewald,West,MG Special,Won,49,2017-06-04
+LGLIB8TR,ACC-0030,Gogozoom,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-01
+EMUA57Q2,ACC-0012,Condax,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,54,2017-05-12
+DB3N4CHN,ACC-0036,Hottechi,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,62,2017-03-17
+Q1ZKBGV5,ACC-0029,Globex Corporation,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,46,2017-05-23
+LELWKXDX,ACC-0018,Donquadtech,Boris Faz,Rocco Neubert,East,GTX Plus Pro,Won,6173,2017-06-08
+QRQ8C6MQ,ACC-0029,Globex Corporation,Cassey Cress,Rocco Neubert,East,GTXPro,Engaging,0,
+DA95Q0VE,ACC-0026,Ganjaflex,Cassey Cress,Rocco Neubert,East,MG Advanced,Lost,0,2017-03-21
+B8RR21XP,ACC-0019,Dontechi,Jonathan Berthelot,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-03-16
+U85VV1BU,ACC-0032,Goodsilron,Kary Hendrixson,Summer Sewald,West,GTX Basic,Won,568,2017-05-22
+H9JPB7GW,ACC-0028,Genco Pura Olive Oil Company,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,542,2017-03-09
+8LFNU39A,ACC-0013,Conecom,Marty Freudenburg,Melvin Marxen,Central,GTX Basic,Lost,0,2017-05-28
+SWPTTVQZ,ACC-0025,Funholding,Marty Freudenburg,Melvin Marxen,Central,GTX Plus Basic,Won,1062,2017-03-16
+GKJLM1UR,ACC-0021,Fasehatice,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Won,1057,2017-03-13
+8L1ZHTPL,ACC-0029,Globex Corporation,Moses Frase,Dustin Brinkmann,Central,GTX Plus Basic,Won,1020,2017-06-01
+4XX690SP,ACC-0033,Green-Plus,Zane Levy,Summer Sewald,West,GTX Basic,Won,535,2017-05-11
+JSDGELLK,ACC-0011,Codehow,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Won,522,2017-06-13
+JIYYV11P,ACC-0028,Genco Pura Olive Oil Company,Anna Snelling,Dustin Brinkmann,Central,MG Advanced,Won,3081,2017-06-07
+6TB7XA83,ACC-0015,dambase,Cecily Lampkin,Dustin Brinkmann,Central,MG Special,Won,51,2017-05-18
+POB32WHJ,ACC-0001,Acme Corporation,Daniell Hammack,Rocco Neubert,East,GTX Plus Basic,Lost,0,2017-05-06
+6CKB8I8U,ACC-0036,Hottechi,Jonathan Berthelot,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-05-13
+HKBAON9X,ACC-0031,Golddex,Kami Bicknell,Summer Sewald,West,GTXPro,Won,3997,2017-05-18
+X7HK448T,ACC-0025,Funholding,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,496,2017-06-22
+1YYN3PBU,ACC-0022,Faxquote,Markita Hansen,Celia Rouche,West,MG Advanced,Lost,0,2017-05-13
+AJJ7VJWA,ACC-0004,Bioholding,Niesha Huffines,Melvin Marxen,Central,GTXPro,Lost,0,2017-05-02
+SARVIBLS,ACC-0027,Gekko & Co,Reed Clapper,Rocco Neubert,East,MG Advanced,Won,3889,2017-03-07
+K0GWTWYL,ACC-0023,Finhigh,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Lost,0,2017-03-20
+TCSQO748,ACC-0010,Cheers,Vicki Laflamme,Celia Rouche,West,GTXPro,Lost,0,2017-05-11
+7TI1WTV9,ACC-0001,Acme Corporation,Zane Levy,Summer Sewald,West,GTXPro,Engaging,0,
+ITCY8YV0,ACC-0006,Blackzim,Zane Levy,Summer Sewald,West,GTXPro,Won,5876,2017-06-11
+OJVA8ZEK,ACC-0001,Acme Corporation,Daniell Hammack,Rocco Neubert,East,GTX Plus Basic,Won,966,2017-06-08
+7PDUWDGT,ACC-0012,Condax,Daniell Hammack,Rocco Neubert,East,MG Advanced,Won,3759,2017-03-14
+3AU5SZ3V,ACC-0018,Donquadtech,Donn Cantrell,Rocco Neubert,East,GTXPro,Won,4443,2017-03-23
+BVOO33UA,ACC-0010,Cheers,Hayden Neloms,Celia Rouche,West,MG Advanced,Won,3397,2017-06-28
+M92Y63Q3,ACC-0016,Domzoom,Jonathan Berthelot,Melvin Marxen,Central,MG Special,Won,59,2017-05-05
+JXAYTFNI,ACC-0009,Cancity,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-12
+BMM5D5R4,ACC-0015,dambase,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-21
+JRC2PMKX,ACC-0011,Codehow,Lajuana Vencill,Dustin Brinkmann,Central,GTX Plus Basic,Won,1060,2017-05-16
+JA5G7YBO,ACC-0006,Blackzim,Markita Hansen,Celia Rouche,West,MG Special,Engaging,0,
+CZ8PPZTC,ACC-0005,Bioplex,Rosie Papadopoulos,Cara Losch,East,MG Special,Engaging,0,
+YABTM1G5,ACC-0016,Domzoom,Versie Hillebrand,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-30
+FPTH6URQ,ACC-0022,Faxquote,Vicki Laflamme,Celia Rouche,West,GTX Basic,Won,624,2017-05-11
+S3XE14XP,ACC-0032,Goodsilron,Vicki Laflamme,Celia Rouche,West,GTX Basic,Won,565,2017-05-08
+HRWHRCH8,ACC-0002,Betasoloin,Violet Mclelland,Cara Losch,East,MG Special,Won,48,2017-03-14
+8B29CRQL,ACC-0020,Donware,Violet Mclelland,Cara Losch,East,MG Special,Won,60,2017-05-19
+9AMJKJX6,ACC-0038,Inity,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,579,2017-05-31
+VBG91TQH,ACC-0039,Isdom,Marty Freudenburg,Melvin Marxen,Central,GTX Basic,Won,545,2017-06-11
+WSPBQ5YR,ACC-0015,dambase,Moses Frase,Dustin Brinkmann,Central,MG Advanced,Won,3714,2017-06-09
+YJJ1BLPQ,ACC-0023,Finhigh,Niesha Huffines,Melvin Marxen,Central,MG Advanced,Won,3423,2017-05-15
+3DKK3JF3,ACC-0001,Acme Corporation,Reed Clapper,Rocco Neubert,East,GTX Basic,Lost,0,2017-05-29
+DVCPCBMJ,ACC-0016,Domzoom,Versie Hillebrand,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-05-21
+UMZ986GC,ACC-0019,Dontechi,Versie Hillebrand,Dustin Brinkmann,Central,MG Advanced,Won,3428,2017-05-24
+UPQRP36U,ACC-0027,Gekko & Co,Violet Mclelland,Cara Losch,East,MG Special,Lost,0,2017-05-22
+RZI9HX5X,ACC-0036,Hottechi,Zane Levy,Summer Sewald,West,GTX Plus Basic,Won,1149,2017-05-31
+WFJPWN9O,ACC-0029,Globex Corporation,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Pro,Won,6023,2017-06-11
+2WH4NUR9,ACC-0007,Bluth Company,Cassey Cress,Rocco Neubert,East,GTX Basic,Lost,0,2017-06-04
+HRU8FNE1,ACC-0018,Donquadtech,Corliss Cosme,Cara Losch,East,GTX Basic,Won,542,2017-03-10
+11EK1VP7,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTXPro,Won,4978,2017-05-28
+N90VSHI2,ACC-0036,Hottechi,Elease Gluck,Celia Rouche,West,GTXPro,Won,4327,2017-06-07
+21PRD9FN,ACC-0020,Donware,Garret Kinder,Cara Losch,East,GTXPro,Won,5022,2017-05-15
+ITIQJARB,ACC-0004,Bioholding,Gladys Colclough,Melvin Marxen,Central,GTX Plus Pro,Won,4887,2017-03-11
+ZTLLHCBU,ACC-0019,Dontechi,Kary Hendrixson,Summer Sewald,West,GTX Basic,Engaging,0,
+JTSUYWUD,ACC-0006,Blackzim,Kary Hendrixson,Summer Sewald,West,GTX Plus Pro,Lost,0,2017-05-24
+SLYFFVBE,ACC-0006,Blackzim,Maureen Marcano,Summer Sewald,West,GTX Plus Basic,Engaging,0,
+5OCY2XME,ACC-0039,Isdom,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Won,1190,2017-06-12
+1YB00UYY,ACC-0012,Condax,Rosie Papadopoulos,Cara Losch,East,GTX Plus Pro,Won,4821,2017-05-29
+NCMT5KK3,ACC-0014,Dalttechnology,Vicki Laflamme,Celia Rouche,West,GTX Basic,Engaging,0,
+ENOMNCOJ,ACC-0004,Bioholding,Cecily Lampkin,Dustin Brinkmann,Central,MG Special,Won,59,2017-06-03
+CG4TWLUR,ACC-0008,Bubba Gump,Corliss Cosme,Cara Losch,East,GTX Plus Basic,Won,857,2017-06-02
+IA62KQBO,ACC-0026,Ganjaflex,Donn Cantrell,Rocco Neubert,East,GTX Basic,Won,566,2017-05-14
+7C9Q2ZA3,ACC-0030,Gogozoom,Jonathan Berthelot,Melvin Marxen,Central,GTX Basic,Won,590,2017-03-24
+EHP6OQ69,ACC-0023,Finhigh,Lajuana Vencill,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-05-14
+CDA8Y12G,ACC-0006,Blackzim,Markita Hansen,Celia Rouche,West,MG Special,Won,61,2017-05-07
+RYLLRATF,ACC-0022,Faxquote,Markita Hansen,Celia Rouche,West,MG Advanced,Won,3470,2017-05-31
+KEF5O2Q6,ACC-0003,Betatech,Moses Frase,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-06-26
+YFP8IZ98,ACC-0001,Acme Corporation,Rosie Papadopoulos,Cara Losch,East,MG Special,Won,61,2017-06-22
+U9CDTLZM,ACC-0006,Blackzim,Vicki Laflamme,Celia Rouche,West,MG Special,Lost,0,2017-05-26
+COOYICXU,ACC-0038,Inity,Anna Snelling,Dustin Brinkmann,Central,GTX Basic,Lost,0,2017-05-22
+UALNIVAY,ACC-0036,Hottechi,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Pro,Lost,0,2017-05-11
+ZGZSYIJV,ACC-0023,Finhigh,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-05-15
+6LI7FXQT,ACC-0004,Bioholding,Darcel Schlecht,Melvin Marxen,Central,MG Special,Lost,0,2017-05-28
+D01U0UR8,ACC-0025,Funholding,Darcel Schlecht,Melvin Marxen,Central,GTX Basic,Won,571,2017-06-17
+JP3IMU5X,ACC-0039,Isdom,Gladys Colclough,Melvin Marxen,Central,GTX Plus Pro,Won,4853,2017-05-16
+7C9BUYV0,ACC-0010,Cheers,James Ascencio,Summer Sewald,West,GTX Basic,Lost,0,2017-05-23
+GMVW87C4,ACC-0010,Cheers,Kami Bicknell,Summer Sewald,West,GTXPro,Won,5035,2017-06-17
+NY9ARKRE,ACC-0011,Codehow,Marty Freudenburg,Melvin Marxen,Central,MG Special,Won,51,2017-06-01
+XO3XXR9X,ACC-0014,Dalttechnology,Maureen Marcano,Summer Sewald,West,GTXPro,Won,4342,2017-06-09
+8QBIFURM,ACC-0011,Codehow,Versie Hillebrand,Dustin Brinkmann,Central,MG Advanced,Lost,0,2017-03-13
+396WP6JS,ACC-0030,Gogozoom,Anna Snelling,Dustin Brinkmann,Central,MG Special,Won,58,2017-03-19
+57689GK9,ACC-0023,Finhigh,Cecily Lampkin,Dustin Brinkmann,Central,MG Advanced,Won,3587,2017-03-20
+TF7HCU69,ACC-0027,Gekko & Co,Garret Kinder,Cara Losch,East,GTX Plus Basic,Won,1062,2017-06-12
+0EX7ML4W,ACC-0023,Finhigh,Gladys Colclough,Melvin Marxen,Central,GTX Plus Pro,Lost,0,2017-05-10
+5XPYFICK,ACC-0038,Inity,Rosie Papadopoulos,Cara Losch,East,MG Special,Engaging,0,
+6XHE52MV,ACC-0038,Inity,Anna Snelling,Dustin Brinkmann,Central,MG Special,Lost,0,2017-05-30
+ZPX96Q40,ACC-0012,Condax,James Ascencio,Summer Sewald,West,GTX Plus Pro,Won,5344,2017-06-12
+FGH181PC,ACC-0014,Dalttechnology,Kami Bicknell,Summer Sewald,West,GTX Basic,Won,528,2017-06-06
+G3KFZ8KX,ACC-0033,Green-Plus,Kary Hendrixson,Summer Sewald,West,GTXPro,Lost,0,2017-05-07
+YL7XWUYO,ACC-0011,Codehow,Lajuana Vencill,Dustin Brinkmann,Central,GTX Basic,Won,459,2017-06-17
+VO8TFB31,ACC-0010,Cheers,Maureen Marcano,Summer Sewald,West,GTX Basic,Lost,0,2017-06-26
+8RF8XVYF,ACC-0013,Conecom,Versie Hillebrand,Dustin Brinkmann,Central,GTX Basic,Won,589,2017-05-10
+ZILYYA1V,ACC-0032,Goodsilron,Vicki Laflamme,Celia Rouche,West,MG Special,Won,45,2017-03-30
+NH0WGTR4,ACC-0025,Funholding,Anna Snelling,Dustin Brinkmann,Central,MG Special,Lost,0,2017-05-25
+73HO9OZC,ACC-0024,Finjob,Cassey Cress,Rocco Neubert,East,GTX Basic,Engaging,0,
+T14K7M5G,ACC-0037,Initech,Corliss Cosme,Cara Losch,East,GTX Plus Basic,Won,1074,2017-06-11
+XPP2Q5WQ,ACC-0029,Globex Corporation,Darcel Schlecht,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-05-02
+HG07756D,ACC-0024,Finjob,Elease Gluck,Celia Rouche,West,GTX Basic,Won,481,2017-03-31
+3E4VTH6E,ACC-0035,Hatfan,Hayden Neloms,Celia Rouche,West,MG Special,Engaging,0,
+GTANESSU,ACC-0039,Isdom,Lajuana Vencill,Dustin Brinkmann,Central,GTX Plus Basic,Won,991,2017-05-22
+LA0O6BHX,ACC-0019,Dontechi,Lajuana Vencill,Dustin Brinkmann,Central,GTX Plus Pro,Won,4509,2017-05-27
+G281LUYF,ACC-0023,Finhigh,Niesha Huffines,Melvin Marxen,Central,GTX Plus Basic,Lost,0,2017-05-08
+N8G3G1UF,ACC-0030,Gogozoom,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,60,2017-05-29
+SDXZB8MC,ACC-0036,Hottechi,Versie Hillebrand,Dustin Brinkmann,Central,MG Special,Won,53,2017-06-20
+PFUE2JYB,ACC-0024,Finjob,Vicki Laflamme,Celia Rouche,West,MG Special,Won,56,2017-05-26
+HEG8WPQF,ACC-0038,Inity,Anna Snelling,Dustin Brinkmann,Central,GTX Plus Basic,Won,1140,2017-05-09
+T7UYHDUN,ACC-0018,Donquadtech,Boris Faz,Rocco Neubert,East,GTX Plus Pro,Lost,0,2017-03-24

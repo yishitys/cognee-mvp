@@ -1,0 +1,61 @@
+[
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\crm_sales_opportunities_alt\\raw\\accounts.csv",
+    "rows": 85,
+    "columns": [
+      "account",
+      "sector",
+      "year_established",
+      "revenue",
+      "employees",
+      "office_location",
+      "subsidiary_of"
+    ],
+    "encoding": "utf-8-sig"
+  },
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\crm_sales_opportunities_alt\\raw\\data_dictionary.csv",
+    "rows": 21,
+    "columns": [
+      "Table",
+      "Field",
+      "Description"
+    ],
+    "encoding": "utf-8-sig"
+  },
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\crm_sales_opportunities_alt\\raw\\products.csv",
+    "rows": 7,
+    "columns": [
+      "product",
+      "series",
+      "sales_price"
+    ],
+    "encoding": "utf-8-sig"
+  },
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\crm_sales_opportunities_alt\\raw\\sales_pipeline.csv",
+    "rows": 8800,
+    "columns": [
+      "opportunity_id",
+      "sales_agent",
+      "product",
+      "account",
+      "deal_stage",
+      "engage_date",
+      "close_date",
+      "close_value"
+    ],
+    "encoding": "utf-8-sig"
+  },
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\crm_sales_opportunities_alt\\raw\\sales_teams.csv",
+    "rows": 35,
+    "columns": [
+      "sales_agent",
+      "manager",
+      "regional_office"
+    ],
+    "encoding": "utf-8-sig"
+  }
+]

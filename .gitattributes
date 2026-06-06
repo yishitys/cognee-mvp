@@ -1,0 +1,2 @@
+demo_materials/retail_sales_forecasting/raw/*.csv filter=lfs diff=lfs merge=lfs -text
+demo_materials/retail_sales_forecasting/*.zip filter=lfs diff=lfs merge=lfs -text

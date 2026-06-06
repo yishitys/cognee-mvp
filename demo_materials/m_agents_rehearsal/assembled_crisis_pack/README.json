@@ -1,0 +1,22 @@
+{
+  "source_datasets": {
+    "crm_sales_opportunities_alt": "Kaggle innocentmfa/crm-sales-opportunities",
+    "customer_support_tickets": "Kaggle suraj520/customer-support-ticket-dataset",
+    "saas_customer_churn": "Kaggle suhanigupta04/saas-customer-churn-prediction-dataset"
+  },
+  "assembled_tables": {
+    "accounts.csv": 40,
+    "contacts.csv": 40,
+    "opportunities.csv": 650,
+    "usage_events.csv": 1400,
+    "support_tickets.csv": 900,
+    "incident_log.csv": 2
+  },
+  "intentional_data_quality_issues": [
+    "Account aliases differ across accounts and support tickets.",
+    "Some support tickets omit account_id and require entity resolution.",
+    "Reported severity and normalized severity are not always aligned.",
+    "Strategic and enterprise accounts show post-incident usage drops.",
+    "Incidents affect product areas that appear in support tickets and usage signals."
+  ]
+}

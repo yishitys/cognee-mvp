@@ -1,0 +1,105 @@
+[
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\actual_matrix.csv",
+    "rows": 35202,
+    "columns": [
+      "",
+      "item_id",
+      "date",
+      "store_id"
+    ]
+  },
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\catalog.csv",
+    "rows": 219810,
+    "columns": [
+      "",
+      "item_id",
+      "dept_name",
+      "class_name",
+      "subclass_name",
+      "item_type",
+      "weight_volume",
+      "weight_netto",
+      "fatness"
+    ]
+  },
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\discounts_history.csv",
+    "rows": 3746744,
+    "columns": [
+      "",
+      "date",
+      "item_id",
+      "sale_price_before_promo",
+      "sale_price_time_promo",
+      "promo_type_code",
+      "doc_id",
+      "number_disc_day",
+      "store_id"
+    ]
+  },
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\markdowns.csv",
+    "rows": 8979,
+    "columns": [
+      "",
+      "date",
+      "item_id",
+      "normal_price",
+      "price",
+      "quantity",
+      "store_id"
+    ]
+  },
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\online.csv",
+    "rows": 1123412,
+    "columns": [
+      "",
+      "date",
+      "item_id",
+      "quantity",
+      "price_base",
+      "sum_total",
+      "store_id"
+    ]
+  },
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\price_history.csv",
+    "rows": 698626,
+    "columns": [
+      "",
+      "date",
+      "item_id",
+      "price",
+      "code",
+      "store_id"
+    ]
+  },
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\sales.csv",
+    "rows": 7432685,
+    "columns": [
+      "",
+      "date",
+      "item_id",
+      "quantity",
+      "price_base",
+      "sum_total",
+      "store_id"
+    ]
+  },
+  {
+    "file": "demo_materials\\retail_sales_forecasting\\raw\\stores.csv",
+    "rows": 4,
+    "columns": [
+      "",
+      "store_id",
+      "division",
+      "format",
+      "city",
+      "area"
+    ]
+  }
+]

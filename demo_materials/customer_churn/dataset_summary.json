@@ -1,0 +1,18 @@
+[
+  {
+    "file": "demo_materials\\customer_churn\\raw\\customer_churn.csv",
+    "rows": 900,
+    "columns": [
+      "Names",
+      "Age",
+      "Total_Purchase",
+      "Account_Manager",
+      "Years",
+      "Num_Sites",
+      "Onboard_date",
+      "Location",
+      "Company",
+      "Churn"
+    ]
+  }
+]

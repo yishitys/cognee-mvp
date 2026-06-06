@@ -1,0 +1,501 @@
+Customer_ID,Name,Email,Account_Age_Days,Login_Frequency,Daily_Usage_Mins,Last_Support_Ticket,Churn
+068b54d7-7461-4d1c-885e-f5b43efed384,Alyssa Clark,shawn43@example.com,269,Daily,43,Just checking if my payment went through.,0
+5d1e924a-5232-4255-8df9-610e13465816,Dr. David Austin MD,woodlydia@example.com,439,Rarely,9,The UI is too confusing. I can't find the export button.,1
+c07c0a8a-bac0-47f9-b93d-57d61490a610,Dorothy Rose,naguirre@example.org,18,Rarely,1,I've been waiting for support for 3 days. I'm cancelling.,1
+cfc0646f-0927-4e8e-b40f-75090340aa0a,Miranda Gilbert,xbauer@example.com,405,Daily,22,Is there a tutorial for the new dashboard feature?,0
+67855f87-2552-4273-9aff-1b2060638673,Adam Hayden,austinolivia@example.org,24,Daily,88,"Just upgraded to the Pro plan, excited to use it.",0
+14315c24-aa38-40f9-8eaa-bf5f242107d9,Matthew Ruiz,donnalewis@example.org,58,Weekly,50,How do I change my password?,0
+592b837b-6df9-4267-8009-b8a7d1c63e01,Edgar Taylor,rodriguezcynthia@example.net,590,Weekly,42,Can I add more seats to my current plan?,1
+3cbddf97-c9ff-4701-a979-2d2d341aa8fc,Sabrina Perez,wdavis@example.org,185,Rarely,11,Why did my subscription price increase without notice?,1
+013b83f4-0c40-4a53-85f2-e2c165cac055,Shawn Macdonald,ramosmichael@example.com,559,Rarely,2,The UI is too confusing. I can't find the export button.,0
+7ac4c7f9-94a3-454b-afe5-0f5399679504,Becky Cook,lori99@example.net,88,Daily,101,Customer support was super helpful yesterday. Thanks!,0
+fda5e6a2-9c88-4f0f-8f33-242b89edc6cb,Caleb Novak,heathermahoney@example.org,911,Daily,93,This tool has saved my team so much time.,0
+a37b8137-7b88-4273-b2ed-b9993192e791,Jonathan Payne,matthew78@example.com,130,Rarely,12,I'm very frustrated with the downtime. This is unacceptable.,1
+037ca95f-820c-4fdb-83a1-f491edd89c08,Jason Olson,daytimothy@example.net,954,Daily,38,How do I change my password?,0
+0825a209-a5eb-4a14-a463-3b942d2b593a,Bobby Jackson,joseph15@example.com,380,Weekly,48,Can I add more seats to my current plan?,0
+a974822d-cc71-48a4-b411-8127968af6f1,Brian Krueger,briannasmith@example.net,816,Daily,116,The integration with Slack works perfectly.,0
+4ac39e71-cab2-49d9-8b47-f57122404832,Brittany Contreras DDS,caldwelljessica@example.net,39,Weekly,46,I need to update my billing address.,0
+be0fff09-d876-4715-918d-6b6508f652eb,Martin Johnson,thomas56@example.net,739,Weekly,7,I'm very frustrated with the downtime. This is unacceptable.,0
+bd7ab3f0-bffa-430c-ac66-9f2117926e9e,Colleen Bowen,fjackson@example.org,794,Daily,90,"Smooth experience so far, no complaints.",0
+03507060-2553-4558-aa6c-a21aa72cb840,Mrs. Andrea Meza,gardnerpatricia@example.org,695,Daily,49,Just checking if my payment went through.,0
+0535cffd-9b93-4556-bf6e-b70464a1628d,Angelica Young,robertsmike@example.com,404,Weekly,52,Can I add more seats to my current plan?,1
+c0efe1bc-4798-4944-b956-aa3845c7677a,Tracy Buckley,evan75@example.org,192,Weekly,45,Is there a tutorial for the new dashboard feature?,0
+95d0a1a4-1c40-415e-b41d-cb1be763f447,Jennifer Vasquez,amyflores@example.net,465,Weekly,4,I've been waiting for support for 3 days. I'm cancelling.,1
+a74565ec-394a-44b5-93c1-f28e6a081d80,William Lawrence,fisherkeith@example.net,664,Daily,65,"Just upgraded to the Pro plan, excited to use it.",0
+b23e7a6f-866d-43ed-a2ce-fc6e82acbfc2,Mrs. Diana Carney MD,horntravis@example.org,702,Weekly,41,Is there a tutorial for the new dashboard feature?,0
+46739327-a118-4564-80fc-16ba39a18129,Adam Logan,kanerobert@example.net,54,Daily,53,I love the new analytics feature! Great job.,0
+41c3619a-656f-4349-9db4-04a990eaa15e,Joseph Hill,rachael22@example.net,567,Daily,51,The integration with Slack works perfectly.,0
+41d4e7ce-b887-4117-a255-f6a3a39764e8,Michael Conway,michaeljackson@example.org,249,Weekly,38,Just checking if my payment went through.,1
+dbf0c0e2-c5d1-411a-bbb2-f7944332f64d,Ryan Guerra,rose30@example.org,36,Rarely,1,The UI is too confusing. I can't find the export button.,1
+defd667c-3b78-4283-9f80-5efc4cade554,Todd Morales,amelton@example.com,420,Daily,17,I need to update my billing address.,0
+64eb9d06-c46f-41e7-ba93-2cce0b1726b6,Suzanne Wheeler,daniel21@example.org,170,Daily,51,When will the maintenance window end?,0
+9477c74b-fc76-42b8-b9af-7f66f0dd64b2,Megan Carr,joel26@example.net,41,Weekly,36,Just checking if my payment went through.,0
+fcb57156-0ce1-4205-8a90-edabdf0ad96e,Andrea Parks,wwright@example.net,885,Daily,118,"Smooth experience so far, no complaints.",1
+daf2d5c7-3576-45e8-8304-28ac337d2fd5,Mrs. Marcia Garcia DVM,kevin54@example.net,441,Rarely,8,I've been waiting for support for 3 days. I'm cancelling.,1
+f9961985-6563-49ac-8fc5-ba6092d7f149,Joanne Robinson,williamsonterri@example.net,301,Weekly,2,Why did my subscription price increase without notice?,1
+be2af142-ce1a-461b-955b-61be6a842be7,Justin Bradley,kathryn65@example.org,189,Daily,69,"Just upgraded to the Pro plan, excited to use it.",1
+dd414b92-77a9-4ba7-a5b8-6b805733b6d4,Anthony Phillips,alec40@example.com,380,Weekly,10,Why did my subscription price increase without notice?,0
+48ec32bc-1afa-485c-aa67-2d5da7703402,Sarah Wells,hphillips@example.net,183,Weekly,30,Can I add more seats to my current plan?,0
+d9dc0b2c-818a-4219-810a-e52bd02c4acd,Jason Davis,nicole23@example.com,1045,Rarely,5,Why did my subscription price increase without notice?,1
+f94f0ba4-f238-4394-b918-cc72ec9f70bc,Krista Jones,ymaddox@example.net,579,Daily,43,When will the maintenance window end?,0
+ba67eb55-7b78-41ef-9db8-37c403ae2cc0,Jared Conrad,jenniferbolton@example.net,578,Weekly,47,Is there a tutorial for the new dashboard feature?,0
+2a4101c1-20b2-499b-8a31-bc86192f0767,Richard Lawrence,tasha48@example.org,833,Daily,58,The integration with Slack works perfectly.,0
+5f4f3a88-95e4-4499-98ca-0f37197e7d47,Gabrielle Hughes,xpruitt@example.com,1075,Weekly,57,Can I add more seats to my current plan?,0
+0fa0b474-6adb-4723-8acc-899fbd69e615,Jorge Patel,progers@example.org,256,Daily,46,The integration with Slack works perfectly.,0
+caef9733-6f7f-4503-9660-8c35495f765c,Diana Davis,nicole96@example.com,1079,Weekly,13,The app crashes every time I try to upload a CSV.,1
+9072261a-644c-4b21-9b65-d74971291e88,Shaun Mclean,kathrynwilliams@example.com,673,Weekly,1,The UI is too confusing. I can't find the export button.,1
+8dcff16d-9d50-4ba5-a7e1-3cfb997f089f,Alex Perez,annehayes@example.org,511,Rarely,11,I've been waiting for support for 3 days. I'm cancelling.,1
+b1550860-620e-485d-b8d6-6e9ef02d96a4,William Baldwin,emmamoore@example.net,1070,Weekly,53,How do I change my password?,1
+7dc0c175-44a1-44c5-bebe-d28d3c2b4aca,Erica Robertson,richardgeorge@example.org,550,Weekly,47,When will the maintenance window end?,1
+4dda9424-bed7-4762-a510-6ac32dc692f3,Brandon Rodgers,rgordon@example.net,265,Rarely,2,I've been waiting for support for 3 days. I'm cancelling.,1
+18680669-ddb4-47ef-9151-a24ec993f075,Veronica Brown,joycesusan@example.net,588,Daily,105,I love the new analytics feature! Great job.,0
+0b27d8e2-ee30-40f0-8752-251df023674e,Angela Lucas,mark60@example.com,936,Weekly,29,Is there a tutorial for the new dashboard feature?,1
+121c3215-7ba2-4984-90ae-7eec5fc9c6ca,Justin Daugherty,rogerssarah@example.com,414,Weekly,18,Can I add more seats to my current plan?,0
+c6a10a5d-eb98-4cf5-bbee-344d85e75500,Douglas Shepherd,ryang@example.org,959,Daily,36,Can I add more seats to my current plan?,0
+42c1999c-562f-4287-aa3f-2c4b7bc2616e,Molly Young,burchheidi@example.org,105,Daily,31,Just checking if my payment went through.,0
+e8f8e13b-0df2-426b-ae14-85a0f22503eb,Michael James,donald36@example.org,513,Daily,39,Just checking if my payment went through.,0
+e50536fe-971f-4140-a68a-679bd25fde32,Ashley Hamilton,eritter@example.org,989,Daily,103,"Just upgraded to the Pro plan, excited to use it.",0
+c3c131d4-3407-4cd1-b37f-1f299c36096a,Brandi Myers,wfrost@example.org,68,Daily,94,"Just upgraded to the Pro plan, excited to use it.",0
+59484897-fdc8-44c0-a6ee-020ffb371306,Anthony Brooks,fpope@example.org,875,Daily,53,Just checking if my payment went through.,0
+b5783987-2cb1-4508-b836-b346df6fff76,Lydia Park,alexanderadam@example.net,426,Weekly,23,Can I add more seats to my current plan?,0
+16dcfca0-b78e-4fcc-b2b0-80fafc998620,Kenneth Austin,fcarroll@example.org,855,Daily,69,The integration with Slack works perfectly.,0
+d6616808-7a72-4f5c-8d16-274ef16368e2,Douglas Freeman,laurieleon@example.com,556,Rarely,10,I'm very frustrated with the downtime. This is unacceptable.,0
+b3f01b66-2c6b-4677-b5e9-9b640179d694,David Garner,dwilliams@example.org,847,Weekly,31,How do I change my password?,0
+d79d9751-cff8-4201-b5e6-7883566fd3ee,Rebecca Butler,lewiselizabeth@example.com,12,Daily,82,Customer support was super helpful yesterday. Thanks!,0
+31943c00-6222-475b-b8e5-f73b716ac78b,Daniel Patton,acostajames@example.com,161,Weekly,52,Can I add more seats to my current plan?,0
+f1c180b9-6c66-416f-9809-f6cc0ddac29c,Lynn Good,jerry02@example.net,12,Weekly,37,Can I add more seats to my current plan?,0
+de1c52c7-2bf7-412d-8e6d-a14ec99cb15a,Amy Garcia,lewisronald@example.com,466,Rarely,14,I'm very frustrated with the downtime. This is unacceptable.,1
+42df406b-5018-4643-8da1-96237a0014c0,Kevin Houston,timothygray@example.com,836,Rarely,6,Your API documentation is outdated and full of errors.,1
+8f4ee33d-3a1c-4756-a7c3-8bd174cc43ad,Amanda Peters,wmorales@example.net,697,Daily,44,How do I change my password?,0
+17d10c92-8ca7-45d3-9645-6164b087b857,Timothy Porter,cynthialarson@example.com,121,Rarely,1,I've been waiting for support for 3 days. I'm cancelling.,1
+dfe79a11-1f47-4fdd-ada4-30baa3650d6d,Samuel Mathews,jschultz@example.org,1055,Daily,38,Can I add more seats to my current plan?,1
+a1974816-6b40-4638-8bea-78a554f15522,Jared Daugherty,omar18@example.com,327,Daily,65,"Just upgraded to the Pro plan, excited to use it.",0
+1fb10d61-95bf-49c3-b0c9-d899d0928f51,Nancy Butler,vbass@example.com,135,Weekly,52,Is there a tutorial for the new dashboard feature?,0
+d0cf61f5-b66a-4dc1-91fe-5659ab632c05,Christy Goodman,louismiller@example.org,984,Rarely,5,Your API documentation is outdated and full of errors.,1
+e13cd79e-4a38-43df-8feb-c6fd37395555,Maurice Foster,ewilson@example.org,539,Daily,65,"Just upgraded to the Pro plan, excited to use it.",0
+1a587a8b-7c97-46f1-a686-98e8100a0e57,Jessica Gardner,walkerluis@example.com,1078,Rarely,10,The UI is too confusing. I can't find the export button.,1
+d3adb152-4372-4527-8380-280ee3c6615b,Connor James,vanessapatrick@example.com,758,Rarely,11,Your API documentation is outdated and full of errors.,0
+f77b5305-e15f-4452-8775-a9532110d202,Stephen Thompson,sedwards@example.net,619,Daily,50,I love the new analytics feature! Great job.,0
+c5ebcc1c-8e44-4de7-9279-411c086cb099,Wanda Hughes,johndominguez@example.org,927,Daily,15,Just checking if my payment went through.,0
+7297e1af-1323-4611-a023-3a004778f01d,David Tate,sherri59@example.net,570,Daily,51,Customer support was super helpful yesterday. Thanks!,0
+c59fafcf-609a-4fdc-8568-85371412048d,Shane Chambers,jimeneztaylor@example.org,99,Weekly,45,Can I add more seats to my current plan?,0
+7f32dff9-a7ed-43f4-9c6d-1af86b6bdf17,William Hampton,bbrown@example.net,78,Daily,52,Just checking if my payment went through.,0
+fe2c857c-6537-4b90-aa2b-d17d61757993,Christy West,smithjose@example.com,511,Rarely,1,I'm very frustrated with the downtime. This is unacceptable.,0
+efee253f-8fa9-4b80-8599-6d0e36995175,Zachary Gonzales,andrewmiller@example.com,599,Rarely,8,The UI is too confusing. I can't find the export button.,1
+db1cc72c-6040-43bb-91c7-c5cee0103a56,Robert Cummings MD,markherrera@example.net,993,Weekly,3,I'm very frustrated with the downtime. This is unacceptable.,1
+085f267c-5aec-47f4-bdc8-a54f576c9e11,Jennifer Munoz,robert13@example.com,324,Daily,31,How do I change my password?,1
+85d1a2ad-8500-46d0-a9d7-c1d29f568c44,Deborah Anderson,ericaross@example.org,58,Daily,24,I need to update my billing address.,0
+e49c9672-c4d2-4391-9e7c-8a54df1a2111,Tracy Jones,amy71@example.com,369,Weekly,28,How do I change my password?,0
+a8289053-ddea-48c9-bdbc-cc3404ecc4ad,Jason Walker,nathangarcia@example.net,126,Daily,73,Customer support was super helpful yesterday. Thanks!,0
+bc94e14c-e685-4de8-a7f1-488a650cc27b,Douglas Walsh,dgarcia@example.com,13,Weekly,8,The UI is too confusing. I can't find the export button.,1
+8c492ebc-9ae4-4584-9dd5-55b727721446,April White,omar12@example.net,314,Daily,48,Is there a tutorial for the new dashboard feature?,1
+ea412d7c-ef49-4da8-b79b-2e8b8089d6f5,Sean Peterson,scottflynn@example.com,570,Weekly,27,I need to update my billing address.,0
+80bf349a-fddb-4d6d-a72a-50f62294a2b9,Trevor Pierce,ofreeman@example.net,331,Daily,52,Is there a tutorial for the new dashboard feature?,0
+cb555db3-d9b2-4e3a-884f-a04528d68b39,James Massey,angela33@example.com,1041,Weekly,36,Just checking if my payment went through.,0
+539b7a50-b826-45f3-b1ba-2d2c87145839,Stacey Goodwin,shawstacey@example.org,897,Daily,114,"Just upgraded to the Pro plan, excited to use it.",0
+96962aac-209b-4579-a33f-e99dfcaf7c1a,Kelly Lara,derrickrichardson@example.com,125,Weekly,5,The app crashes every time I try to upload a CSV.,1
+08ec70b7-b329-4db8-aa16-d1b3736a4d4f,Sara Lopez,bhoffman@example.com,228,Daily,53,This tool has saved my team so much time.,0
+5bd76019-bd81-439c-a3f1-e655874f91b3,Savannah Vasquez,lindseystevens@example.net,570,Weekly,7,I've been waiting for support for 3 days. I'm cancelling.,1
+e1569e2f-da67-4cde-8c76-661fa1de70f6,Dawn York,jameslewis@example.com,114,Daily,109,Customer support was super helpful yesterday. Thanks!,0
+473aa375-9d3a-4b52-b512-6070c6dbfe69,Latasha Espinoza,moraleschristina@example.org,788,Weekly,43,Is there a tutorial for the new dashboard feature?,0
+8f321092-cb86-4a84-bee2-a5343b536e13,Darryl Ramirez,dharris@example.com,922,Daily,16,Just checking if my payment went through.,0
+98221bc5-307f-424f-9d94-e3b6b02d2d05,William Gray,haneyamanda@example.com,351,Daily,50,I need to update my billing address.,0
+69e54cab-6f52-45f4-a802-7d0e7296b713,Lori Wilson,melissajimenez@example.com,974,Rarely,14,The app crashes every time I try to upload a CSV.,0
+e21cd418-0533-4a73-8b11-60d01aa12377,Tonya Castro,uware@example.com,65,Weekly,1,The app crashes every time I try to upload a CSV.,1
+249aa8d3-5aad-4b19-9e0b-66f79a9d7be9,Sara Zamora,wmorris@example.com,108,Weekly,13,The UI is too confusing. I can't find the export button.,1
+615bf6c9-1290-4266-9221-2671e5c8b8f9,Lori Shaw,ashleyglover@example.org,517,Daily,47,Just checking if my payment went through.,0
+27bca0d5-7bcc-4fe5-bf93-c955241c6816,Megan Chapman,cassandra55@example.org,1017,Daily,109,Customer support was super helpful yesterday. Thanks!,0
+d37576da-7128-4d3c-9d01-c5ffb7bd378f,Jeffrey Norton,brianna40@example.net,321,Weekly,33,Can I add more seats to my current plan?,0
+58d7c51e-ce39-4383-8abb-9d778aacc71a,Brian Collier,sgarcia@example.com,355,Daily,16,Can I add more seats to my current plan?,0
+703e8cb1-b47a-444c-bcba-ff1dfdbff520,Jennifer Williams,jasmine51@example.org,410,Rarely,9,I've been waiting for support for 3 days. I'm cancelling.,0
+3526f839-9868-470c-ae9b-51b3d474061d,Mary Mcdaniel MD,carl79@example.com,938,Daily,30,When will the maintenance window end?,0
+60983901-ce29-49f4-8e78-0a4696176dd0,Jennifer Espinoza,brownsheila@example.org,680,Weekly,30,Can I add more seats to my current plan?,0
+91a5c6b0-8da6-4d98-9a42-ab595e99ca31,Jeffrey Smith,yvonnehester@example.com,1084,Weekly,43,Just checking if my payment went through.,0
+135d8981-3395-448e-8dd0-39f625467fee,Matthew Collins,jwalsh@example.net,624,Daily,17,When will the maintenance window end?,0
+53fefe35-4515-4a8f-b0ec-f1b7bd66b58a,Nicole Gonzalez,james33@example.com,986,Rarely,11,I've been waiting for support for 3 days. I'm cancelling.,1
+5008f124-cd85-418d-a649-4170dc2bd022,Haley Randolph,travis69@example.net,85,Daily,50,I love the new analytics feature! Great job.,0
+ff7a9a15-73f2-48b4-9ecb-b27bf8d4d79a,Jodi Espinoza,jay35@example.org,496,Weekly,28,How do I change my password?,0
+91a68053-0621-48f1-a8d8-d476a73915f5,Michael Taylor,smithrandy@example.com,200,Daily,116,The integration with Slack works perfectly.,0
+0c7eaec9-ff53-4b30-9c35-21ae38d7e8dd,Mark Wood,karenconway@example.org,371,Daily,26,Can I add more seats to my current plan?,0
+0b9b5227-b604-43a1-8db7-479f8eb6704e,Lauren Travis,grantstephanie@example.com,708,Daily,38,Can I add more seats to my current plan?,0
+0d5c3971-f433-43a5-817c-a3c09f9fb51a,Donald Washington,pateldouglas@example.net,50,Daily,74,The integration with Slack works perfectly.,0
+0016b14c-da3e-41a0-ace3-2571d8f28e6f,Sara Koch,johngordon@example.net,590,Daily,49,How do I change my password?,1
+cfd07111-4eb2-4740-8f59-8c133b09080f,Vanessa Carr,wortiz@example.net,586,Daily,29,I need to update my billing address.,0
+7cca8ae0-53c9-410c-b1b9-c0dec6ca92b1,Glenn Mendez,younglindsay@example.com,919,Daily,52,Can I add more seats to my current plan?,0
+875ba1c3-11a9-40c3-93d9-d87d50d35650,Angela Murphy,hayesernest@example.com,840,Rarely,13,The app crashes every time I try to upload a CSV.,1
+9bdd9228-457b-447f-8cf9-0ec16036396d,Charles Smith,kristin79@example.org,1057,Rarely,12,Your API documentation is outdated and full of errors.,1
+1baaac13-2a06-479b-be24-5aa54960f5fb,Christina Richardson,jacob41@example.org,194,Weekly,14,The UI is too confusing. I can't find the export button.,1
+7f78655b-db3c-449b-8051-633d1a3b1326,Russell Edwards,elizabeth55@example.net,1094,Daily,44,Is there a tutorial for the new dashboard feature?,1
+9c022bb1-f506-445f-b465-289ff95b0b04,Albert Bentley,marksrobert@example.org,210,Daily,59,Just checking if my payment went through.,0
+c9cfed25-fbcd-407c-be1f-e2807b39b8eb,Diane West,qrobertson@example.org,430,Rarely,10,I'm very frustrated with the downtime. This is unacceptable.,1
+e1cac510-73fd-4c73-bd54-e924f707883d,Jennifer Flores,paula53@example.net,1044,Weekly,5,Why did my subscription price increase without notice?,1
+86597ebe-ceb6-410a-8e40-32f2d19dbc5c,Cole Williams,matthew13@example.net,620,Daily,23,Just checking if my payment went through.,1
+bbb8a3a7-3f0e-46fb-af82-1361f14860d0,Deborah Ballard,mitchellruiz@example.net,757,Daily,45,This tool has saved my team so much time.,0
+17e44e32-d680-43df-a315-56a62f5a5427,James Riley,stokesbrianna@example.net,665,Weekly,29,I need to update my billing address.,0
+bb7b8799-c20b-4adc-bbe3-1629da49beff,Aaron Ward,collinskevin@example.net,244,Daily,98,I love the new analytics feature! Great job.,0
+72c19964-af42-4b50-9861-ee9c6a6a9dd4,James Cole,kevinross@example.com,502,Rarely,6,The app crashes every time I try to upload a CSV.,1
+36c5678e-3c45-43f8-972b-722d65afd899,Sheila Vega,shawnmunoz@example.net,210,Rarely,4,Your API documentation is outdated and full of errors.,1
+dc7929cc-2b6a-4df0-8d47-93f9fa8c3bdb,Robert Morris,erinchase@example.org,83,Daily,96,Customer support was super helpful yesterday. Thanks!,0
+26730da4-ea57-44d0-9e7c-79f01d310151,Joy Phillips,olivercharles@example.net,901,Daily,94,The integration with Slack works perfectly.,0
+db4fcea1-9de1-4a65-838b-cb213b9a8c88,Amy Kelly,teresa66@example.net,664,Daily,100,"Just upgraded to the Pro plan, excited to use it.",0
+53de08f4-a3d4-4d29-a10e-e067e61f9bba,John Robinson,brianortiz@example.com,698,Daily,97,"Smooth experience so far, no complaints.",0
+313a1c9f-4350-4dab-ac84-533dee477503,Kayla Gibbs,omcintosh@example.net,695,Daily,57,How do I change my password?,1
+f918ebe8-67d7-4789-b78a-aa636c06bfc3,Eric Pierce,psandoval@example.net,899,Daily,110,The integration with Slack works perfectly.,0
+211d3459-3e07-49db-87e5-ab7a448182e0,Thomas Mcdonald,alvaradovirginia@example.org,1093,Rarely,3,I'm very frustrated with the downtime. This is unacceptable.,1
+19875afd-006a-4450-863a-59f33c10a2c3,David Woodard,alexander38@example.org,467,Daily,47,How do I change my password?,0
+33cce1ba-ecf0-4359-ac07-b54e9eecae6e,Robert Walls,brendahowe@example.org,140,Weekly,19,I need to update my billing address.,0
+d0338ae2-1ff0-4220-a852-ed3380546cf3,Steven Russell,collinsmary@example.net,212,Weekly,59,I need to update my billing address.,0
+6efa0660-5985-4619-8ea2-83c1cc034bf3,Julia White,nboyd@example.com,797,Daily,47,How do I change my password?,0
+ee6794ab-6efb-43bb-b8b2-f5f44e2c48a4,Carrie Jackson,allenkristin@example.org,989,Daily,18,I need to update my billing address.,0
+a50b9974-8468-472d-b526-b64f2a9a0e0c,Rachel Wilson,kevin10@example.org,299,Daily,105,This tool has saved my team so much time.,0
+010492b3-561f-42e6-863c-40523d750ff8,Thomas Dean,franciscogriffith@example.org,748,Weekly,1,I'm very frustrated with the downtime. This is unacceptable.,0
+fbd64070-8df0-48ce-bdad-4b8496dd8cd7,Andrea Davis,bradleyanthony@example.org,726,Weekly,10,The app crashes every time I try to upload a CSV.,1
+91534361-0492-4f05-b189-acb52d0270b6,Christopher Taylor,andrewho@example.net,74,Weekly,4,I've been waiting for support for 3 days. I'm cancelling.,1
+bdb4942a-d3a4-4f3c-a0ce-584ba56cb2e4,Christopher Bonilla,jenniferaguirre@example.org,258,Daily,70,I love the new analytics feature! Great job.,0
+850cc9fe-84bc-42e4-bcd8-39ecc9451df0,Michelle Carrillo,sheliawilson@example.net,546,Rarely,14,I'm very frustrated with the downtime. This is unacceptable.,1
+e54405e8-2273-4aa3-a3a0-76ae8b87acd3,Tyler Paul,ykrause@example.com,117,Weekly,22,Is there a tutorial for the new dashboard feature?,1
+02289e0c-0c3b-4fb5-96f0-4342cdfdd468,Ryan Mcintyre,melindawilliams@example.net,899,Daily,18,Just checking if my payment went through.,0
+83c4a0f7-8c63-4423-b9a3-96ba79228e41,Toni Cook,qshepherd@example.net,397,Rarely,3,The UI is too confusing. I can't find the export button.,1
+4a09500b-e74b-498c-b3e9-f4121aad6276,Deborah Blackburn,jaredturner@example.org,1013,Weekly,43,When will the maintenance window end?,0
+908bb014-37eb-4cdf-85d1-5b1cc4591cfd,Lisa Patterson DDS,tlopez@example.com,488,Daily,48,Is there a tutorial for the new dashboard feature?,0
+7ac6f200-4d29-4af6-ad22-80977e639544,Danielle Heath,hubbardabigail@example.net,389,Rarely,5,I've been waiting for support for 3 days. I'm cancelling.,1
+5b68946d-4891-4dbe-b02e-edffd5f8a911,Ashley Morris,jacquelinerobertson@example.net,106,Weekly,17,Just checking if my payment went through.,0
+d2b63b2e-0bd8-4c56-8f8a-56bc0aa5dff2,Logan Patterson,gomezbill@example.org,78,Rarely,7,Your API documentation is outdated and full of errors.,1
+fb23c75a-9a6a-420f-800c-048de923ca0f,James Torres,jesse98@example.net,455,Daily,62,"Smooth experience so far, no complaints.",0
+052927fe-e69b-49e9-8ad4-7ee349444c0d,William Thornton,mariahgarcia@example.org,395,Weekly,26,I need to update my billing address.,1
+bff7488c-0696-4075-95d7-540a0fa37145,Michael Steele,jerry59@example.com,662,Weekly,42,When will the maintenance window end?,0
+820054d9-3750-4844-b63e-eccec0e6218c,Monica Ali,april24@example.net,738,Daily,103,I love the new analytics feature! Great job.,0
+1d0e978c-94ba-45d1-a26a-f2a6dff4f2ce,Chelsea Frey,coltonbaker@example.com,27,Weekly,41,Can I add more seats to my current plan?,1
+78ba00dd-6803-467e-a0a3-682f4aa69621,Anthony Long,tavila@example.net,234,Weekly,7,The app crashes every time I try to upload a CSV.,1
+44f3f0db-f0ac-49f2-b3f0-1dc928513bd9,Sandra Collins,chavezrichard@example.org,103,Daily,18,Is there a tutorial for the new dashboard feature?,0
+f410650a-8634-458a-bfdd-c4a3f1275c88,Anthony Pitts,juliefreeman@example.org,11,Daily,85,The integration with Slack works perfectly.,0
+2c25ac06-317b-47f3-8149-024857ff9e87,Michael Young,reedbarbara@example.net,618,Rarely,5,Your API documentation is outdated and full of errors.,1
+2aeb78ea-16f0-4636-9e9e-99a01bd7a560,Robert Crawford,kristinzimmerman@example.org,616,Daily,115,I love the new analytics feature! Great job.,0
+3d00d11f-5cd9-49df-a7c8-b6f8b4fdb6e9,Jessica Moss,johnny54@example.net,638,Weekly,10,The app crashes every time I try to upload a CSV.,0
+71e95291-2b7a-4b4e-80f3-93cf106882c6,Michael Sutton,curryana@example.org,623,Daily,41,Is there a tutorial for the new dashboard feature?,1
+1c973d1c-1e5e-4c70-ad59-c12e5b298a5a,Raymond Copeland DVM,anthony01@example.com,990,Weekly,45,Just checking if my payment went through.,0
+1e480f8e-63ac-46b2-8a02-e020d593d2c3,Tiffany Hill,gevans@example.com,520,Daily,91,The integration with Slack works perfectly.,0
+096fede7-8470-4f83-9ee6-a2b77cdc31e5,Steven Burch,hollygreene@example.org,209,Daily,49,When will the maintenance window end?,0
+53547069-1f7d-4f62-af34-8438b2ece131,Joshua Thompson,acostaamy@example.net,118,Daily,27,Can I add more seats to my current plan?,0
+4b9b4d68-57bc-432a-b79f-ce6232a85ce9,Christopher Small,william10@example.com,314,Daily,33,How do I change my password?,0
+55690ebe-24d8-4af3-8336-d6358141ae5e,Lori Hernandez,johnharrington@example.com,170,Daily,25,When will the maintenance window end?,0
+4014fac9-3fb8-438b-a2d7-417d00e9c5bf,Christopher Hoover,david25@example.org,676,Weekly,12,I've been waiting for support for 3 days. I'm cancelling.,1
+38ecfe94-16ff-4a89-a2f3-3eb5e1cf1465,Kelly Cook,robertsgeorge@example.net,686,Weekly,14,The UI is too confusing. I can't find the export button.,0
+3119857e-e2a0-4af9-ac88-a94694d76a59,Daniel Webb,stephen98@example.com,898,Weekly,8,Why did my subscription price increase without notice?,1
+f92e7db1-ecd1-4779-b04a-9d8240d5f642,Robert Hanna,asmith@example.net,593,Weekly,29,Is there a tutorial for the new dashboard feature?,0
+492bbf3f-4043-46b4-a22f-fd6e4190202c,Darrell Maldonado,susan20@example.org,187,Daily,88,Customer support was super helpful yesterday. Thanks!,1
+6b0f1a5f-0b23-460a-a6e2-18278bbfd89d,Maria Munoz,natalieduncan@example.net,221,Daily,67,I love the new analytics feature! Great job.,0
+bdbab6cc-9b70-48aa-8336-d5118e9bd568,Brent Shaw,robert42@example.org,580,Daily,92,"Just upgraded to the Pro plan, excited to use it.",0
+4014fc73-ed35-439a-8f13-1b63d8fcd478,Dennis Ali,brianna79@example.com,106,Weekly,46,Can I add more seats to my current plan?,0
+a7e729c0-15bc-426c-b4c4-c93d29417be1,Thomas Wood,mirandabrian@example.org,274,Weekly,42,I need to update my billing address.,0
+ad95ae0f-688a-4ba4-b6ba-943aac9bbd32,George Garner,klinejerry@example.org,162,Daily,116,"Just upgraded to the Pro plan, excited to use it.",0
+ed207729-f304-4311-b3e1-92ce26cca057,Rodney Diaz,dixontracy@example.net,41,Daily,55,Is there a tutorial for the new dashboard feature?,1
+cea071c6-1042-4e0c-80d3-c631e7667b0a,Curtis Baker,fspencer@example.net,49,Daily,19,When will the maintenance window end?,0
+55b16f89-e750-4cef-a356-d343c927d6fc,Michael Weeks,rtodd@example.com,652,Weekly,38,Just checking if my payment went through.,0
+16982188-2221-4667-8751-908a7cfdb252,Wesley Huffman,ahickman@example.org,253,Daily,57,When will the maintenance window end?,0
+f0f9dcb3-3c85-4353-ab0f-340d2126e6fd,Megan Lopez,ryanflores@example.org,320,Weekly,41,I need to update my billing address.,1
+e08ef5d0-24ca-4ef2-a4ca-696cf3235c67,Kimberly Carr,christina96@example.com,880,Daily,90,"Just upgraded to the Pro plan, excited to use it.",1
+f892ad4a-f585-4a48-8d7d-e1ab91fb4c1c,Jeffrey Garza,baileyclaire@example.com,515,Weekly,39,Is there a tutorial for the new dashboard feature?,0
+87ad18db-dee3-4d64-8483-f6938628429c,John Lynch,loripetersen@example.net,421,Daily,50,When will the maintenance window end?,1
+7ac174b7-e5dd-4be7-9052-26fb56475ad8,Jacob Ferguson,christophermills@example.org,115,Rarely,14,Your API documentation is outdated and full of errors.,1
+fe378c17-da89-4670-9d11-ecdb8a653d9a,Michael Becker,jennifergordon@example.org,491,Weekly,23,Is there a tutorial for the new dashboard feature?,0
+99c2b496-a92f-4c7e-9b4e-13b74110b449,Allison Sims,graylaura@example.net,174,Weekly,4,The app crashes every time I try to upload a CSV.,1
+fe7908da-c045-48aa-a1d0-73689acae60a,Kevin Jackson PhD,xadams@example.com,969,Weekly,40,Just checking if my payment went through.,0
+62cd94d9-91c5-4616-b29b-eed3fedd2fe3,Michael Perez,thuber@example.com,174,Weekly,24,How do I change my password?,0
+e03cd796-6401-4196-ba28-626c02978bdd,Brooke Taylor,branchtimothy@example.org,169,Rarely,7,I'm very frustrated with the downtime. This is unacceptable.,0
+dda255c2-2f55-4ce9-aab1-2ffdb1f5027c,Elizabeth Christensen,sarah35@example.net,1042,Weekly,56,When will the maintenance window end?,0
+df5d3d3e-9bd9-48d3-b203-847e6d2edd1a,Robert Zimmerman,teresa74@example.net,207,Weekly,43,When will the maintenance window end?,0
+e2f47540-f9fc-4405-bdd0-11c2ff84135d,Jacob Rose,gkey@example.net,505,Daily,18,I need to update my billing address.,0
+1fde5ab1-0bca-420d-9682-8450f11ca7ee,Scott Jennings,ssmith@example.org,806,Weekly,56,Can I add more seats to my current plan?,0
+eff03bc1-1da6-4b5f-8867-a0eb7670a49f,Rachel Blake,barbara30@example.org,115,Daily,46,This tool has saved my team so much time.,0
+9ceb3eb2-913e-4b50-98bb-122fc6ed2d75,Jonathan Mcclain,ortiztonya@example.net,588,Rarely,9,I've been waiting for support for 3 days. I'm cancelling.,1
+4adb86d9-01ca-4b99-8c91-afa01de20d69,James Dunn,kthomas@example.org,555,Daily,54,How do I change my password?,0
+3b323003-07ec-4d70-8aa7-2c46d335e59d,Matthew Holloway,tyler35@example.com,159,Daily,42,Can I add more seats to my current plan?,0
+371fe871-e8da-474c-bbe3-bb490956f755,Donna Frank,michellerobinson@example.net,1030,Weekly,56,How do I change my password?,0
+6782fab3-4eed-4944-95f9-c85df3bc8194,Elizabeth Willis,robinsondenise@example.com,684,Weekly,14,The app crashes every time I try to upload a CSV.,1
+f2ae89c4-a827-4233-b41c-3caeb9f9dec6,Jennifer Flores,vclayton@example.net,1027,Weekly,36,Is there a tutorial for the new dashboard feature?,0
+5deae017-a857-42ba-b651-657ef79a5537,Kevin Jones,jessicalindsey@example.net,204,Daily,23,Can I add more seats to my current plan?,0
+22818bbe-064d-4d8b-8f1d-da33007891a7,Tony Spencer,vwilson@example.net,27,Daily,54,Is there a tutorial for the new dashboard feature?,1
+f0f280c1-1c58-4842-8473-0713d1f61afb,Mr. Christopher Lewis Jr.,hmcintyre@example.org,338,Weekly,12,I've been waiting for support for 3 days. I'm cancelling.,1
+c16aabd1-a0b5-46a3-b09c-4aa0cbee9151,Robert Moore,gordondonald@example.net,52,Daily,40,Is there a tutorial for the new dashboard feature?,0
+462c8b4f-2d39-4e99-a696-243c79b2f11c,Kelly Bowman,ugrant@example.net,536,Weekly,37,How do I change my password?,1
+c7dc4454-be5b-4ac6-a3b4-26abb1689d8a,Regina Johnson,sburton@example.org,146,Weekly,14,Why did my subscription price increase without notice?,1
+6cb486d1-2886-4ea6-9262-4d7b77a0819f,Anthony Wu,brendawilliams@example.org,1039,Daily,16,I need to update my billing address.,0
+39f6238b-4460-4738-a16e-b0bcc13856e0,Katherine Lee,dana81@example.net,616,Daily,55,Can I add more seats to my current plan?,0
+94defea5-d7f5-4b8f-a73a-03cb3b860038,Jacqueline Ellis,jacobgolden@example.org,434,Daily,46,Customer support was super helpful yesterday. Thanks!,0
+3767c349-abcf-40fc-adfb-903c72267f4b,Chad Smith,christopher33@example.net,221,Rarely,12,The UI is too confusing. I can't find the export button.,1
+1f7378c3-7ac3-461d-97ad-5ed2426ab696,Shelia Diaz,schmidtjames@example.com,1012,Daily,85,This tool has saved my team so much time.,0
+faa5dbb9-de69-4a65-91fa-2fc9f902f862,Anthony Reynolds,christopher74@example.org,619,Rarely,1,The UI is too confusing. I can't find the export button.,1
+0f636b3d-c57b-47af-a845-f4857b75249d,Leslie Hanson,johnsontimothy@example.net,607,Weekly,9,Why did my subscription price increase without notice?,0
+863a3867-fcd6-446b-9d56-a49f10a29d6f,Chelsea Smith,jeffrey35@example.net,516,Rarely,7,I'm very frustrated with the downtime. This is unacceptable.,1
+4f6b72f2-ec08-4d53-9d36-693810d268b5,Teresa Norris,johnny39@example.net,405,Daily,26,Just checking if my payment went through.,1
+a96b016e-7bb9-4a84-9f1f-5c5a14176804,David Underwood,robertmartin@example.org,47,Daily,49,This tool has saved my team so much time.,0
+bbbda215-b464-4013-88d7-f1be2961d5e7,Mary Ortiz,matthew01@example.org,597,Weekly,37,Can I add more seats to my current plan?,0
+b2b1d687-2133-46b0-9a06-0429b934f99c,Yolanda Rush,jacobnelson@example.com,97,Daily,17,Can I add more seats to my current plan?,0
+b0cd1707-4270-4ba7-9464-c1b86ea9286b,Billy Ray,kimberlyrobinson@example.org,74,Daily,57,I need to update my billing address.,1
+d9bdfe0d-720e-4cbb-b836-d1d068c3bedf,Maria Kim,jessicasummers@example.net,607,Weekly,26,I need to update my billing address.,1
+34d1eac0-1f76-4ea4-a59b-a82ca2388edd,Amy Garcia,denisekeller@example.org,920,Daily,20,Can I add more seats to my current plan?,0
+178f73c7-a79a-4459-8631-b9e27e3274e2,Shelley Christensen,tjimenez@example.org,588,Rarely,1,Your API documentation is outdated and full of errors.,1
+33ab11ed-9f50-4197-92d3-25bb7313153e,Katherine Washington,sarahsoto@example.com,991,Rarely,11,I'm very frustrated with the downtime. This is unacceptable.,1
+54c2994e-2779-4f53-83a8-96ea0e0f5ed3,Cristina Todd,mcdowellseth@example.com,1056,Daily,36,I need to update my billing address.,0
+a0334960-03de-416e-89f6-25813bd944fc,Edward Wright,kyle01@example.net,1006,Daily,37,Just checking if my payment went through.,1
+c0398004-897b-4fa3-a303-b7045c80175d,Stephanie Cook,ygreen@example.net,233,Weekly,33,Just checking if my payment went through.,0
+d01412f9-cda5-4c33-95fa-b4c4b7863fca,Nicole Braun,michaelmayer@example.net,753,Daily,59,Just checking if my payment went through.,0
+629ce6eb-439d-497c-a38f-0e94f0a8b912,Kayla Nguyen,todd46@example.net,738,Weekly,8,The app crashes every time I try to upload a CSV.,1
+c95cf20f-9ee0-466e-88c5-531e906feaa4,Emily Adkins,pdavis@example.net,857,Daily,68,"Just upgraded to the Pro plan, excited to use it.",0
+e6930d54-a940-44f6-b4d0-af5174184858,Chelsey Fernandez,mendozakelly@example.com,212,Weekly,33,I need to update my billing address.,0
+51177bd7-7753-4123-b6f4-70aea9f2ecd2,Jennifer Ramos,romeroandrea@example.net,35,Daily,59,Just checking if my payment went through.,0
+a1e42acc-34fe-49db-866b-9d4e5c6ad4c2,Tonya Campbell,markdavis@example.com,251,Daily,36,I need to update my billing address.,0
+ae57df1c-e886-4e78-97b8-db45dd844100,Carl Long,julie77@example.net,571,Weekly,4,I'm very frustrated with the downtime. This is unacceptable.,0
+d4a30053-d626-4b34-adc4-72765920e868,Savannah Sutton,herreradawn@example.net,429,Weekly,5,Your API documentation is outdated and full of errors.,1
+e29e8568-6743-46e5-8818-4b36b9a669f3,Melanie Bradley,john19@example.net,133,Rarely,14,I've been waiting for support for 3 days. I'm cancelling.,1
+e8c2cc02-0183-4b44-b5b1-652478450123,Elizabeth Higgins,hwhite@example.com,524,Weekly,1,Why did my subscription price increase without notice?,1
+0d088a1a-1a8c-47bc-b1e3-2883567c8d57,Robert Lopez,david00@example.net,49,Daily,119,The integration with Slack works perfectly.,0
+247162ce-3d2f-42d6-8137-18cef4c9bca7,Tiffany Kelly,johnsoncasey@example.org,508,Daily,54,Just checking if my payment went through.,0
+be8c5181-2071-426c-8fa9-914887b56150,Stephanie Holland,duncanmark@example.net,994,Daily,50,Just checking if my payment went through.,0
+cd4831fa-dc93-4c2e-8342-f4668c99d6c6,Brittany Patterson,edward37@example.com,366,Daily,59,The integration with Slack works perfectly.,0
+9072713f-561f-4c1b-952b-f2d759535fb8,Helen Morgan,alexisjenkins@example.com,330,Weekly,38,Just checking if my payment went through.,0
+af15cd0d-ea79-4271-9081-036e922ea5f0,Rodney Proctor,wbrown@example.org,470,Rarely,5,Your API documentation is outdated and full of errors.,1
+4218c602-d70e-46e7-9c17-2280d46e79e7,Meghan Gonzalez,jonathan36@example.net,833,Daily,52,"Just upgraded to the Pro plan, excited to use it.",1
+c2c24860-bbc1-459f-9b82-793b0704bdd1,Manuel Eaton,christophermartinez@example.org,798,Daily,52,Is there a tutorial for the new dashboard feature?,1
+3383aeb0-8d25-4b8a-af45-cdf55f243a5f,Dr. Cynthia Knox MD,kedwards@example.com,238,Daily,19,Just checking if my payment went through.,0
+1466024d-73f3-450e-923f-03ceaf2b7055,Amanda Pearson,drakeryan@example.net,766,Daily,28,Can I add more seats to my current plan?,0
+016a1918-9928-49de-9f4a-1588fe2609b7,Michelle Benjamin,harrisnancy@example.com,546,Weekly,37,Is there a tutorial for the new dashboard feature?,0
+1c268f25-b778-47b8-a771-9f7e60da1dea,Michael Perry,hclark@example.com,157,Daily,25,Can I add more seats to my current plan?,0
+4214ecda-8da6-4223-b3a4-8b5088f112d2,Anthony Rhodes,lisamejia@example.com,976,Daily,56,I love the new analytics feature! Great job.,0
+ed3a6729-d740-48c4-a778-fa2c93b249c4,Kevin Bennett,benjaminrosales@example.com,644,Daily,17,How do I change my password?,0
+946a67c0-37d4-40a2-a93f-fce64719ac14,Jason Avila,xcruz@example.org,491,Daily,29,Can I add more seats to my current plan?,0
+2aa6c6ac-29cd-4339-a980-45d54a9e1c01,Jenna Greene,scole@example.net,539,Daily,53,Can I add more seats to my current plan?,0
+e712a971-51f3-4719-98ae-e7c23834811b,David Thomas,david51@example.net,986,Daily,23,Just checking if my payment went through.,1
+59332ee4-3c32-4aa1-9387-cad2cead7a3d,Joel Anderson,brownteresa@example.net,759,Weekly,7,Why did my subscription price increase without notice?,1
+60a5539b-35a0-48b6-b120-73dd9363c902,Kathryn Frazier,cspears@example.com,708,Daily,118,"Just upgraded to the Pro plan, excited to use it.",0
+90176b19-8557-409e-b6db-b3d4eb7d7d11,Lucas Young,ryoung@example.org,1008,Weekly,42,Is there a tutorial for the new dashboard feature?,0
+f3d83220-9c55-4023-8625-ca2683bf61d8,Misty Brooks,janet93@example.net,177,Daily,15,Just checking if my payment went through.,1
+ebbce64b-fad4-48a8-b9d7-d5a7576c3b1e,Heather Robinson,nathanbrooks@example.net,878,Rarely,9,I've been waiting for support for 3 days. I'm cancelling.,0
+1f78d6c3-06a5-48b0-99ed-fd76e7f3aedb,Julia Mullins,suzanne77@example.org,692,Daily,34,Can I add more seats to my current plan?,0
+031d354b-c73a-4ccc-b8a9-380a0807c1de,Joe Cohen,hbarnes@example.com,289,Daily,57,Is there a tutorial for the new dashboard feature?,1
+78629e5c-49f0-4e2c-8f98-4adc3ce61431,Kathryn Taylor,anthonyholmes@example.com,1027,Daily,38,When will the maintenance window end?,0
+e0dcca02-9d28-45b3-ab54-9d5864d52023,Lisa French,perezangela@example.com,462,Weekly,29,Is there a tutorial for the new dashboard feature?,0
+7d6a7d77-310e-45d8-9a87-6d3676b42396,Melissa Thompson,angelajohnson@example.com,393,Daily,104,Customer support was super helpful yesterday. Thanks!,0
+e8dbb0af-ce11-45c6-805c-ead9bc17abcc,Mark Ritter,gibbsmaria@example.com,712,Daily,54,I need to update my billing address.,0
+243476f9-df80-4b34-b378-faf1fea9fd48,Derek Nelson,jenniferwilliams@example.net,261,Weekly,37,I need to update my billing address.,0
+3369a884-5c03-4377-8d1f-dd8bb17b2e61,Jesse Clark,aguirrejames@example.com,856,Daily,76,"Just upgraded to the Pro plan, excited to use it.",0
+1c62576f-9192-4287-ade0-532bb7099d00,Julia Barber,qbarnes@example.com,56,Daily,55,Is there a tutorial for the new dashboard feature?,0
+06697aee-0867-44cc-9ede-52eb35fe3ee2,David Jones,nelsonkaren@example.com,820,Daily,56,Customer support was super helpful yesterday. Thanks!,0
+81d8c662-1f70-4c30-a99f-10e847eb0a6d,Thomas Murphy,alanmendoza@example.org,832,Daily,37,I need to update my billing address.,1
+fd1c3960-573e-4860-bf5f-2e504ddc170f,Arthur Wells,melissa08@example.net,561,Weekly,23,I need to update my billing address.,0
+f9602155-c982-46e3-9f2c-6ff76186d506,Mackenzie Stewart,vhall@example.org,210,Daily,50,Can I add more seats to my current plan?,0
+29cbd288-505d-45d4-bd20-c4f49ebbbc38,Jonathan Jacobson,juliacook@example.org,660,Weekly,33,Is there a tutorial for the new dashboard feature?,0
+a330f5e7-5003-4d9c-b8e7-3703f7868c27,Eric Williams,riggsdavid@example.org,866,Rarely,3,I've been waiting for support for 3 days. I'm cancelling.,0
+d2cc5cad-ade3-4985-a347-ddf38769d2b8,Stacy Parker,huangwilliam@example.com,847,Daily,43,Just checking if my payment went through.,0
+1b9201e7-99e7-461c-be81-b7922a28d277,Brian Miller,amywright@example.com,717,Daily,58,Customer support was super helpful yesterday. Thanks!,0
+47e648ea-010a-4607-bfb2-ce3076e7b72a,Taylor Webster,laura74@example.net,13,Rarely,11,Why did my subscription price increase without notice?,0
+c7fa72f8-2f38-4862-a987-b4edc2f9fb20,Jennifer Santos,ppetersen@example.org,771,Weekly,13,Your API documentation is outdated and full of errors.,0
+9c549f71-926a-4ac0-9093-9a233ec4600e,John Golden,odean@example.org,949,Weekly,7,I've been waiting for support for 3 days. I'm cancelling.,1
+7b5cd43e-ec5c-4c0a-b34c-b84fed1b0324,Micheal Mitchell,barbara72@example.net,45,Daily,26,Can I add more seats to my current plan?,0
+e9bba54d-69dd-4472-ae63-36b1d132907c,Charles Meadows,xtaylor@example.com,31,Weekly,47,How do I change my password?,0
+f602cd5e-d109-4fc2-9896-ebcc00326866,James Roberts,tbranch@example.com,619,Rarely,12,The app crashes every time I try to upload a CSV.,1
+a6d4c105-bfe0-4801-b207-1e259a99c63c,Claire Howe,andrew21@example.com,607,Daily,45,This tool has saved my team so much time.,0
+848a19c6-7332-4526-84e3-e8c339d70689,Dawn Mcclure,emilywolfe@example.org,610,Weekly,42,Just checking if my payment went through.,0
+cfaccb50-70dd-42d7-8a3a-b5a9a1a2e5ef,Rick Price,sarafigueroa@example.com,493,Rarely,11,I'm very frustrated with the downtime. This is unacceptable.,1
+88f02fdd-fb6f-4cb0-890e-cc93075a680e,Brandy Vasquez,hmeyer@example.com,310,Weekly,43,Is there a tutorial for the new dashboard feature?,0
+9391bffb-ce5e-42eb-96d5-06ade40b040b,John Costa,wking@example.com,181,Weekly,36,How do I change my password?,0
+4112be90-c380-4aef-acf8-6f8cf8ae9aeb,Brian Martinez,ohall@example.net,8,Daily,49,When will the maintenance window end?,1
+389a8f24-ff1b-4aaa-838e-4144f0dd764e,Richard Edwards,riveramargaret@example.net,1001,Weekly,5,I've been waiting for support for 3 days. I'm cancelling.,1
+225276bd-3c75-4eee-a102-449e2a69ee49,Audrey Sheppard,joseph42@example.net,124,Weekly,24,Can I add more seats to my current plan?,0
+0770faad-5068-4b61-9438-2a2e3eb0abfb,Cynthia Harrison,osmith@example.net,295,Rarely,9,Why did my subscription price increase without notice?,1
+7040dbe1-3c64-4132-bc4c-064b5aa37f47,Lindsey Thornton,taylorle@example.org,1039,Daily,107,"Smooth experience so far, no complaints.",0
+503fa887-dea2-4a19-979c-aa5afb280088,John Smith,castillosamuel@example.com,357,Weekly,17,When will the maintenance window end?,0
+94df7f41-6d75-41b1-8f86-8ae152380a9a,Wayne Suarez,craigcarolyn@example.com,42,Daily,24,Is there a tutorial for the new dashboard feature?,1
+2168308b-9154-402f-b502-bc2910e31d5f,Stephanie Peters,christina56@example.com,1026,Daily,27,Just checking if my payment went through.,0
+a63357ba-caa9-4ddb-a941-03e3fc844a9a,Cynthia Soto,wrhodes@example.net,234,Weekly,23,Can I add more seats to my current plan?,0
+118e5e5a-ce31-4940-9d33-b8f1ef2edd91,Stephen Warner,paulcombs@example.org,457,Daily,21,Can I add more seats to my current plan?,0
+770b7ca0-12e9-44c6-9b73-810d34dc8141,Brandon Vaughan,robert05@example.com,289,Daily,37,Can I add more seats to my current plan?,0
+ad65b0d8-d706-4572-b96e-272d4566dd87,Lance Simon MD,maryharris@example.com,858,Daily,31,I need to update my billing address.,0
+48acb123-f942-4db4-9796-2a1881d89af3,Ashley Johnson,vcontreras@example.com,691,Daily,26,I need to update my billing address.,0
+e4b26e61-7250-46f5-97fb-3b2fd84f63ef,Joseph King,richardsdarrell@example.org,1069,Weekly,21,I need to update my billing address.,1
+15e3bcb4-f9c8-4169-b9a6-75bd48ca40ea,Sean Sawyer,kevinmoreno@example.net,952,Rarely,9,I'm very frustrated with the downtime. This is unacceptable.,1
+fc80bef4-4403-4b1a-93a6-05429018dd3a,Morgan Rangel,michaelsmith@example.org,801,Daily,77,"Smooth experience so far, no complaints.",0
+c67483a9-271a-413d-89e4-db6914dbf596,Kevin Moore,williamswilliam@example.org,680,Rarely,6,Your API documentation is outdated and full of errors.,1
+0401d05c-827f-4063-9512-f86571e18820,Phillip Mcdonald,scottjeffrey@example.org,480,Daily,83,This tool has saved my team so much time.,0
+ab00ac94-0403-45ee-8ce7-14ec9de7e991,Sydney Rogers,yromero@example.com,362,Daily,84,"Just upgraded to the Pro plan, excited to use it.",0
+1b6aeb80-19b1-4e2c-a645-269c6730c5dc,Jessica Jones,barrettsteven@example.net,640,Daily,57,Just checking if my payment went through.,0
+643de5bd-3bf0-4bc0-a714-773490483489,Steven Smith,victoria16@example.net,170,Weekly,35,When will the maintenance window end?,0
+154e6baf-83d7-401f-bdf3-83b902fb7d7e,Jennifer Miller,thomasdawn@example.org,107,Daily,55,"Smooth experience so far, no complaints.",0
+1b869a35-adb9-4b86-9cca-5a9ed578a44c,Marcia Dickson,hollywade@example.net,839,Weekly,39,Is there a tutorial for the new dashboard feature?,0
+ac9b3fca-e4bb-45f6-a700-8246616ed708,Paul Morris,kendramcdowell@example.com,1007,Rarely,3,Why did my subscription price increase without notice?,1
+7eede3cc-f27e-4252-b12e-d9b6115b9eb8,Amber Lowe,williammiller@example.com,412,Daily,94,The integration with Slack works perfectly.,0
+fac17453-534c-4d66-b9cb-5e1caeca9e0e,Sheila Maxwell,kcox@example.com,795,Weekly,43,When will the maintenance window end?,0
+1994c824-994d-40f3-a628-2c532b61dbd0,Melanie Cline,villamartin@example.org,457,Daily,50,When will the maintenance window end?,0
+e53524d7-9f87-46df-8fbf-4291df985325,Devin Turner,williamsmith@example.com,762,Weekly,31,I need to update my billing address.,0
+b79038fa-2c24-4a31-9514-4460b4d8de5e,Shawna Valdez,dustin58@example.net,894,Daily,38,When will the maintenance window end?,1
+2be0b323-87cf-4dc8-bfa9-48a28c1e3a7e,Angela Rich,qdecker@example.org,865,Daily,29,Is there a tutorial for the new dashboard feature?,1
+6e02414c-71fa-4def-946d-28340b04879c,Ariel Allen,beverlyhudson@example.net,302,Daily,50,When will the maintenance window end?,1
+5a5eb952-0a8b-4505-94ea-0b20b11c86e7,Danielle Taylor,cruzangela@example.net,887,Weekly,20,Can I add more seats to my current plan?,0
+181b3da0-ecd6-4d0a-add8-be2ca2b3d565,Tony Anderson,davidtorres@example.com,762,Rarely,12,Your API documentation is outdated and full of errors.,1
+a3d3fabf-2f31-4b12-8a05-774f311c42b8,Mrs. Christine Kline,joseflores@example.net,173,Weekly,45,Is there a tutorial for the new dashboard feature?,1
+c882f4ff-2580-4a91-8159-1695be59e0da,Richard Tyler,erice@example.org,1072,Weekly,5,I'm very frustrated with the downtime. This is unacceptable.,0
+29d547a7-5d93-46bc-a07c-470adca87cb5,Adam Miller,cortezhenry@example.com,689,Daily,19,When will the maintenance window end?,1
+8202cfe9-9386-4c76-8880-cd8f1865180e,April Brown,bevans@example.net,1049,Daily,33,How do I change my password?,0
+ba6eef7b-4c70-4b57-8e4b-2383cce4193c,Margaret Vega,nsanchez@example.com,250,Weekly,46,Just checking if my payment went through.,0
+adce29e5-8343-43c1-8f96-1af5aa1cd569,Laura Shepherd,berryjeffrey@example.com,811,Weekly,50,I need to update my billing address.,0
+41bfd6d1-12c4-4443-a9d5-bf5a20f5e71e,Nicole Lloyd,dixoneric@example.com,819,Daily,83,I love the new analytics feature! Great job.,0
+52e432c2-d52c-4667-9471-a72fa6d8864f,Scott Allen,mhamilton@example.com,250,Rarely,8,I'm very frustrated with the downtime. This is unacceptable.,1
+622773df-6575-4c4a-a10f-071cea37e060,Rachel Peters,katherinebrown@example.com,423,Daily,37,Can I add more seats to my current plan?,0
+9ef9c227-1864-4dbc-a6dd-d8e5ff5989d8,David Ortiz,tylerjeffrey@example.com,21,Weekly,58,Just checking if my payment went through.,1
+c3882213-bc7e-496e-b9a9-f7304c289840,Susan Walker,smithmatthew@example.net,1084,Daily,24,When will the maintenance window end?,0
+82f3df40-5cf0-4999-854d-870a89a13ff0,John Estes,rodriguezashley@example.com,999,Daily,24,When will the maintenance window end?,0
+bef9b510-baad-43ab-b311-da43f2c0ed39,Brian Griffin,johnnymartinez@example.com,579,Weekly,55,Is there a tutorial for the new dashboard feature?,0
+9780f404-af05-4d70-bcc1-f4a2f7dc578e,Sarah Flores,burtoncharles@example.com,942,Daily,91,"Smooth experience so far, no complaints.",0
+14a85366-0955-4f11-8eca-f6de92dc01c5,Gloria Phillips,higginsedward@example.net,1051,Rarely,12,The app crashes every time I try to upload a CSV.,1
+c06bf9fa-bcf6-49d2-bc9f-923086e6d29f,Donna Cruz,michael11@example.com,723,Daily,15,Can I add more seats to my current plan?,0
+2545909b-d493-4975-88d0-02ba96947319,Julie Yates,riosandrea@example.net,308,Rarely,10,Your API documentation is outdated and full of errors.,1
+dfdc423c-cc23-49dd-85ea-7339db56cf5e,Mary Hayes,gardnerjames@example.net,361,Daily,41,Is there a tutorial for the new dashboard feature?,1
+3cca0860-8c09-400a-ac71-370cf2e6562f,Jonathan Rivera,hilljoseph@example.net,482,Weekly,35,Just checking if my payment went through.,0
+4ae2aef1-fb3a-4b9d-ac9f-803574e6cabd,Heather Gaines,marchatfield@example.org,687,Daily,15,Can I add more seats to my current plan?,0
+e21ce3d4-09a8-45b0-8e66-530d4c4b3b68,Danny Morris,dillon96@example.com,623,Daily,63,"Just upgraded to the Pro plan, excited to use it.",0
+3e4b74c6-bd39-46bd-ab7a-930e64936739,David Jones,jeremygarcia@example.com,1058,Weekly,11,The UI is too confusing. I can't find the export button.,1
+933563df-14e8-4135-a45a-c418e18a2cc7,Alex Johnson,jamiemendoza@example.org,891,Weekly,30,Just checking if my payment went through.,0
+50faf310-9296-49c2-8296-fcb0b32cc89a,Jose Bennett,tthomas@example.net,262,Daily,51,Just checking if my payment went through.,0
+41090716-9deb-4e2e-9060-abf250008eb5,Jesus Stewart,ericbeasley@example.com,1089,Daily,54,I need to update my billing address.,1
+14b9a3c4-f82b-4421-842e-0051696a6130,Heather Greer,george27@example.net,917,Weekly,29,How do I change my password?,0
+d97868d5-b956-4886-bf8e-6b41d9dc2161,Michael Guzman,david19@example.com,172,Weekly,12,Why did my subscription price increase without notice?,1
+04784b2a-a3a0-4179-afd8-1d7ceea07770,Brittany Craig,coleryan@example.com,253,Daily,71,"Smooth experience so far, no complaints.",0
+bf24037f-97b9-445a-932e-6840f5ca5aa0,Brian Holmes,michaelandrew@example.com,1042,Daily,42,Can I add more seats to my current plan?,1
+931f826c-5cba-4cf5-bd0a-567c8baa226d,Carla Hill,jasmine37@example.net,590,Daily,71,Customer support was super helpful yesterday. Thanks!,0
+68a0c12d-95d6-4f71-aec8-ace90be90a5a,Eugene Pittman,qduke@example.net,849,Daily,64,I love the new analytics feature! Great job.,0
+8c9bb1ae-43ff-4480-9321-219c46f33110,Amy Rose,kevin04@example.org,995,Weekly,13,Your API documentation is outdated and full of errors.,1
+19b5e8a0-3798-425b-bb07-0d8e79708bb2,Aaron Marshall,marywhite@example.net,576,Weekly,50,Can I add more seats to my current plan?,1
+54d95fe0-9679-44a2-873c-63745e2207b8,Maurice Fernandez,elizabeth54@example.org,708,Rarely,13,I'm very frustrated with the downtime. This is unacceptable.,0
+59b99135-b28f-470c-bbe9-1d1ffbb7f23c,Michelle Olson,flemingearl@example.com,886,Weekly,38,Is there a tutorial for the new dashboard feature?,0
+d42a6dd7-f31d-4338-bbed-63f621ac4e3d,Wayne Espinoza,cody60@example.net,9,Daily,55,How do I change my password?,0
+48a468a1-c91c-4be8-870d-23d6c0d5b49b,Catherine Moore,bushkirsten@example.net,395,Weekly,31,Can I add more seats to my current plan?,0
+0cd136c8-dfba-4275-9414-c4aad7534e0b,Gabriel Stein,kentedward@example.org,861,Daily,45,Can I add more seats to my current plan?,0
+b3a28d24-7520-465a-9ea1-5d632e4b8ede,Katrina Rich,brandihampton@example.org,263,Daily,89,Customer support was super helpful yesterday. Thanks!,0
+f59dcd19-56e1-4e1f-8bf2-8b5be1be5019,Kenneth Adams,washingtonglen@example.com,837,Weekly,21,Is there a tutorial for the new dashboard feature?,0
+013e6438-c04e-4b53-ad83-7dcbf19b3d75,Samantha Bradley,laura79@example.net,905,Daily,36,I need to update my billing address.,0
+70408537-98bb-49ef-b599-d8b581d4a95b,Brandon Garcia,romeronicole@example.com,1008,Weekly,27,How do I change my password?,0
+6332f1ae-18c6-4031-aad5-ef8d6212281e,Gregory Davis,oscar99@example.net,536,Rarely,1,I'm very frustrated with the downtime. This is unacceptable.,0
+70935943-baae-4eab-93df-867534b04574,James Campbell,veronicasmith@example.net,268,Weekly,2,I'm very frustrated with the downtime. This is unacceptable.,1
+34695107-920e-49e3-b402-33a9dbb98e02,Michael Montes,ricardo20@example.net,315,Weekly,20,Is there a tutorial for the new dashboard feature?,0
+9b02d5d7-5add-455b-9a7e-5ac73eaf5ab8,Timothy May,kingdawn@example.org,698,Weekly,5,Your API documentation is outdated and full of errors.,1
+1d52ec1a-6b20-4e03-9044-19b0bab1ea0d,Andrew Richardson,williamsjoseph@example.org,911,Rarely,13,The UI is too confusing. I can't find the export button.,1
+f35b6e94-e65b-41f3-950b-d8e576ba15ad,John Young,marc01@example.org,504,Daily,45,How do I change my password?,0
+7b4d57a7-1d5b-4a80-b11f-a2abf2606aa1,Pamela Harper,oharper@example.net,793,Daily,24,When will the maintenance window end?,0
+44051812-c502-49f8-be5a-9c63619d504d,Judith Rodriguez,beverly86@example.org,400,Weekly,2,Your API documentation is outdated and full of errors.,0
+d0751661-3bad-42af-9088-3b74f41e9d8a,Rhonda Allen,nlynch@example.com,418,Rarely,2,The UI is too confusing. I can't find the export button.,1
+98b64fcb-ab11-4bbb-8e4c-edfb9e02beb1,Alison Johnson,harrismatthew@example.net,421,Daily,36,How do I change my password?,1
+a9843162-488c-4b52-b441-bc516442a8a9,Joshua Burgess,angela34@example.com,440,Weekly,47,Can I add more seats to my current plan?,0
+5ba727ac-1203-4add-8f0c-5469f8f040b3,Zachary Reed,mcisneros@example.org,1014,Daily,70,"Smooth experience so far, no complaints.",0
+8e8639af-fccc-4acc-8e61-b75d447327e9,Michael Gray,banksmichelle@example.net,828,Daily,15,Can I add more seats to my current plan?,0
+2e5c1842-a6fa-4c6c-bfe5-5b2a89c8aed8,James Cook,brandonbeard@example.com,644,Weekly,3,I'm very frustrated with the downtime. This is unacceptable.,0
+fa2b1b1a-40d8-4919-a58d-9bf14181c68e,Barbara Chavez,thomasarnold@example.net,69,Weekly,55,Just checking if my payment went through.,0
+429a215a-ddc4-482a-b109-294a090046c1,Karen Mills,rojaskristin@example.net,669,Weekly,17,I need to update my billing address.,0
+e13e7d7f-6712-4182-8906-e51b99a0f5c3,Derek Palmer,sheila62@example.net,103,Weekly,8,The app crashes every time I try to upload a CSV.,1
+4360bf44-7eab-437f-bb0b-2f6878cdd302,Sarah Jefferson,nicolegallagher@example.com,902,Daily,16,Is there a tutorial for the new dashboard feature?,1
+d62a10db-1ae3-4111-88b9-327ea2b68f79,Nicole Hicks,cjones@example.com,690,Weekly,54,Just checking if my payment went through.,0
+753bc92d-b4bb-4f74-a876-adec3d8dc250,Kristen Lopez,williamstonya@example.net,851,Daily,71,"Just upgraded to the Pro plan, excited to use it.",1
+e3a6cf3a-b389-47f8-92f9-c96ebc91f900,Richard Williamson,fescobar@example.com,463,Weekly,24,Is there a tutorial for the new dashboard feature?,1
+7656b46d-839a-446c-8545-996ad94a3368,Nathan Taylor,meganday@example.net,559,Daily,28,Is there a tutorial for the new dashboard feature?,0
+d167ccc1-c479-44e2-a61e-50a1e023330e,Sarah West,kayla98@example.net,923,Weekly,29,Is there a tutorial for the new dashboard feature?,0
+44af8e37-79e2-4f82-be42-3552f8fb265c,Susan Brown,xfreeman@example.net,385,Weekly,6,Your API documentation is outdated and full of errors.,1
+1d06867a-4cbe-436e-bdb3-73ca27ae6fe3,Amy Lowe,donnaperkins@example.org,318,Rarely,13,The UI is too confusing. I can't find the export button.,1
+caf4827b-c1a9-4591-b316-8bc36059269b,Jason Conway,danieltorres@example.com,1060,Rarely,14,The app crashes every time I try to upload a CSV.,1
+a3c2d987-8317-4b71-85cf-ffcf695667eb,Joshua Hernandez,alec87@example.com,215,Weekly,28,Just checking if my payment went through.,0
+0eee4e2b-2429-44a2-8936-bf954b4d031a,Jeffrey Eaton,ajackson@example.org,8,Weekly,30,When will the maintenance window end?,1
+454d4791-0778-4060-900b-8e00d737f05a,Deanna Davis,xhansen@example.com,766,Weekly,27,I need to update my billing address.,0
+9efe8116-728f-489a-9552-ff7426ca6431,Robert Ruiz,patrickmeadows@example.com,714,Rarely,9,The UI is too confusing. I can't find the export button.,1
+9ad9c1d0-7374-47f8-9280-3130cc7b32bb,Austin Love,jgutierrez@example.com,319,Daily,15,Is there a tutorial for the new dashboard feature?,0
+5f045765-69ad-40e7-9fd3-28afe2c6cf4e,Gary Petty,karenmunoz@example.org,352,Weekly,27,I need to update my billing address.,0
+d4b5096b-14ba-4028-8d30-162c71f7dffb,Joshua Thompson,paulalane@example.net,427,Rarely,1,I've been waiting for support for 3 days. I'm cancelling.,1
+338fe9e8-c4f9-4401-a371-274835d3c2c0,Alan Wright,christophercole@example.com,466,Weekly,35,How do I change my password?,0
+fecd0a4b-6570-4f50-a86a-e399376c4219,Jennifer Bartlett,kward@example.net,205,Weekly,11,Your API documentation is outdated and full of errors.,1
+36f95465-6306-46ae-b279-2b71113b1934,Diana Gonzalez,powelllisa@example.com,803,Daily,54,This tool has saved my team so much time.,0
+4c9c9344-e43c-469c-880d-1fa965bd48cb,Dennis House,tinamartinez@example.com,983,Weekly,24,Can I add more seats to my current plan?,0
+fd1f9e8a-a263-42c4-8f96-835e30e0dd73,Felicia Myers,cynthia66@example.org,898,Weekly,9,The UI is too confusing. I can't find the export button.,1
+1148cd8b-4dee-4dae-8efd-7e1f0d519360,Julie Smith,michaelwhite@example.org,41,Weekly,4,The app crashes every time I try to upload a CSV.,1
+b24854f9-cba8-4ffc-a9e9-12647c0b2090,Robert Sampson,ruizdeborah@example.com,697,Daily,26,Just checking if my payment went through.,0
+dcfb665c-841b-4134-8293-2772b5b45fb0,Jonathon Ryan,michellevasquez@example.net,679,Weekly,15,I need to update my billing address.,0
+de6317d1-37a4-4d8c-85f2-ae9f197bd82c,Julie Humphrey,andrea57@example.com,821,Daily,15,When will the maintenance window end?,0
+367d78e0-015a-4c33-9c86-c2c6cfc5408f,Allen Cooper,brittanycallahan@example.com,568,Weekly,13,I'm very frustrated with the downtime. This is unacceptable.,1
+7f4ab3b9-c0ed-4994-9a99-9f1a3fcdc288,Michelle Jenkins,perezdavid@example.com,258,Daily,77,The integration with Slack works perfectly.,0
+b2cb5008-ca25-47d1-badf-8f236e31d1af,Donna Thomas,vincentjames@example.com,827,Daily,106,"Just upgraded to the Pro plan, excited to use it.",0
+df5805bd-b53e-45d5-ad2e-3d4c52b2dea0,Dustin Merritt,robinsonpatty@example.org,532,Daily,55,When will the maintenance window end?,0
+4170c9d8-86f3-4522-95b0-2e5aac756ae9,James Flores,belljon@example.net,570,Weekly,19,Is there a tutorial for the new dashboard feature?,0
+8897c084-93c8-46fb-9926-9e46a64699a0,Colin Gilbert,lsmith@example.net,96,Daily,27,Can I add more seats to my current plan?,0
+54f61f27-9c62-41a0-8bca-3f1cf65969e9,John Combs DDS,robert59@example.org,97,Daily,98,Customer support was super helpful yesterday. Thanks!,0
+8ee4b203-00ee-4018-940c-04f5b81d54df,Larry Henry,yferguson@example.com,72,Daily,17,When will the maintenance window end?,0
+0b7cede2-b412-4ac7-8f21-01b27ae2cdd9,Courtney Dominguez,gabrielagoodman@example.org,207,Rarely,4,The UI is too confusing. I can't find the export button.,1
+85ba2008-ade5-4d0e-8f94-e38f06479f9b,Michelle Cruz,hurstsarah@example.org,455,Daily,60,The integration with Slack works perfectly.,0
+3b45cd52-ff82-4044-b07f-c6f29281b3a8,Taylor Fowler,ihill@example.org,688,Weekly,46,Is there a tutorial for the new dashboard feature?,0
+b977af3e-e479-4617-ac0b-88187eaf548a,Raymond Moore,monteschristine@example.net,19,Weekly,47,How do I change my password?,1
+c7ea3a8c-92a7-48ce-9084-191367467a7e,Andrea Arias,baileyjohn@example.net,492,Weekly,2,I'm very frustrated with the downtime. This is unacceptable.,1
+86172569-9107-4abb-90b7-5a22d94f91d9,William Kaufman,pmorales@example.org,457,Weekly,22,I need to update my billing address.,0
+fcf76ccc-2c92-4449-9f29-0a62528d82be,George Miller,middletonjason@example.org,929,Daily,61,"Smooth experience so far, no complaints.",0
+204b2736-4e6c-47b2-b8e9-d90fc4f1f6d4,Mathew Erickson,qanderson@example.org,127,Daily,46,When will the maintenance window end?,0
+7e307aae-8046-4514-a182-50ca4ea696c5,Paula Williams,jacksonlarry@example.net,552,Daily,87,"Just upgraded to the Pro plan, excited to use it.",0
+ff8c6fe5-278b-4f15-8dea-50545e3c3c39,Kimberly Suarez,rkane@example.net,733,Weekly,24,I need to update my billing address.,1
+4ca2e81b-1151-4321-afec-cf037cd4614d,Veronica Zamora,emartin@example.org,576,Daily,26,I need to update my billing address.,0
+0214ab85-681c-4f7d-af0d-c9aa66760379,Mrs. Leah Moore,emorrison@example.net,477,Daily,89,The integration with Slack works perfectly.,0
+48b52f15-ea24-45d4-9ca7-01b6f1c87d89,Maurice Evans,benjamin68@example.net,442,Rarely,9,The app crashes every time I try to upload a CSV.,1
+3bb8ca52-7c9e-4c45-9b8d-5531daed289e,Joshua Murphy,rgarcia@example.org,579,Daily,52,The integration with Slack works perfectly.,0
+821d666c-58b5-4ce7-809b-ac8b345e97d2,Kelly Scott,katherinemcguire@example.com,865,Daily,42,When will the maintenance window end?,0
+832b2b52-6547-4a21-8ba1-5938836896c2,Mr. David Stout,gwest@example.org,649,Daily,82,The integration with Slack works perfectly.,0
+500c85a7-86d8-4eba-9025-43f086315413,Stephanie Smith,bethanykelley@example.net,18,Daily,60,This tool has saved my team so much time.,0
+a7be8913-abe2-421b-ab59-c10350b3c9ce,Amy Kane,karensalazar@example.org,598,Weekly,52,Is there a tutorial for the new dashboard feature?,0
+244ac984-22e6-4094-be76-7276ee4e9b03,Michael Giles DVM,robert41@example.com,285,Weekly,37,Just checking if my payment went through.,0
+aa61443f-9534-41d7-b196-c491d7f48575,Melissa Martin,shepherdtaylor@example.org,1052,Rarely,9,Your API documentation is outdated and full of errors.,1
+c122e05e-2760-4e0b-a42a-0e11f68e9c45,Ashley Fuller,xwolfe@example.net,539,Rarely,2,The UI is too confusing. I can't find the export button.,1
+125b4bdd-74aa-496f-86f5-8ad62f3cfedb,Melissa Smith,jamesdarlene@example.net,179,Weekly,54,I need to update my billing address.,0
+99698678-9b95-4150-b797-beb3d168f033,Alexander Serrano,jessicasanchez@example.net,213,Weekly,33,Can I add more seats to my current plan?,0
+14ba4085-3c92-45a8-8a4a-1e92ad2c16f9,Patrick Nash,perkinsadam@example.net,305,Rarely,12,The app crashes every time I try to upload a CSV.,1
+e96a63db-ca8f-4bd1-b425-e648b2b8c1ac,Sarah Washington,loriblack@example.net,13,Weekly,34,I need to update my billing address.,0
+1382dd85-2857-49f4-93ea-2c8c19788d97,Tammy Smith,brandon07@example.net,628,Weekly,6,I'm very frustrated with the downtime. This is unacceptable.,1
+89f00b73-80a6-4d69-bb40-808d1f740cad,Michelle Fisher,rwagner@example.org,680,Weekly,56,Can I add more seats to my current plan?,0
+f545b3fe-9ed9-445d-bf00-e9bff7f1463b,Edward Bennett,jesus65@example.net,116,Rarely,13,Your API documentation is outdated and full of errors.,1
+5cff158e-2f99-4f05-9ca0-d1c337ed5b24,Peter Cook,rachel87@example.com,63,Daily,47,When will the maintenance window end?,0
+55060136-af1c-4f75-9d76-6cc09e776c1a,Mackenzie George,carolhogan@example.org,25,Daily,52,I need to update my billing address.,1
+b124eb5f-98a0-4a73-a6c7-3236c6e05dcf,Roger Underwood,emilyunderwood@example.org,478,Weekly,5,Your API documentation is outdated and full of errors.,1
+3e3a8fa9-1348-4570-9953-8d597c117a86,Hunter Williamson,eric49@example.net,895,Daily,114,This tool has saved my team so much time.,0
+df6e3b15-c777-4cbc-a640-12e0bb99d972,Christopher Rosario,catherinereyes@example.com,621,Daily,22,How do I change my password?,1
+ca3c77fc-e252-4ea9-86b1-ef77b0a903ee,Joyce Baker,jonathanelliott@example.com,24,Weekly,46,Is there a tutorial for the new dashboard feature?,0
+b6eda50f-ea49-4699-805e-aaf515486bc6,Dr. Dennis White,chaserobin@example.net,118,Weekly,38,How do I change my password?,1
+8b872c28-feb1-469e-a4ff-98f567b286ac,Gregory Mueller,susanmason@example.com,657,Daily,44,When will the maintenance window end?,0
+819b5f88-ca09-41f9-8312-10d2fc735962,Austin Ramirez,oconnellcrystal@example.net,16,Daily,19,I need to update my billing address.,0
+6469324d-e210-4093-a457-030afe16135a,Darren Walsh,molly55@example.org,944,Weekly,55,Can I add more seats to my current plan?,1
+941eb382-a892-4f3d-a860-9ea95d66c3b1,Drew Taylor,anthonydowns@example.com,842,Weekly,20,Can I add more seats to my current plan?,0
+ac53d453-659d-4761-8a73-8fea7075e7c4,Chris Durham,sperez@example.com,39,Daily,47,This tool has saved my team so much time.,0
+7f879793-f1ee-448d-9e8f-c8367c11450c,Tyler Brandt,calvin11@example.net,192,Daily,49,The integration with Slack works perfectly.,0
+d5fc6b5b-4775-447a-b49b-721d107c2581,James Taylor,tabitha36@example.com,608,Weekly,8,The app crashes every time I try to upload a CSV.,1
+02e1e4b2-45f4-48d0-862b-518263a4f27f,Tara Anderson,jessemccullough@example.org,38,Daily,20,Just checking if my payment went through.,0
+3f17364b-591b-43cd-864e-5875b1c096f6,Laura Gibson,angela69@example.com,527,Daily,54,Can I add more seats to my current plan?,0
+52c4ada2-1767-4de0-b3f4-4e091202f9ea,David Mckee MD,qsilva@example.net,16,Weekly,11,Why did my subscription price increase without notice?,1
+95bf7f0d-0cf4-4b2d-a68d-dc59760ce447,Adam Thomas MD,josephherrera@example.net,1032,Daily,36,Just checking if my payment went through.,0
+fa0833c0-cb3c-4d4a-b708-bfbe9ccc51b4,Sydney Serrano,amandathomas@example.org,1038,Weekly,36,When will the maintenance window end?,1
+c005de62-773d-49c6-9381-82420e015505,Patrick Arroyo,kylejames@example.net,380,Daily,110,Customer support was super helpful yesterday. Thanks!,0
+b00461b7-cae5-4eee-8431-270057024493,Thomas Hartman,nicholsrichard@example.net,525,Daily,36,When will the maintenance window end?,0
+8987389f-5238-4d53-8c26-0d4c6992a175,Christopher Pittman,william02@example.net,811,Daily,40,Can I add more seats to my current plan?,0
+b4c2904b-e80c-40e8-a3cf-9b03d2f00e4a,Charles Grant,elizabeth20@example.net,314,Rarely,2,The app crashes every time I try to upload a CSV.,1
+c8190a49-1ef9-4bd7-87c0-44d2504fbfa8,Katherine Bolton,hollysmith@example.org,1007,Weekly,33,Just checking if my payment went through.,0
+ef96e574-d80d-4c17-b38b-3c5f72b9e5c6,Stephanie Smith,phillipcox@example.net,324,Daily,48,When will the maintenance window end?,0
+758d8e97-3015-4ba1-9cb0-0fc4ed032e9e,Daniel Brown,eproctor@example.com,518,Daily,39,Can I add more seats to my current plan?,0
+0ab745b1-c477-4a6c-a43f-040c3f0e2bc6,Evan Allen,nathanpatton@example.com,505,Weekly,58,I need to update my billing address.,0
+8cc545e2-26ef-4d69-a652-53397e23189d,Dustin Williams,williamschristina@example.org,134,Rarely,5,The app crashes every time I try to upload a CSV.,0
+545a2b58-507b-4895-9058-ab77bbdbe67a,Mark Walker,lphillips@example.com,184,Rarely,5,I'm very frustrated with the downtime. This is unacceptable.,1
+a8159099-fe07-4b66-a980-db126a5906f3,Willie Rogers,mmarquez@example.org,441,Rarely,6,Your API documentation is outdated and full of errors.,1
+6a541d63-12b2-4288-96c1-c943458cb903,David Collins,emily45@example.com,267,Daily,72,The integration with Slack works perfectly.,0
+e82e9a34-bc75-4ca9-b3f9-4d909d877658,Heidi Hernandez,lfranklin@example.org,343,Weekly,42,I need to update my billing address.,0
+b07a3760-1e8b-4df6-8121-f361497b9610,Amy Huffman,garzawilliam@example.org,655,Weekly,3,Your API documentation is outdated and full of errors.,0
+80f2a438-189b-4e9a-9f00-5c4e688acc57,Dawn Lewis,jgriffin@example.com,986,Weekly,12,Your API documentation is outdated and full of errors.,1
+93ef13dd-94a8-4a30-83f6-2560a0bbd895,Kelsey Duarte,lindsaymartinez@example.com,26,Weekly,10,I've been waiting for support for 3 days. I'm cancelling.,1
+1e620e08-a235-40f4-8243-eb1033cb53bf,Marissa Gray,saundersheidi@example.net,741,Weekly,41,Just checking if my payment went through.,0
+c88d1d7f-8316-4eae-82db-de764fca8d6f,Charles Lindsey,dickersonrobert@example.net,1009,Daily,41,I need to update my billing address.,0
+22a53db1-bcbe-4265-a0e0-de8b2be68249,Jeffrey Clark,gwilliams@example.com,301,Weekly,5,The app crashes every time I try to upload a CSV.,0
+12d9c69d-5244-44bb-8ecb-87fa26c3f743,Joseph Russell,shane27@example.org,559,Daily,23,Can I add more seats to my current plan?,0
+3d4ea4c5-4ee2-4a9e-ab53-7dab63f8cc87,Charles Smith,fergusonbrandi@example.net,537,Weekly,11,I'm very frustrated with the downtime. This is unacceptable.,1
+1fae1d6a-a647-4168-8123-a247444553ca,Michael Dalton,andrewwilliams@example.org,753,Weekly,46,Can I add more seats to my current plan?,0
+695477b1-bbc1-427c-adc2-0409e679ffaf,Patricia Preston,nwilliams@example.com,35,Daily,109,"Just upgraded to the Pro plan, excited to use it.",1
+2bcf2c79-fb74-4813-818e-693b3a8594cb,Stephanie Bryant,vcrosby@example.org,715,Weekly,1,I've been waiting for support for 3 days. I'm cancelling.,1
+7ba156a9-0478-4c8c-8a72-25d96f329d16,Emily Ford,mcguirejoel@example.net,323,Rarely,14,Why did my subscription price increase without notice?,1
+25bea0d8-834c-4b6c-8fb8-f6b66d2e441a,Jerry Stewart,bradleykrause@example.org,80,Daily,49,Can I add more seats to my current plan?,0
+124e345e-9406-4347-8e3e-27f352a4af95,Jodi Nelson,qvillarreal@example.net,958,Daily,39,When will the maintenance window end?,0

@@ -1,0 +1,41 @@
+account_id,account_name,account_alias,sector,arr,segment,renewal_date,owner,region
+ACC-0001,Acme Corporation,AcmeCorporation,technolgy,25000,Commercial,2026-06-23,Daniell Hammack,EMEA
+ACC-0002,Betasoloin,Betasoloin Inc,medical,25000,Commercial,2026-07-03,Carl Lin,NA
+ACC-0003,Betatech,Betatech Ltd,medical,25000,Commercial,2026-07-01,Rosie Papadopoulos,EMEA
+ACC-0004,Bioholding,bioholding,medical,25000,Commercial,2026-09-19,Carl Lin,LATAM
+ACC-0005,Bioplex,Bioplex,medical,25000,Commercial,2026-07-25,Anna Snelling,EMEA
+ACC-0006,Blackzim,Blackzim,retail,25000,Commercial,2026-07-09,Rosie Papadopoulos,APAC
+ACC-0007,Bluth Company,Bluth Company Inc,technolgy,25000,Commercial,2026-07-02,Natalya Ivanova,APAC
+ACC-0008,Bubba Gump,Bubba Gump Ltd,software,25000,Commercial,2026-09-21,James Ascencio,NA
+ACC-0009,Cancity,cancity,retail,25000,Commercial,2026-07-27,Vicki Laflamme,EMEA
+ACC-0010,Cheers,Cheers,entertainment,25000,Commercial,2026-07-19,Cassey Cress,NA
+ACC-0011,Codehow,Codehow,software,25000,Commercial,2026-08-07,Daniell Hammack,LATAM
+ACC-0012,Condax,Condax Inc,medical,25000,Commercial,2026-08-04,Rosie Papadopoulos,APAC
+ACC-0013,Conecom,Conecom Ltd,technolgy,25000,Commercial,2026-07-11,Carl Lin,EMEA
+ACC-0014,Dalttechnology,dalttechnology,software,25000,Commercial,2026-07-24,Garret Kinder,APAC
+ACC-0015,dambase,dambase,marketing,25000,Commercial,2026-06-24,Reed Clapper,LATAM
+ACC-0016,Domzoom,Domzoom,entertainment,25000,Commercial,2026-10-14,Reed Clapper,EMEA
+ACC-0017,Doncon,Doncon Inc,technolgy,25000,Commercial,2026-10-15,James Ascencio,EMEA
+ACC-0018,Donquadtech,Donquadtech Ltd,technolgy,25000,Commercial,2026-09-23,Carl Lin,APAC
+ACC-0019,Dontechi,dontechi,software,25000,Commercial,2026-08-10,Vicki Laflamme,EMEA
+ACC-0020,Donware,Donware,marketing,25000,Commercial,2026-07-01,Lajuana Vencill,NA
+ACC-0021,Fasehatice,Fasehatice,retail,25000,Commercial,2026-09-29,Elease Gluck,NA
+ACC-0022,Faxquote,Faxquote Inc,telecommunications,25000,Commercial,2026-08-18,Maureen Marcano,APAC
+ACC-0023,Finhigh,Finhigh Ltd,finance,25000,Commercial,2026-07-04,Carl Lin,APAC
+ACC-0024,Finjob,finjob,employment,25000,Commercial,2026-08-14,Mei-Mei Johns,LATAM
+ACC-0025,Funholding,Funholding,finance,25000,Commercial,2026-10-10,Elizabeth Anderson,EMEA
+ACC-0026,Ganjaflex,Ganjaflex,retail,25000,Commercial,2026-07-28,Zane Levy,EMEA
+ACC-0027,Gekko & Co,Gekko & Co Inc,retail,25000,Commercial,2026-07-10,Carl Lin,NA
+ACC-0028,Genco Pura Olive Oil Company,Genco Pura Olive Oil Company Ltd,retail,25000,Commercial,2026-07-04,Vicki Laflamme,APAC
+ACC-0029,Globex Corporation,globex corporation,technolgy,25000,Commercial,2026-10-10,Jonathan Berthelot,NA
+ACC-0030,Gogozoom,Gogozoom,telecommunications,25000,Commercial,2026-09-25,Carl Lin,EMEA
+ACC-0031,Golddex,Golddex,finance,25000,Commercial,2026-08-29,Mei-Mei Johns,APAC
+ACC-0032,Goodsilron,Goodsilron Inc,marketing,25000,Commercial,2026-10-16,Carl Lin,EMEA
+ACC-0033,Green-Plus,Green-Plus Ltd,services,25000,Commercial,2026-09-13,Vicki Laflamme,LATAM
+ACC-0034,Groovestreet,groovestreet,retail,25000,Commercial,2026-07-18,Moses Frase,APAC
+ACC-0035,Hatfan,Hatfan,services,25000,Commercial,2026-07-19,Garret Kinder,NA
+ACC-0036,Hottechi,Hottechi,technolgy,25000,Commercial,2026-06-27,Garret Kinder,NA
+ACC-0037,Initech,Initech Inc,telecommunications,25000,Commercial,2026-06-29,Zane Levy,EMEA
+ACC-0038,Inity,Inity Ltd,marketing,25000,Commercial,2026-07-17,Carl Lin,EMEA
+ACC-0039,Isdom,isdom,medical,25000,Commercial,2026-08-19,Markita Hansen,EMEA
+ACC-0040,Iselectrics,Iselectrics,technolgy,25000,Commercial,2026-08-14,Natalya Ivanova,LATAM

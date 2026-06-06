@@ -1,0 +1,26 @@
+[
+  {
+    "file": "demo_materials\\m_agents_rehearsal\\customer_support_tickets\\raw\\customer_support_tickets.csv",
+    "rows": 8469,
+    "columns": [
+      "Ticket ID",
+      "Customer Name",
+      "Customer Email",
+      "Customer Age",
+      "Customer Gender",
+      "Product Purchased",
+      "Date of Purchase",
+      "Ticket Type",
+      "Ticket Subject",
+      "Ticket Description",
+      "Ticket Status",
+      "Resolution",
+      "Ticket Priority",
+      "Ticket Channel",
+      "First Response Time",
+      "Time to Resolution",
+      "Customer Satisfaction Rating"
+    ],
+    "encoding": "utf-8-sig"
+  }
+]
